@@ -1,0 +1,1 @@
+# Stellaris-Thai-Translation-MOD
