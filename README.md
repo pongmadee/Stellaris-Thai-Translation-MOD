@@ -6,6 +6,6 @@
 
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 3.3.x "Libra" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 3.4.x "Cepheus" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
