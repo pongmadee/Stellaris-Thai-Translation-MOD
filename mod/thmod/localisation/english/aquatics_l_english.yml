@@ -202,7 +202,7 @@
  job_angler_plural:0 "นักตกปลา"
  job_angler_desc:0 "Hook and line are things of the past, but sustainably growing and hauling food out of nature takes equal patience, much planning, and great care."
  mod_job_angler_add:0 "Angler Jobs"
- job_farmers_and_anglers:0 "$job_farmer_plural$ and £job_angler£ $job_angler_plural$"
+ job_farmers_and_anglers:0 "$job_farmer_plural$ และ £job_angler£ $job_angler_plural$"
  job_farmer_and_angler:0 "$job_farmer$ and £job_angler£ $job_angler$"
  job_pearl_diver:0 "Pearl Diver"
  job_pearl_diver_plural:0 "Pearl Divers"

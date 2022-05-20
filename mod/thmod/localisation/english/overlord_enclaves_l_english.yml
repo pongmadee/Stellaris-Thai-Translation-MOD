@@ -33,6 +33,7 @@
  enclave.2.tooltip.dd:0 "Mercenary capacity available"
  enclave.2.tooltip.e:1 "System requires an asteroid or a moon"
  enclave.2.tooltip.ee:1 "System has an asteroid or a moon"
+ enclave.2.tooltip.f: "We must be the owner of this fleet"
  enclave.2.a.tooltip:0 "A Mercenary Enclave is founded."
  enclave.23.desc:0 "Thanks for founding us! TODO_CD"
  enclave.25:0 "Mercenary Enclave Destroyed"

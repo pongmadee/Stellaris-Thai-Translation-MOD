@@ -409,7 +409,7 @@
  deficit_approach_invest_in_crystal_producers:0 "Invest in Crystal Production"
  deficit_approach_invest_in_gas_producers:0 "Invest in Gas Production"
  deficit_approach_cut_science_investment:0 "Cut Scientific Investment"
- deficit_approach_cut_investment:0 "Cut Mineral Investments"
+ deficit_approach_cut_investment:1 "Cut Investments"
  deficit_approach_cut_maintenance:1 "Cut Habitats' Maintenance"
  deficit_approach_invest_in_alloys_production:0 "Invest in our [Owner.GetAlloyProducerPlural]"
  deficit_approach_invest_in_farmers:0 "Invest in [Owner.GetFarmerPlural]"
