@@ -196,7 +196,7 @@
  HAS_NOT_NUM_OWNED_ACTIVE_GATEWAYS:0 "Number of active Gateways owned by the Empire is NOT $COMPARATOR$ $NUM|Y$"
  HAS_NUM_OWNED_ACTIVE_GATEWAYS:0 "Number of active Gateways owned by the Empire is $COMPARATOR$ $NUM|Y$"
  gateway_0_MEGASTRUCTURE_DETAILS:2 "A portal through subspace that allows instantaneous travel to other §YGateways§!."
- gateway_0:0 "Gateway Site"
+ gateway_0:0 "เกตเวย์ (ที่ตั้ง)"
  gateway_0_DESC:0 "The initial site will serve as the base for the construction of a future Gateway."
  gateway_final:0 "เกตเวย์"
  gateway_final_DESC:0 "A conduit through the very fabric of subspace that enables rapid travel to other Gateways."
