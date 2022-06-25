@@ -2582,6 +2582,8 @@
  starbase_colossal_yards_trigger:0 "£trigger_no£  ฐานอวกาศจำเป็นต้องมี §Y$sm_colossus_yards$§!"
  origin_separatists:0 "Separatists"
  origin_separatists_desc:0 "This civilization came into being when it rebelled and seceded from another empire."
+ origin_liberated:0 "Liberated"
+ origin_liberated_desc:0 "This civilization came into being after being liberated from another empire."
  origin_khan_successor:0 "Khanate Successor"
  origin_khan_successor_desc:0 "This civilization arose out of the ashes of the Great Khan's mighty empire."
  has_claimed_all_systems:0 "£trigger_no£  เราไม่สามารถใช้ เป้าหมายสงคราม นี้ได้เมื่อเราอ้างสิทธิ์ในระบบที่พวกเขามีอยู่ทั้งหมด เนื่องจากชัยชนะจะส่งผลให้เกิดการผนวกเข้าด้วยกัน"
