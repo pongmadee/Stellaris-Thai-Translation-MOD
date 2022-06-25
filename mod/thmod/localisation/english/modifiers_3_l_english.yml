@@ -115,6 +115,8 @@
  snake_infestation_desc:0 "Snakes! Snakes everywhere! We're too busy dealing with them to do... other things."
  energy_poor:0 "Depleted Energy"
  energy_poor_desc:0 "Don't want to alarm you, but snakes are coiled around the generators and draining power."
+ mining_equipment_offline:0 "$d_abandoned_mining_tunnels$"
+ mining_equipment_offline_desc:0 "$snake_infestation_desc$"
  ship_survey_boost:0 "Enhanced Survey Scanner"
  alien_racing_ship:0 "Science Ship"
  alien_racing_ship_plural:0 "Science Ships"
