@@ -23,7 +23,7 @@ guiTypes = {
 		
 		containerWindowType = {
 			name = "black_background_box_01"
-			size = { width = 595 height = 640 }
+			size = { width = 595 height = 670 }
 			position = { x = 5 y = 5 }
 			
 			background = {
@@ -82,7 +82,7 @@ guiTypes = {
 			
 			gridBoxType = {
 				name = "grid"
-				slotSize = { width = 290 height = 190 }
+				slotSize = { width = 290 height = 201 }
 				max_slots_horizontal = 1
 				format = UPPER_LEFT
 			}
@@ -91,19 +91,19 @@ guiTypes = {
 		buttonType = {
 			name = "researched"
 			quadTextureSprite = "GFX_button_116_24"
-			position = { x = -220 y = -5 }
+			position = { x = -203 y = 30 }
 			orientation = upper_right
 			font = "cg_16b"
 			text = "RESEARCHED"
 			shortcut = "v"
 			pdx_tooltip = "RESEARCHED_TECHS"
-		}						
-		
+		}
+
 		# Mod button
 		buttonType = {
 			name = "tech_tree"
 			spriteType = "GFX_button_116_24"
-			position = { x = -220 y = 23 }
+			position = { x = -203 y = 0 }
 			orientation = upper_right
 			font = "cg_16b"
 			text = "TECH_TREE"
@@ -129,7 +129,7 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "reserached_tech_bg_box"
-				size = { width = 490 height = 631 }
+				size = { width = 490 height = 661 }
 				position = { x = 0 y = 0 }
 				
 					background = {
@@ -189,7 +189,7 @@ guiTypes = {
 			smoothListBoxType = {
 				name = "list"
 				position = { x = 2 y= 135 }
-				size = { x = 472 y = 490 }
+				size = { x = 472 y = 518 }
 				scrollbartype = "standardlistbox_slider"
 			}
 
@@ -201,27 +201,18 @@ guiTypes = {
 				position = { x = 0 y = 118 }
 				alwaysTransparent = yes
 			}
-
-			buttonType={
-				name = "fade_bottom"
-				spriteType = "GFX_faded_border_bottom_tech"
-				#orientation = upper_left
-				size = { x = 472 y = 8 }
-				position = { x = 5 y = 618 }
-				alwaysTransparent = yes
-			}
 		}
 
 		containerWindowType = {
 			name = "researched_window"
-			size = { width=455 height=610 }
+			size = { width=455 height=640 }
 			position = { x = 604 y = 14 }
 			orientation = upper_left
 			moveable = no
 	
 			containerWindowType = {
 				name = "reserached_tech_bg_box"
-				size = { width = 490 height = 591 }
+				size = { width = 490 height = 621 }
 				position = { x = 0 y = 0 }
 				
 				background = {
@@ -279,7 +270,7 @@ guiTypes = {
 				position = { x = 10 y = 60 }
 				orientation = "UPPER_LEFT"
 				priority = 100
-				size = { x = 460 y = 510 }
+				size = { x = 460 y = 550 }
 				borderSize = { x=0 y=0 }
 				scrollbartype = "standardlistbox_slider"
 				spacing = 15
@@ -454,7 +445,7 @@ guiTypes = {
 		buttonType = {
 			name = "auto_research"
 			quadTextureSprite = "GFX_button_automate"
-			position = { x = -59 y = -44 }
+			position = { x = -57 y = -34 }
 			orientation = "LOWER_RIGHT"
 			scale = 1
 			oversound = "no_sound"
@@ -463,7 +454,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "leader_window"
-			size = { width = 114 height = 154 }
+			size = { width = 114 height = 165 }
 			position = { x = 10 y = 12 }
 			clipping = yes
 			
@@ -471,14 +462,14 @@ guiTypes = {
 				name = "type_bg"
 				quadTextureSprite = "GFX_leader_bg_scientist"
 				position = { x = 0 y = 0 }
-				scale = 0.4
+				scale = 0.44
 				oversound = no_sound
 			}			
 			
 			iconType = {
 				name = "portrait"
 				quadTextureSprite = "GFX_portrait_character"
-				position = { x = -95 y = -35 }
+				position = { x = -95 y = -24 }
 				scale = 0.5
 				alwaysTransparent = yes
 			}
@@ -486,14 +477,14 @@ guiTypes = {
 			iconType = {
 				name ="leader_skill"
 				spriteType = "GFX_leader_skill"
-				position = { x= 0 y = 130 }
+				position = { x= 0 y = 141 }
 			}				
 		}
 		
 		buttonType = {
 			name = "portrait_frame"
 			position = { x = 4 y = 6 }
-			size = { x = 126 y = 165 }
+			size = { x = 126 y = 176 }
 			spriteType = "GFX_empty_green_frame"	
 			alwaystransparent = yes
 		}		
@@ -507,12 +498,12 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "no_leader"
-			size = { width = 98 height = 114 }
-			position = { x = 18 y = 30 }
+			size = { width = 115 height = 165 }
+			position = { x = 9 y = 11 }
 			
 			background = {
 				name = "background"
-				spriteType = "GFX_tiles_dark_area_cut_8"
+				spriteType = "GFX_invisible"
 				position = { x = 0 y =0 }
 			}
 			
@@ -520,9 +511,9 @@ guiTypes = {
 				name = "desc"
 				font = "cg_16b"
 				text = "TECHNOLOGY_NO_LEADER_ASSIGN_DESC"
-				position = { x = -40 y = 20 }
-				maxWidth = 80
-				maxHeight = 80
+				position = { x = -39 y = 59 }
+				maxWidth = 79
+				maxHeight = 79
 				format = centre
 				orientation = "CENTER_UP"
 			}
@@ -573,7 +564,7 @@ guiTypes = {
 			iconType = {
 				name = "icon"
 				spriteType = "GFX_technology_unknown"
-				position = { x = 134 y = 109 }
+				position = { x = 134 y = 120 }
 				orientation = "UPPER_LEFT"
 				alwaystransparent = yes
 			}
@@ -581,7 +572,7 @@ guiTypes = {
 			containerWindowType = {
 				name = "icon_frame_box"
 				size = { width = 54 height = 54 }
-				position = { x = 133 y = 108 }
+				position = { x = 133 y = 119 }
 				
 					background = {
 						name = "icon_frame"
@@ -601,7 +592,7 @@ guiTypes = {
 			iconType = {
 				name ="category_icon"
 				spriteType = "GFX_traits"
-				position = { x= 542 y = 110 }
+				position = { x= 548 y = 110 }
 				scale = 1.0
 			}
 
@@ -624,14 +615,14 @@ guiTypes = {
 				iconType = {
 					name = "progress"
 					spriteType = "GFX_tech_research_progressbar"
-					position = { x = 10 y = 163 }
+					position = { x = 9 y = 174 }
 				}
 
 				instantTextBoxType={
 					name = "eta"
 					font = "cg_16b"
 					text = "? days remaining"
-					position = { x = -330 y = -36 }
+					position = { x = -330 y = -25 }
 					maxWidth = 180
 					maxHeight = 20
 					fixedSize = yes
@@ -687,7 +678,7 @@ guiTypes = {
 			buttonType = {
 				name = "cancel_research"
 				quadTextureSprite = "GFX_button_update"
-				position = { x = -94 y = -44 }
+				position = { x = -97 y = -34 }
 				orientation = "LOWER_RIGHT"
 				scale = 1.0
 				clicksound = back_click
@@ -697,7 +688,7 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "technology_view_tech_entry_window"
-		size = { width=550 height=109 }
+		size = { width=550 height=120 }
 
 		buttonType = {
 			name = "select"
@@ -723,14 +714,14 @@ guiTypes = {
 		iconType = {
 			name = "icon"
 			spriteType = "GFX_technology_unknown"
-			position = { x = 17 y = 41 }
+			position = { x = 17 y = 52 }
 			alwaystransparent = yes
 		}
 
 		containerWindowType = {
 			name = "icon_frame_box"
 			size = { width = 54 height = 54 }
-			position = { x = 16 y = 40 }
+			position = { x = 16 y = 51 }
 			
 			background = {
 				name = "icon_frame"
@@ -742,13 +733,13 @@ guiTypes = {
 		iconType = {
 			name ="category_icon"
 			spriteType = "GFX_traits"
-			position = { x= 424 y = 40 }
+			position = { x= 432 y = 40 }
 		}
 		
 		iconType = {
 			name ="gateway_icon"
 			spriteType = "GFX_tech_gateway"
-			position = { x= 426 y = 70 }
+			position = { x= 434 y = 70 }
 		}
 
 		instantTextBoxType={
@@ -795,7 +786,7 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "technology_view_tech_researched_entry_window"
-		size = { width=420 height=90 }
+		size = { width=420 height=100 }
 		position = { x = 0 y = 0 }
 		orientation = upper_left
 		moveable = no
@@ -812,14 +803,14 @@ guiTypes = {
 		iconType = { #technology art
 			name = "icon"
 			spriteType = "GFX_technology_unknown"
-			position = { x = 8 y = 33 }
+			position = { x = 8 y = 45 }
 			orientation = "UPPER_LEFT"
 		}
 		
 		containerWindowType = { #technology art frame
 			name = "icon_frame_box22"
 			size = { width = 54 height = 54 }
-			position = { x = 7 y = 32 }
+			position = { x = 7 y = 44 }
 			
 				background = {
 					name = "icon_frame22"
@@ -830,7 +821,7 @@ guiTypes = {
 		iconType = {
 			name ="category_icon"
 			spriteType = "GFX_traits"
-			position = { x= 416 y = 34 }
+			position = { x= 422 y = 34 }
 			scale = 1.0
 		}
 
@@ -849,7 +840,7 @@ guiTypes = {
 			name = "cost"
 			font = "cg_16b"
 			text = "240"
-			position = { x = 350 y = 5 }
+			position = { x = 350 y = 6 }
 			maxWidth = 100
 			maxHeight = 20
 			fixedSize = yes
@@ -963,7 +954,7 @@ guiTypes = {
 		iconType = {
 			name = "single_component_icon"
 			spriteType = "GFX_component_slot_icons"
-			position = { x = 318 y = -2 }
+			position = { x = 325 y = 2 }
 			frame = 2
 		}
 
@@ -1075,7 +1066,6 @@ guiTypes = {
 				background = {
 					name = "bg_frame"
 					spriteType = "GFX_clean_frame_area"
-					alwaystransparent = yes
 				}
 		}
 		
@@ -1090,15 +1080,14 @@ guiTypes = {
 		iconType = {
 			name = "icon"
 			spriteType = "GFX_technology_unknown"
-			position = { x = 61 y = 106 }
+			position = { x = 61 y = 119 }
 			orientation = "UPPER_LEFT"
-			alwaystransparent = yes
 		}
 
 		containerWindowType = {
 			name = "icon_frame_box"
 			size = { width = 54 height = 54 }
-			position = { x = 60 y = 106 }
+			position = { x = 60 y = 118 }
 			
 				background = {
 					name = "icon_frame"
