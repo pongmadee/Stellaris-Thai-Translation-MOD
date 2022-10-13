@@ -59,7 +59,7 @@
  syndaw.1205.a.tooltip:0 "§YAll known organic Empires§! add the §Y$opinion_machine_uprising_defeated$§! opinion modifier toward §Y[Root.GetName]§!.\n§YAll known Synthetic and Machine Empires§! add the §Y$opinion_machine_uprising_machine_comrades_defeated$§! opinion modifier toward §Y[Root.GetName]§!."
  machine_assault_1:0 "กองทัพนักล่า-นักฆ่า"
  machine_assault_1_desc:0 "Mass-produced tracked war machines designed to seek out and destroy everything that has been designated as an enemy."
- machine_assault_1_plural:0 "Hunter-Killer Armies"
+ machine_assault_1_plural:0 "กองทัพนักล่า-นักฆ่า"
  machine_assault_2:0 "กองทัพโครงร่างเพื่อการรบ"
  machine_assault_2_desc:0 "Large, bipedal warbots that are surprisingly fast and mobile given the heavy armaments they carry. They are quite intelligent and renowned for the insidious tactics they often employ."
  machine_assault_2_plural:0 "Battle Frame Armies"
