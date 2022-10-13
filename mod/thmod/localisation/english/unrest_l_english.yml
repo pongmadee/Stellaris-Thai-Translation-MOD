@@ -1,5 +1,5 @@
 ﻿l_english:
- situation_planetary_revolt:0 "Planetary Revolt on [Target.GetName]"
+ situation_planetary_revolt:0 "จลาจลบนดาว [Target.GetName]"
  situation_planetary_revolt_type:0 "Planetary Revolt"
  situation_planetary_revolt_desc_standard:0 "Rebellious elements of the populace are seeking to overthrow our rule on [Target.GetName]!"
  situation_planetary_revolt_desc_gestalt_standard:0 "Dastardly singleton organisms seek to remove themselves from our [Owner.GetGovernmentName]."
