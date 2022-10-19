@@ -331,7 +331,7 @@
  MESSAGE_PLANET_DESTROYED_DESC:0 "$PLANET|Y$ $WEAPON_DESC$ $WEAPON_NAME|R$ บนยานโคลอสซัส $ADJ$"
  MESSAGE_TERRAFORMATION_FINISH:1 "$PLANET|Y$ ได้รับการปรับสภาพดาวให้เป็น $PLANET_CLASS|Y$ แล้ว"
  MESSAGE_TERRAFORMATION_CANCELED:0 "กระบวนการปรับสภาพดาว $PLANET|Y$ ถูกขัดจังหวะ!"
- MESSAGE_TERRAFORM_MESSAGE_TYPE_TITLE:0 "การปรับสภาพดาว"
+ MESSAGE_TERRAFORM_MESSAGE_TYPE_TITLE:0 "ปรับสภาพดาว"
  MESSAGE_TRADE_DEAL_END_NO_ENERGY:0 "Our trade treaty with $WITH|Y$ has ended because we lack the Energy Credits to maintain it."
  MESSAGE_TRADE_DEAL_END_NO_ENERGY_THEM:0 "$WITH|Y$ has ended our trade treaty because they lack the Energy Credits to maintain it."
  MESSAGE_TRADE_DEAL_END_MISSING_RESOURCE:0 "Our trade treaty with $WITH|Y$ has ended because we lack the $RESOURCE|Y$ to maintain it."

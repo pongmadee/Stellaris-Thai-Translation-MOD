@@ -236,7 +236,7 @@
  marauder.114.name:0 "Raid Abandoned"
  marauder.114.desc:0 "The heavy damage inflicted upon the [marauder_country.GetSpeciesName] raiding fleet has been enough to give pause to their warriors. After reconsidering their options, the [marauder_country.GetSpeciesNamePlural] have apparently decided to abandon their raid and withdraw back to their own space."
  marauder.114.a:0 "They bit off more than they could chew."
- marauder.116.name:0 "Raiding Fleet Destroyed"
+ marauder.116.name:0 "กองยานจู่โจมถูกทำลาย"
  marauder.116.desc:0 "The [From.GetSpeciesName] fleet that vowed to raid our space has been destroyed as the result of a fleet action in the [destroyed_fleet_system.GetName] system. No survivors have been reported found amongst the debris."
  marauder.116.a:0 "Let this be a lesson to their kind."
  marauder.117.desc:0 "The §H[marauder_country.GetSpeciesName]§! marauders that we "encouraged" to launch a raid against the §H[marauder_target.GetName]§! have turned tail and are running back to their own space! The losses sustained by their raiding fleet were apparently grave enough to give them a change of heart."

@@ -49,7 +49,7 @@
  crisis_perk_deception:0 "$crisis_path_deception_name$ $crisis_perks$"
  crisis_perk_to_unlock:0 "To Unlock:"
  crisis_perk_passive_effect:0 "Passive Effect:"
- crisis_perk_active_effect:0 "Active Effect:"
+ crisis_perk_active_effect:0 "เอฟเฟกต์เมื่อใช้งาน:"
  crisis_perks_supremacy_privateering_title:0 "Privateering"
  crisis_perks_supremacy_privateering_desc:0 "Attack them ourselves?! Oh, please - We have people who do that for us."
  crisis_perks_supremacy_privateering_unlock:0 "Hire a total of 4 Marauder Fleets in order to unlock this $crisis_perk$."

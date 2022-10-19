@@ -136,7 +136,7 @@
  FLESH_IS_WEAK_PROJECT_DESC:0 "It is a fool who persists in clinging to a worn, decrepit instrument when a more efficient alternative presents itself.\n\nWe now possess the technology to make cybernetic implants available to the population of the [Root.GetName] at large. Our citizens will be stronger, faster and more intelligent as limbs and organs are replaced with improved mechanical versions."
  SYNTHETIC_EVOLUTION_PROJECT:0 "วิวัฒนาการจักรกลสังเคราะห์"
  SYNTHETIC_EVOLUTION_PROJECT_DESC:0 "It is time to leave our flawed organic vessels behind and embrace immortality. We must prepare advanced synthetic avatars for our entire population, and then begin the process of consciousness transfers."
- TRAIT_IMPROVES_LEADERS:0 "§GLeaders from this species have additional traits and bonuses§!"
+ TRAIT_IMPROVES_LEADERS:0 "§Gผู้นำจากเผ่าพันธุ์นี้มีคุณสมบัติและโบนัสเพิ่มเติม§!"
  trait_cybernetic:0 "ไซเบอร์เนติก"
  trait_cybernetic_desc:0 "§LThis species has embraced cybernetics on such a scale that its members may be considered cyborgs. They routinely replace their organic body parts with more advanced mechanical versions.§!\n"
  trait_latent_psionic:0 "พลังจิตแฝง"
