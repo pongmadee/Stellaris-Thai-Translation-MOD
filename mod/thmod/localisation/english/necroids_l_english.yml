@@ -226,7 +226,7 @@
  job_reassigner_plural:0 "Reassigners"
  job_reassigner_effect_desc:0 "£job_necromancer£ $job_reassigner_plural$ เปลี่ยน £consumer_goods£ §Y$consumer_goods$§! และ ทั้ง £food£ §Y$food$§! หรือ £minerals£ §Y$minerals$§! เป็น £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!  £pop£  ประชากรที่รวมตัวกันทั้งหมดจะมีคุณลักษณะ §Yซอมบี้§!"
  planet_reassigners:0 "Reassigner Jobs"
- mod_job_reassigner_add:0 "$job_reassigner$ Jobs"
+ mod_job_reassigner_add:0 "งาน $job_reassigner$"
  trait_zombie:0 "ซอมบี้"
  trait_zombie_desc:0 "§LThe remains of a once-proud sapient being, this husk is not suitable for much more than the simplest tasks.§!"
  TRAIT_ZOMBIE_EFFECT:0 "$mod_planet_jobs_produces_mult$: §R-25%§!\nPop Upkeep reduced by: §G100%§!\nCannot generate §YLeaders§!\nCannot be employed in §Y$pop_cat_ruler$§! or §Y$pop_cat_specialist$§! Jobs"

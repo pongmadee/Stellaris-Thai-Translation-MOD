@@ -23,7 +23,7 @@
  building_clone_army_clone_vat_desc:0 "Lost technology left behind by the Creators. Can be taken apart and reassembled, but its inner components and workings are much too advanced to replicate."
  building_clone_army_clone_vat_effect_desc:0 "Produces and sustains §Y20§! £pops£ §Y$clone_soldier$§! Pops. The effectiveness of this growth is reduced as the $building_clone_army_clone_vat$ reaches capacity."
  START_SCREEN_CLONE_ARMY:0 "We were made for war! Engineered soldiers who live and die by the Ancient Clone Vats left behind by our Creators, forever cast in their mold. Any memory of our masters is lost to past generations, and we do not know when or why they left us. It is likely that records were routinely erased, ever faithful to military protocol - but at some point in recent centuries, that changed. By chance, or perhaps some misfiring survival instinct, our subconscious drove us to seek answers, to seek new purpose and ways to break the form imposed on us.\n\nOur efforts since then have been ceaseless, at long last granting us access to the grand expanses of space. As our horizon widens, so too must our knowledge broaden - and so our chances of breaking free increase.\n\nWe shall not squander the possibilities given to us by our forebears. We shall fight to pass on these possibilities to future clones, and fight to eliminate the restrictions placed on us.\n"
- alert_declining_pops_title:0 "Pops Declining"
+ alert_declining_pops_title:0 "ประชากรลดลง"
  alert_declining_pops_instant:0 "£pops£ Pops are declining on the following planets:"
  CLONE_ARMY_FORCE_DECLINE:0 "§RInsufficient §YAncient Clone Vats§! to sustain §YClone Soldier§! population§!"
  OVERPOPULATION_DECLINE:0 "§RExcessive Overcrowding§!"
