@@ -227,7 +227,7 @@
  requires_colonized_planet:0 "§Rต้องมีดาวเคราะห์ที่เป็นเจ้าของในระบบ§!"
  requires_trade_planet:0 "§RRequires a colonized planet or a §YTrader Enclave§! in the system.§!"
  requires_black_hole:0 "§Rต้องมี §Y$pc_black_hole$§! ในระบบดาว§!"
- requires_nebula:0 "§RRequires the system to be inside a §YNebula§!.§!"
+ requires_nebula:0 "§Rต้องการระบบดาวที่อยู่ภายใน§Yเนบิวลา§!§!"
  requires_curator:0 "§RRequires a §YCurator Enclave§! in the system.§!"
  requires_curator_agreement:0 "§RRequires a §YDiplomatic Agreement§! with the local Curator Enclave.§!"
  requires_artist_agreement:0 "§RRequires a §YDiplomatic Agreement§! with the local Artisan Enclave.§!"
