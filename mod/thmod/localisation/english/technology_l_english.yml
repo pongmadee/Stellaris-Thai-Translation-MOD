@@ -194,7 +194,7 @@
  tech_construction_templates:0 "แม่แบบการก่อสร้าง"
  tech_construction_templates_desc:1 "Standardized pre-fab templates massively reduce on-site facility construction times."
  tech_robomodding:0 "ระบบแม่แบบเครื่องจักร"
- tech_construction_templates_effect:0 "$building_resource_silo$ Capacity: §G+5000§!"
+ tech_construction_templates_effect:0 "$building_resource_silo$ ความจุ: §G+5000§!"
  tech_robomodding_desc:0 "Rewritable assembly templates allow for the creation of bespoke synthetic worker designs."
  tech_robomodding_m:0 "ระบบแม่แบบเครื่องจักร"
  tech_robomodding_m_desc:0 "Standardization of assembly templates allow for improved specialization of the drone population."
