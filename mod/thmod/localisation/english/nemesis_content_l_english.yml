@@ -1390,7 +1390,7 @@
  crisis.4106.name:1 "Imperium Declares Us "Galactic Crisis""
  crisis.4106.desc.a:1 "Recognizing the threat we pose, the wretched members of the Galactic Imperium have passed a resolution condemning our actions and declaring us a §Y"crisis of galactic proportions."§! In a rare moment of Imperial unity, the members of the Imperium have all joined forces and declared war on us.\n\nUnder the leadership of the [gal_emperor.GetRulerTitle], their fleets are assembling to launch an attack on our territory. The battle for the galaxy has begun."
  crisis.4106.desc.b:1 "The [gal_emperor.GetRulerTitle] and their corrupt lackeys in the Imperial Senate have passed a resolution declaring us a "crisis" and a "threat to all sapient life." In light of these absurds allegations, a state of total war now exists between the [Root.GetName] and the entirety of the Galactic Imperium.\n\nThis war will continue until either us or the Imperium have been utterly destroyed... or they repeal the resolution."
- gal_custodian:0 "ผู้พิทักษ์กาแลกติก"
+ gal_custodian:0 "ผู้พิทักษ์กาแล็กติก"
  gal_custodian_desc:0 "As Custodians of the Galactic Community, our influence in the galaxy has been increased."
  war_goal_wg_declared_crisis:0 "Crisis War"
  war_goal_wg_declared_crisis_desc:0 "Total War is waged between the Galactic Community and the Crisis empire.\n\nPeace can only be achieved by the utter destruction of one side, or if the Community passes a resolution to end hostilities."

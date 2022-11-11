@@ -99,7 +99,7 @@
  crisis_level_1:0 "ภัยอันตราย"
  crisis_level_2:0 "ภัยคุกคาม"
  crisis_level_3:0 "ภัยหายนะ"
- crisis_level_4:0 "กาแลกติกเนเมซิส"
+ crisis_level_4:0 "กาแล็กติกเนเมซิส"
  crisis_level_5:0 "ภัยคุกคามความอยู่รอด"
  crisis_level_1_desc:0 "ไครซิส เลเวล 1"
  crisis_level_2_desc:0 "ไครซิส เลเวล 2"
