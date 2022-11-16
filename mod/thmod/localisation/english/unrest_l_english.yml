@@ -146,7 +146,7 @@
  unrest.160.desc:1 "The slave population on [revolt_planet.Planet.GetName] has united and risen in open, armed revolt against the local leadership. The situation has escalated quickly, as rebel forces have struck against and disabled several key targets simultaneously. The fate of the planet now depends on our defending troops. If they fail, we lose [revolt_planet.Planet.GetName]."
  unrest.160.a:0 "Quash the rebellion!"
  unrest.160.a.tooltip:0 "Slave armies will attempt to seize the planet."
- unrest.161.name:0 "Revolt Suppressed"
+ unrest.161.name:0 "การก่อกบฏถูกปราบปราม"
  unrest.161.desc:0 "We have put an end to the rebellion on [event_target:revolt_planet.Planet.GetName]. Thanks to the efforts of our brave troops we have re-established our hold on key facilities, and reinstated our authority. Now all that remains is to rebuild what the slaves so callously wrecked. It should be some time before anyone dares to defy us again."
  unrest.161.a:0 "Now they know their place."
  unrest.161.b:0 "It's a shame it had to come to this."
