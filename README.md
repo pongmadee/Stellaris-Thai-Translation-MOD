@@ -6,6 +6,45 @@
 
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 3.5.x "Fornax" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 3.6.x "Orion" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
+
+
+### DLC ที่รองรับ
+*  Utopia
+*  Apocalypse
+*  MegaCorp
+*  Federations
+*  Nemesis
+
+### Story Pack DLC ที่รองรับ
+*  Synthetic Dawn
+*  Leviathans
+*  Ancient Relics
+
+
+### FEATURES - คุณลักษณะเด่น
+#### แผนผังเทคโนโลยี (Stellaris Tech Tree) เอาไว้ดูเป็นแนวในการวิจัยเทคโนโลยี ช่องทางมีดังนี้
+ **ในเกม** โดยกดปุ่ม 'แผนผังเทคโนโลยี' ที่หน้าต่างการวิจัยตรงมุมขวาบน
+ **นอกเกม** เข้าดูผ่านเว็บเบราว์เซอร์ตามลิงก์นี้ https://pongmadee.github.io/stellaris-tech-tree/vanilla-thmod/index.html
+ **ฟังก์ชันบันทึกข้อมูลจะใช้ไม่ได้ผ่านเว็บเบราว์เซอร์ในเกม (In-Game Web Browser) หากต้องการใช้ฟังก์ชันดังกล่าวกรุณาเข้าใช้ผ่านเว็บเบราว์เซอร์นอกเกมแทน เช่น Chrome, Firefox, Edge**
+<img src="https://i.imgur.com/YK0VXgh.jpg" width="40%">
+
+
+### PROGRESS & ROADMAP - ความคืบหน้า
+* [แผนงานทั้งหมด](https://trello.com/b/bxyVsiGL/stellaris-thai-translation-mod)
+
+
+### DONATIONS - สนับสนุนเครดิตพลังงานผู้พัฒนา
+* [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนเครดิตพลังงานผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/pongmadee) :zap:
+
+
+### TOOLS - เครื่องมือ
+ * [Stellaris-TH-Localisation-Manager v1.0](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
+ * [Localisation-Editor](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md)
+ * [MadeeAI-Translator](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md)
+
+
+### License
+Copyright © 2020, Pongmadee. Released under the [MIT License](https://github.com/pongmadee/Stellaris-Thai-Translation-MOD/blob/develop/LICENSE).

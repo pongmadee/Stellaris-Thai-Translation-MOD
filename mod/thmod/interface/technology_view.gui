@@ -98,7 +98,7 @@ guiTypes = {
 			shortcut = "v"
 			pdx_tooltip = "RESEARCHED_TECHS"
 		}
-
+		
 		# Mod button
 		buttonType = {
 			name = "tech_tree"
@@ -115,14 +115,6 @@ guiTypes = {
 			name = "select_window"
 			size = { width=487 height=455 }
 			position = { x = 604 y = 14 }
-					
-		#	show_position = { x = 570 y = 14 }
-		#	hide_position = { x = -570 y = 14 }
-		#	animation_time = 200
-		#	animation_type = decelerated
-		
-		#	fade_time = 100
-		#	fade_type = smoothstep
 			
 			orientation = upper_left
 			moveable = no
@@ -559,7 +551,18 @@ guiTypes = {
 				name ="tech_option_bg"
 				spriteType = "GFX_tech_entry_physics_bg"
 				position = { x= 130 y = 81 }
-			}				
+			}
+
+			containerWindowType = {
+				name = "bg_container"
+				position = { x = 192 y = 105 }
+				size = { width = 390 height = 70 }
+
+				background = {
+					name = "background"
+					spriteType = "GFX_tiles_dark_area_cut_8"
+				}
+			}
 			
 			iconType = {
 				name = "icon"
@@ -579,15 +582,7 @@ guiTypes = {
 						spriteType = "GFX_plain_green_frame_tile"
 						alwaystransparent = yes
 					}
-			}
-			
-		#	iconType = {
-		#		name = "eta_bg"
-		#		spriteType = "GFX_eta_slot"
-		#		position = { x = 405 y = 172 }
-		#		orientation = "UPPER_LEFT"
-		#		alwaystransparent = yes
-		#	}			
+			}	
 
 			iconType = {
 				name ="category_icon"
@@ -643,7 +638,6 @@ guiTypes = {
 				orientation = "LOWER_LEFT"
 			}
 
-
 			instantTextBoxType={
 				name = "progress_value"
 				font = "cg_16b"
@@ -660,7 +654,7 @@ guiTypes = {
 			smoothListBoxType = { # selected technology unlock
 				name ="unlocks"
 				position = { x = 196 y = 109 }
-				size = { x = 372 y = 54 }
+				size = { x = 380 y = 66 }
 				orientation = "UPPER_LEFT"
 				borderSize = { x=0 y=0 }
 				spacing = 1	
@@ -686,9 +680,25 @@ guiTypes = {
 		}						
 	}
 
+	positionType = {
+		name = "technology_view_tech_entry_window_background_size_offset"
+		position = { x = 0 y = 10 }
+	}
+
 	containerWindowType = {
 		name = "technology_view_tech_entry_window"
 		size = { width=550 height=120 }
+
+		containerWindowType = {
+			name = "bg_container"
+			position = { x = 75 y = 38 }
+			size = { width = 390 height = 70 }
+
+			background = {
+				name = "background"
+				spriteType = "GFX_tiles_dark_area_cut_8"
+			}
+		}
 
 		buttonType = {
 			name = "select"
@@ -1131,10 +1141,11 @@ guiTypes = {
 		smoothListBoxType = {
 			name ="unlocks"
 			position = { x = 125 y = 108 }
-			size = { x = 350 y = 60 }
+			size = { x = 375 y = 60 }
 			orientation = "UPPER_LEFT"
 			borderSize = { x = 0 y = 0 }
 			spacing = 0
+			scrollbarType = "standardtext_slider_small"
 			alwaystransparent = yes
 		}
 
