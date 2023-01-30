@@ -33,7 +33,7 @@
  UNDERGROUND_FACILITY_PROJECT_DESC:0 "A large underground facility below one of the abandoned alien cities on [From.GetName] is emitting a strange energy echo. We need to find out what is causing it."
  GHOSTLY_SIGHTINGS_PROJECT:0 "Investigate Ghostly Sightings"
  GHOSTLY_SIGHTINGS_PROJECT_DESC:0 "Colonists on [From.GetName] have sighted spectral apparitions in the vicinity of the [From.GetPlanetMoon]'s abandoned alien cities at an alarming frequency. Our scientists are eager to investigate the nature of this phenomenon."
- AUTOMATED_SHIPYARD_PROJECT:0 "Repair Automated Shipyard"
+ AUTOMATED_SHIPYARD_PROJECT:0 "ซ่อมอู่ต่อยานอัตโนมัติ"
  AUTOMATED_SHIPYARD_PROJECT_DESC:0 "The remains of an old automated shipyard have been found orbiting [From.GetName]. Our engineers believe that they can restore power to the shipyard's sole surviving manufacturing bay."
  GAS_GIANT_SHIP_PROJECT:0 "Salvage Gas Giant Ship"
  GAS_GIANT_SHIP_PROJECT_DESC:0 "A derelict ship has been found deep within the atmosphere of the gas giant [From.GetName]. Some of our scientists and engineers have proposed a project to raise the vessel to the upper atmosphere and salvage it."
