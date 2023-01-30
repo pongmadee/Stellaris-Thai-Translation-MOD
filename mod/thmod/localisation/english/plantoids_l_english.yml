@@ -77,7 +77,7 @@
  civic_corporate_catalytic_processing:1 "Catalytic Recyclers"
  civic_corporate_catalytic_processing_desc:0 "This Megacorporation seeks to maximize profits by recycling excess organic matter into advanced resources suitable for spacebound structures."
  civic_tooltip_catalytic_processing_corporate_effects:0 "$civic_tooltip_catalytic_processing_effects$"
- civic_hive_catalytic_processing:1 "Organic Reprocessing"
+ civic_hive_catalytic_processing:1 "แปรรูปอินทรียสาร"
  civic_hive_catalytic_processing_desc:0 "The Hive Mind reprocesses excess organic matter into advanced resources suitable for spacebound structures."
  civic_tooltip_hive_catalytic_processing_effects:0 "แทนที่ £job_alloy_drone£ §Y$job_alloy_drone_plural$§! ด้วย £job_catalytic_drone£ §Y$job_catalytic_drone_plural$§! $job_catalytic_drone_effect_desc$"
  civic_machine_catalytic_processing:1 "$civic_hive_catalytic_processing$"
