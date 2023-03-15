@@ -93,6 +93,7 @@
  precursor.2200.desc.b:0 "After surveying the immense ring world found in the §Y[From.GetStarName]§! system, Science Officer §Y[Root.GetLeaderName]§! has reported that it is similar in many ways to our own ring designs, despite its age.\n\nThere is one critical difference, however - the ring sections appear to have been constructed partly out of a new resource that is unknown to us. Initial reports describe it as some kind of "living metal." Whatever it is, it should be studied more closely."
  requires_planets_for_material:0 "$TRIGGER_FAIL$Cannot build in systems without planetary bodies for material."
  requires_no_existing_megastructure:1 "$TRIGGER_FAIL$Cannot build due to existing Megastructure."
+ requires_no_orbital_debris:0 "$TRIGGER_FAIL$Cannot build due to orbital debris."
  requires_no_existing_gateway:0 "$TRIGGER_FAIL$Cannot build due to existing Gateway."
  requires_no_orbital_station:1 "$TRIGGER_FAIL$Cannot build due to existing Orbital Station."
  requires_no_habitable_planets:1 "$TRIGGER_FAIL$Cannot build in systems with habitable planets."
