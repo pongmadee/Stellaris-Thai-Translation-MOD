@@ -6,7 +6,7 @@
 
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 3.6.x "Orion" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 3.7.x "Canis Minor" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
 
