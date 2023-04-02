@@ -928,7 +928,7 @@
  tech_event_crystal_bounty_desc:0 "Enables Crystal Bounty edict."
  tech_event_drone_bounty:0 "Hidden"
  tech_event_drone_bounty_desc:0 "Enables Drone Bounty edict."
- gateway_capital:1 "§HAdministrative Path§!\n§EThis technology will lead to further advancements in capital buildings and £unity£ §HUnity§! gain. Upgraded planetary capitals are required for §Hhigh-level buildings§!.§!"
+ gateway_capital:1 "§Hสายการปกครอง§!\n§Eเทคโนโลยีนี้จะนำไปสู่ความก้าวหน้าในการสร้างเมืองหลวงและได้รับ £unity£ §Hเอกภาพ§! เพิ่ม เมืองหลวงของดาวเคราะห์ที่ได้รับการอัปเกรดเป็นสิ่งจำเป็นสำหรับ §Hสิ่งปลูกสร้างระดับสูง§!§!"
  gateway_biological:0 "§Hสายชีวภาพ§!\n§Eเทคโนโลยีนี้จะนำไปสู่ความก้าวหน้าต่อไปในการเพิ่มประสิทธิภาพและการปรับตัวของสิ่งมีชีวิต§!"
  gateway_ship:0 "§Hสายยานอวกาศ§!\n§Eเทคโนโลยีนี้จะนำไปสู่ความก้าวหน้าต่อไปในการสร้างสถานีท่ายานอวกาศที่ใหญ่ขึ้นและยานรบที่ทรงพลังยิ่งขึ้น§!"
  gateway_psionics:0 "§Hสายพลังจิต§!\n§Eเทคโนโลยีนี้จะนำไปสู่ความก้าวหน้าในด้านพลังจิต§!"
