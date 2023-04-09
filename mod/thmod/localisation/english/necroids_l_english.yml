@@ -62,7 +62,7 @@
  job_mortal_initiate:0 "Mortal Initiate"
  job_mortal_initiate_plural:0 "Mortal Initiates"
  job_mortal_initiate_desc:0 "These most devout pupils of their faith dedicate the remaining portion of their lives to the betterment of their society - a study which concludes with their willing, fatal sacrifice."
- job_mortal_initiate_effect_desc:1 "£job_mortal_initiate£ $job_mortal_initiate_plural$ produce £unity£ §Y$unity$§!, £society£ §Y$society_research$§! and £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+ job_mortal_initiate_effect_desc:1 "£job_mortal_initiate£ $job_mortal_initiate_plural$ ผลิต £unity£ §Y$unity$§!, £society£ §Y$society_research$§! และ £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
  mod_job_mortal_initiate_add:0 "งาน$job_mortal_initiate$"
  mod_job_mortal_initiate_per_pop:0 "§G+1§! อาชีพ $job_mortal_initiate$ ต่อ $VALUE$ ประชากร"
  mod_job_mortal_initiate_per_pop_short:0 "\n§G+1§! £mod_job_mortal_initiate_add£ ต่อ $VALUE$ £pop£"
