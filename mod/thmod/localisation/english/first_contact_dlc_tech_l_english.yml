@@ -220,7 +220,7 @@
  tech_ordered_retreat_desc:0 "While studying the victors of battles might be the most obvious way to gain insight from combat, observing the loser on pre-FTL worlds has taught us how to organize our withdraws more effectively."
  tech_temple_of_transportation:0 "วิหารแห่งการขนส่ง"
  tech_temple_of_transportation_desc:0 "Transportation networks bring people together: a sentiment shared by many civilization we observed. While we do not have steam engines, our hyper relay networks could serve a similar purpose."
- SENSOR_DEVICE_VALUE:0 "Starbase Sensor: §G+$VALUE|0$§!"
+ SENSOR_DEVICE_VALUE:0 "เซ็นเซอร์ของฐานอวกาศ: §G+$VALUE|0$§!"
  HYPERLANE_DETECTION_RANGE_DESC:0 "§E§H$HYPERLANE_RANGE$§! is the maximum range at which hyperlanes can be detected from this Starbase.§!"
  SENSOR_RANGE_DESC:0 "§E§H$SENSOR_RANGE$§! is the maximum range at which this Starbase's sensors can function.§!"
  TRADE_COLLECTION_VALUE:0 "$COLLECTION_RANGE$: $VALUE|Y0$"
