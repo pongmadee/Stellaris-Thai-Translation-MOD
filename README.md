@@ -6,7 +6,7 @@
 
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 3.7.x "Canis Minor" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 3.8.x "Gemini" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
 
@@ -17,6 +17,7 @@
 *  MegaCorp
 *  Federations
 *  Nemesis
+*  Galactic Paragons
 
 ### Story Pack DLC ที่รองรับ
 *  Synthetic Dawn
