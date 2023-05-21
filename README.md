@@ -9,6 +9,7 @@
  :heavy_check_mark: รองรับเกมเวอร์ชัน 3.8.x "Gemini" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
+ :heavy_check_mark: รองรับโหมดช่วยกันเล่น (Co-op) <br/>
 
 
 ### DLC ที่รองรับ

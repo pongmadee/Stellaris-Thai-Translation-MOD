@@ -107,7 +107,7 @@
  humiliated_desc:0 "§LWe were publicly humiliated by another Empire.§!"
  raided:0 "Raided"
  raided_desc:0 "§LWe failed to protect ourselves against the Despoilers.§!"
- TOOLTIP_HAPPINESS_GOV_ETHOS:0 "$ETHIC$ Regime: $VAL$"
+ TOOLTIP_HAPPINESS_GOV_ETHOS:0 "ระบอบการปกครอง $ETHIC$: $VAL$"
  TOOLTIP_HAPPINESS_XENO_OVERLORDS:0 "Alien Overlords: $VAL$"
  swarm_border:1 ""
  swarm_border_desc:1 ""

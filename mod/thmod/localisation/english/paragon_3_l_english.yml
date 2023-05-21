@@ -432,7 +432,7 @@
  paragon.3005.a.response:0 "§HSkrand blinks and coughs.§!\n\nNo doubt. But know that my service is not offered lightly. As a token of goodwill, I will instruct my engineers to keep the Talon operable and teach your engineers how to maintain it."
  paragon.3005.b:1 "What is to prevent us from simply taking it ourselves?"
  paragon.3005.b.response:1 "§HSharpbeak recoils, his beak issuing a series of highly unpleasant squawks.§!\n\nThis ship is the pride of my lost homeland, built with the talons of workers who gave their lives to the project! It's the last piece of our home - all that's left to remind us of our fledgling nests.\n\n§HRegaining his posture, Skrand calms his clacking.§!\n\nSuffice to say, I would fight beak and claw to stop you."
- paragon.3005.c:1 "Hire Leader"
+ paragon.3005.c:1 "แต่งตั้งผู้นำ"
  paragon.3005.c_custom_tooltip:0 "§LVery well. We accept your pledge. Serve with honor, Admiral.§!\n$SEPARATOR$\n"
  paragon.3005.c.response:0 "§HSharpbeak spreads his plummage.§!\n\nI shall. The Last Talon will fly again, albeit under new colors. You have restored our purpose. I thank you."
  paragon.3005.d_custom_tooltip:0 "§LWords are hollow. Farewell, Admiral.§!"
