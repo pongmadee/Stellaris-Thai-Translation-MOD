@@ -543,7 +543,7 @@
  ACTION_RECIPIENT_MUST_HAVE_POSITIVE_LOYALTY:1 "Resultant £loyalty£ Loyalty must be positive for Agreement to be proposable."
  AGREEMENT_COOLDOWN_ACTIVE:2 "We cannot propose new changes to this Agreement until $DATE$ (in $MONTHS_LEFT$ months)"
  AGREEMENT_CAN_NOT_AFFORD_PROPOSE:1 "§RWe cannot afford £influence£ $COST|Y$ Influence!§!"
- AGREEMENT_PROPOSE_COST:1 "Cost: $COST$"
+ AGREEMENT_PROPOSE_COST:1 "ค่าใช้จ่าย: $COST$"
  IS_SAME_AS_PREVIOUS_AGREEMENT:0 "§RThe agreement is identical to the current one!§!"
  specialist_bulwark_neighbor:0 "Bulwark Watch"
  specialist_bulwark_neighbor_desc:0 "Being in close proximity to imposing Bulwark specialists creates safety and stability."

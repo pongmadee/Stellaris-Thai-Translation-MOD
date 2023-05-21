@@ -630,7 +630,7 @@
  artificial_intelligence_tooltip:0 "£physics£ Physics Research: §G+10%§!\n£society£ Society Research: §G+10%§!\n£engineering£ Engineering Research: §G+10%§!"
  trait_gene_mentorship:0 "Gene Mentorship"
  trait_gene_mentorship_desc:2 "§LBy combining genetically redesigned 'instinctive knowledge' and outside chemical stimuli, we have succeeded in vastly accelerating our learning capacities. Although it has resulted in some extremely paranoid individuals.§!"
- gene_mentorship_tooltip:0 "Leader Experience Gain: §G+25%§!"
+ gene_mentorship_tooltip:0 "ได้รับค่าประสบการณ์ผู้นำ: §G+25%§!"
  trait_expressed_tradition:0 "Expressed Tradition"
  trait_expressed_tradition_desc:0 "§LFanaticism on demand: faith is merely a cocktail of hormones, one we have perfected. Where that faith eventually leads is a matter of subsequent guidance.§!"
  expressed_tradition_tooltip:0 "£unity£ Unity from £pops£ Jobs: §G+10%§!"
