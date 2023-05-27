@@ -6,7 +6,7 @@
  GAMESETUP_COUNTRY_INVALID_ORIGIN:0 "You need to select an Origin before continuing"
  ORIGIN_INITIALIZER_RESTRICTION:0 "Cannot change due to current Origin selection"
  origin_default:0 "ความสำเร็จในการรวมตัวกัน"
- origin_default_desc:1 "Through its strife and triumphs, this society has reached every young civilization's ambition: a homeworld with unified goals, and a path open to the stars."
+ origin_default_desc:1 "ผ่านความขัดแย้งและชัยชนะ สังคมนี้ได้บรรลุความทะเยอทะยานของอารยธรรมใหม่: โดยที่มีเป้าหมายหนึ่งเดียวและเส้นทางที่เปิดกว้างสู่ดวงดาว"
  origin_tooltip_default_effects:2 "- เริ่มเกมด้วยการมี £pop£ ประชากร เพิ่มเติม 4 ประชากร และเขตเพิ่มอีก 2 เขต"
  origin_mechanists:0 "$civic_mechanists$"
  origin_mechanists_desc:0 "อารยธรรมนี้หมกมุ่นอยู่กับแนวคิดของเครื่องโลหะที่ทำงานอัตโนมัติตั้งแต่ก่อนยุคไอน้ำ แม้ว่าหลายคนจะบอกว่าไม่สามารถทำได้ แต่หุ่นยนต์ตัวจริงตัวแรกก็ออกจากสายการผลิตไปก่อนที่จะบินไปยังอวกาศได้สำเร็จ"
