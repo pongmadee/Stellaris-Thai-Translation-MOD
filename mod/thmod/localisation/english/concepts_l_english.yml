@@ -22,7 +22,7 @@
  concept_awakened_empires_desc:0 "$COUNTRY_AWAKENED_FALLEN_EMPIRE_DESC$"
  concept_marauder_empire:0 "จักรวรรดิจอมโจร"
  concept_marauder_empires:0 "จักรวรรดิจอมโจร"
- concept_marauder_empires_desc:0 "จักรวรรดิจอมโจรเป็นอารยธรรมในอวกาศที่ใช้เวลาส่วนใหญ่ไปกับการต่อสู้กันเองและโจมตีเพื่อนบ้าน บางครั้งพวกเขาอาจเรียกเก็บส่วยจากจักรวรรดิอื่น"
+ concept_marauder_empires_desc:0 "จักรวรรดิจอมโจรเป็นอารยธรรมในอวกาศที่ใช้เวลาส่วนใหญ่ไปกับการต่อสู้กันเองและโจมตีเพื่อนบ้าน บางครั้งพวกเขาอาจเรียกเก็บ ส่วย(ค่าคุ้มครอง) จากจักรวรรดิอื่น"
  concept_technology:0 "เทคโนโลยี"
  concept_technologies:0 "เทคโนโลยี"
  concept_technology_desc:0 "เทคโนโลยีที่ปลดล็อกโดยการวิจัย เป็นหนึ่งในวิธีการหลักในการเพิ่มความแข็งแกร่งของจักรวรรดิคุณใน Stellaris แบ่งออกเป็นสามสาขาคือ:\n\n$t$['concept_physics_research', £physics£ $concept_physics_research$]\n$t$['concept_society_research', £society£ $concept_society_research$]\n$t$['concept_engineering_research', £engineering£ $concept_engineering_research$]\n\nแหล่งที่มาทั่วไปของ §Iแต้มการวิจัย§! ได้มาจาก £pops£ §Iประชากร§! ที่ทำงานใน §Iห้องแล็บวิจัย§! หรือ §Iสถานีวิจัย§! ที่สร้างขึ้นในพื้นที่ที่เหมาะสม"

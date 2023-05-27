@@ -1150,7 +1150,7 @@
  agenda_gestalt_purge_traits_finish:0 "$council_agenda_agenda_gestalt_purge_traits_name$ $agenda_ref$"
  agenda_gestalt_purge_traits_finish_desc:0 "$council_agenda_agenda_gestalt_purge_traits_desc$"
  TRAIT_KEY_POSTFIX:0 "[GetTraitKeyPostfix]"
- CLICK_TO_EXPAND:1 "Click to expand."
+ CLICK_TO_EXPAND:1 "คลิกเพื่อขยาย"
  CLICK_TO_COLLAPSE:1 "คลิกเพื่อยุบ"
  TRIGGER_IS_IN_FRONTLINE:1 "is on the frontline."
  TRIGGER_IS_NOT_IN_FRONTLINE:1 "is NOT on the frontline."
