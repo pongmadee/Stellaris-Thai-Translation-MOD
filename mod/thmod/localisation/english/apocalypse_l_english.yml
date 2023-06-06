@@ -133,7 +133,7 @@
  STARBASE_OPEN_SHIP_DESIGNS:0 "เปิดการออกแบบยาน"
  STARBASE_OPEN_DEFENSE_DESIGNS:0 "เปิดการออกแบบระบบป้องกัน"
  STARBASE_SHIPYARD_CAPACITY:0 "อู่ต่อยาน: $COUNT|Y$"
- MACRO_BUILDER_CAPACITY:0 "ดาวเคราะห์ในเซ็กเตอร์: $COUNT$"
+ MACRO_BUILDER_CAPACITY:1 "£planet£ ดาวเคราะห์ในเซ็กเตอร์: $COUNT$"
  MACRO_BUILDER_CATALOG:0 "สร้างกองทัพ"
  ARMY_BUILDER_ENTRY:0 "คลิกเพื่อส่งคำสั่งเรียกกำลังพล $TYPE|Y$ ไปที่ดาวเคราะห์ต่างๆในเซ็กเตอร์นี้\n\n£ctrl£ §Gคลิกเพื่อเข้าคิว 5 กองทัพพร้อมกัน§!"
  STARBASE_SHIPYARD_CAPACITY_DESC:0 "The amount of Shipyards controls how many ships the Starbase can build in parallel."
