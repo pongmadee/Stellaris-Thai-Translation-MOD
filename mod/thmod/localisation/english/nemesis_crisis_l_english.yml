@@ -123,7 +123,7 @@
  become_the_crisis_chain_desc:0 "We balance over the chasm of a bloody future as the gravity of destiny claws at us.\n\nAs we gaze into the abyss, we see only ourselves staring back."
  crisis_level_reached:0 "Crisis Level potential"
  casus_belli_cb_path_destruction:0 "Destruction"
- war_goal_wg_path_destruction:0 "Path of Blood"
+ war_goal_wg_path_destruction:0 "เส้นทางแห่งเลือด"
  war_goal_wg_path_destruction_desc:0 "Set forth to annihilate and cause havoc of excessive proportions."
  MENACE_PERK_NOT_FOUND:0 "$COUNTRY|Y$ doesn't have the Menace Perk: $PERK|Y$"
  MENACE_PERK_ALREADY_ACTIVE:0 "Menace Perk $PERK|Y$ is already active for $COUNTRY|Y$"

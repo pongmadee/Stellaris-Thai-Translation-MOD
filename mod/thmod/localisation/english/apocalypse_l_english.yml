@@ -287,7 +287,7 @@
  topbar_button_fleet_manager_name:1 "จัดการกองยาน"
  topbar_button_fleet_manager_instant:1 "§H$topbar_button_fleet_manager_name$§!"
  topbar_button_fleet_manager_delayed:3 "§Eออกแบบยาน สร้างกองยานใหม่และจัดการกองยานเหล่านั้น เช่น กำหนดผู้บัญชาการหรือเสริมกองยานรบมากขึ้น§!"
- FLEET_MANAGER_OVERWRITE_TEMPLATE:0 "§HOverwrite Fleet Template§!\n§GOverwrite the fleet template with the current fleet contents.§!"
+ FLEET_MANAGER_OVERWRITE_TEMPLATE:0 "§Hเขียนทับเทมเพลตกองยาน§!\n§Gเขียนทับแม่แบบกองยานนี้ด้วยข้อมูลกองยานในปัจจุบัน§!"
  FLEET_MANAGER_DELETE_TEMPLATE:2 "§Hยุบกองยาน§!\n§Gคลิกเพื่อลบองค์ประกอบกองยานนี้และยกเลิกยานรบที่เกี่ยวข้องทั้งหมด§!"
  FLEET_MANAGER_DELETE_TEMPLATE_DIALOG_TITLE:2 "ยุบกองยาน"
  FLEET_MANAGER_DELETE_TEMPLATE_DIALOG_DESC:2 "คุณต้องการที่จะปลดกองยานนี้?\n\n§Rคำเตือน: การปลดกองยานจะปลดประจำการยานทุกลำที่เกี่ยวข้องกับกองยานนี้§!"
