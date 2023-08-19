@@ -1360,7 +1360,7 @@
  CLEAR_RESOURCE_EFFECT:0 "The resources in the tile are cleared"
  TOOLTIP_COUNT_FLEET_SHIPS:0 "Number of ships in fleet $OPERATOR$ $VALUE|Y$"
  TOOLTIP_COUNT_FLEET_SHIPS_WITH_LIMIT:0 "Number of ships in fleet $OPERATOR$ $VALUE|Y$\n$LIMIT$"
- REPAIR_PERCENTAGE_EFFECT:0 "Repair $VALUE|Y%$ Percent Hitpoints"
+ REPAIR_PERCENTAGE_EFFECT:0 "ซ่อม $VALUE|Y%$ HP เปอร์เซ็น"
  SET_SPECIES_IDENTITY_EFFECT:0 "$SPECIES|Y$ are now considered to be the same species as the $IDENTITY|Y$"
  SET_SPECIES_IDENTITY_EFFECT_NEW:0 "$SPECIES|Y$ are now considered to be a unique species"
  POP_FACTION:0 "กลุ่มการเมือง"

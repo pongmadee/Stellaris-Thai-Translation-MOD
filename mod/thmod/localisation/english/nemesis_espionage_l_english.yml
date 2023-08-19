@@ -381,7 +381,7 @@
  ESPIONAGE_ASSET_SPECIES:0 "เผ่าพันธุ์: $SPECIES|Y$"
  ESPIONAGE_ASSET_STATIC_DESC:0 "§E§YAssets§! are operatives that could prove useful for certain operations, and grant bonuses related to specific operation types. Assets can sometimes be sacrificed to cover your tracks, should an operation be exposed.§!"
  ESPIONAGE_NO_AVAILABLE_ASSET_STATIC_DESC:0 "§HNo Asset§!\n§RThere are no available assets.§!\n\nAssets are gained through the §YAcquire Asset§! operation, or through events."
- ESPIONAGE_ASSET_CLICK_ASSIGN:0 "§GClick to assign Asset§!"
+ ESPIONAGE_ASSET_CLICK_ASSIGN:0 "§Gคลิกเพื่อกำหนดจารชน§!"
  ESPIONAGE_ASSET_RIGHT_CLICK_UNASSIGN:0 "§GRight-click to unassign Asset§!"
  RELATIVE_DECRYPTION_ENCRYPTION_STATIC_DESC:0 "§E§Yการเข้ารหัสของฝ่ายตรงข้าม§! เป็นตัวกำหนดความยากในการถอดรหัสของเป้าหมาย§!"
  RELATIVE_ENCRYPTION_INFILTRATION_LEVEL:0 "เลเวลการแทรกซึมสูงสุด: $VAL|+=0$"
