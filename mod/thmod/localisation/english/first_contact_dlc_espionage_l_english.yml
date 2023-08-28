@@ -1,5 +1,5 @@
 ﻿l_english:
- diplomacy_wrong_interference_policy:0 "$TRIGGER_FAIL$§ROur §Y$policy_interference$ Policy§! does not allow us to conduct Espionage here.§!"
+ diplomacy_wrong_interference_policy:0 "$TRIGGER_FAIL$§R§Yนโยบาย$policy_interference$§! ของเราไม่อนุญาตให้เราทำการจารกรรมที่นี่§!"
  operation_requires_observation_outpost:0 "$TRIGGER_FAIL$§RRequires an §YObservation Outpost§! in orbit of their homeworld.§!"
  operation_has_disguise:0 " "
  operation_no_disguise_bio:0 "§HLack of §Y$tech_gene_tailoring$§! will make it harder for our agents to disguise themselves as locals, increasing the risk of random negative events.§!"
