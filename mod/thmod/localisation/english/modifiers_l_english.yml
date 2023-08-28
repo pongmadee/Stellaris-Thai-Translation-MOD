@@ -279,7 +279,7 @@
  MOD_SHIP_BUILD_SPEED_MULT:0 "ความเร็วในการสร้างยาน"
  MOD_SHIP_REPARATION_COST_MULT:0 "ค่าซ่อมยาน"
  MOD_SHIP_WEAPON_RANGE_MULT:1 "ระยะการยิงของยาน"
- MOD_SHIP_ENGAGEMENT_RANGE_MULT:0 "ระยะการโจมตีของยาน"
+ MOD_SHIP_ENGAGEMENT_RANGE_MULT:0 "ระยะปะทะของยาน"
  MOD_SHIP_FIRE_RATE_MULT:1 "อัตราความเร็วการยิงของยาน"
  MOD_FORCE_DISPARITY_FIRE_RATE_MULT:0 "โบนัสการรบจากความแตกต่างของกำลัง"
  MOD_SHIP_HOME_TERRITORY_FIRE_RATE_MULT:0 "อัตราการยิงในพื้นที่จักรวรรดิบ้านเกิด"

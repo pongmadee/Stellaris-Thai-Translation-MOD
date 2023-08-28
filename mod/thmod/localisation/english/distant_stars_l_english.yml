@@ -1200,7 +1200,7 @@
  distar.5057.phobe:0 "It will be no more."
  distar.5058.name:1 "The Enigmatic Cache"
  distar.5058.desc:0 "Despite extensive research the enigmatic cache and its origin are still shrouded in mystery. Though it is definitely not organic in nature, it is not entirely machine either. It appears to be preoccupied mainly with the gathering, storing and encoding of data.\n\nIts surface is covered in hundreds of thousands of minuscule scratches and dents in which we have discovered traces of a compound that is alien to our galaxy."
- distar.5058.a:0 "Intriguing."
+ distar.5058.a:0 "น่าสนใจ"
  distar.5062.name:0 "The Enigmatic Cache Returns"
  distar.5062.desc:0 "The mysterious tubular entity that we suspect previously scanned one of our planets has returned and is entering orbit of [Root.Capital.GetName]. It appears to be attempting to initiate communications."
  distar.5062.a:0 "Enable communications."

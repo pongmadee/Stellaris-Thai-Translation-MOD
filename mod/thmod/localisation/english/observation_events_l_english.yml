@@ -255,7 +255,7 @@
  cannot_dismantle_outpost_tt:1 "§RWe cannot dismantle our Observation Post until these events conclude.§!"
  tech_progress_gain_tt:0 "§Y[pre_ftl_country.GetName]§!: §G+[pre_ftl_country.TechProgressPercentage]%§! Technological Progression."
  tech_progress_loss_tt:0 "§Y[pre_ftl_country.GetName]§!: §R-[pre_ftl_country.TechProgressPercentage]%§! Technological Progression."
- locked_to_passive_observation:0 "Observation Post is locked to $mission_passive_observation$"
+ locked_to_passive_observation:0 "สถานีสังเกตการณ์ถูกล็อกไว้ที่ $mission_passive_observation$"
  acquired_tech_tooltip:1 "§Y[pre_ftl_country.GetName]§!: §G+50%§! Technological Progression Rate."
  acquired_tech_tooltip_five_years:0 "§Y[pre_ftl_country.GetName]§!: §G+50%§! Technological Progression for §Y5 Years§!."
  advance_to_age_tt:0 "§Y[pre_ftl_country.GetName]§!: Advances to the §Y[pre_ftl_country.GetNewAge]§!."
