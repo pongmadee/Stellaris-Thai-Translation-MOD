@@ -44,7 +44,7 @@
  EDICTS_IN_EFFECT_VALUE:0 "Edicts in Effect: $VAL|0$"
  EDICT_FUND:0 "กองทุนสำหรับประกาศคำสั่ง"
  EDICT_FUND_TITLE:0 "§H$EDICT_FUND$§!"
- EDICT_FUND_DESC:0 "§E§H$EDICT_FUND$§! นั้นแยกออกมาจากที่เก็บหลักของทรัพยากรที่เรียกว่า £unity£§Yเอกภาพ§! ที่ใช้สำหรับการคง §Hประกาศคำสั่ง§! เอาไว้\n\nหากค่าบำรุงรักษาประกาศคำสั่งมีเกินกว่าขนาดของกองทุน ก็จะใช้ทรัพยากร £unity£§Yเอกภาพ§! แบบปกติด้วย§!"
+ EDICT_FUND_DESC:0 "§E§H$EDICT_FUND$§! เป็นทรัพยากรที่แบ่งบางส่วนออกมาจากทรัพยากรหลักที่เรียกว่า £unity£§Yเอกภาพ§! ที่ใช้สำหรับคง(รักษา) §Hประกาศคำสั่ง§! เอาไว้\n\nหากค่าบำรุงรักษาประกาศคำสั่งมีเกินกว่าขนาดของกองทุน ก็จะใช้ทรัพยากร £unity£§Yเอกภาพ§! แบบปกติด้วย§!"
  EDICT_FUND_VALUE:0 "มีอยู่: £unity£§Y$VAL|0$§!"
  EDICT_CANNOT_CANCEL:0 "§RThis edict is active and cannot be cancelled.§!"
  EMPIRE_SPRAWL_IMPACT_TITLE:1 "$EMPIRE_SIZE$ Impact"
