@@ -7,7 +7,7 @@
  build_spy_network_DESC:2 "Send an envoy who will work on building a $spy_network$ within their civilization."
  spy_network:1 "เครือข่ายสอดแนม"
  spy_network_plural:0 "เครือข่ายสอดแนม"
- spy_network_desc:3 "Sending an envoy to actively build a $spy_network$ will increase our §HInfiltration Level§!, providing Intel and allowing us to conduct Espionage Operations.\n\nWe will be unable to reassign them for §Y£time£360§!."
+ spy_network_desc:3 "การส่งทูตเพื่อสร้าง$spy_network$จะเพิ่ม §Hเลเวลการแทรกซึม§! ที่ให้ข่าวกรอง และทำให้เราปฏิบัติการจารกรรมได้\n\nเราไม่สามารถมอบหมายใหม่ได้ในระยะเวลา §Y£time£360§!"
  ENVOY_spy_network:1 "ยุ่งกับการสร้าง §H$spy_network$§! ใน $LOCATION|H$"
  ESPIONAGE_OPERATION_NOT_OWNER:1 "ไม่ได้เป็นเจ้าของ $spy_network$"
  ACTIVE_FILTER:0 "ยังทำงานอยู่"

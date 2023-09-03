@@ -1202,7 +1202,7 @@
  awareness_full_tt:0 "Fully aware of interstellar life, this civilization understands it belongs to a galactic community."
  AWARENESS_STAGE_VAL_DESC:0 "การรับรู้ในปัจจุบัน: $VAL|0Y$"
  AWARENESS_OLD_DESC:0 "เมื่อต้นเดือน การรับรู้ของพวกเขาอยู่ที่ $OLDVAL|0Y$"
- PREFTL_TECH_LEVEL_VAL_DESC:0 "Current progress to the next age: §Y$VAL|0%$§!"
+ PREFTL_TECH_LEVEL_VAL_DESC:0 "ความก้าวหน้าในปัจจุบันก่อนถึงยุคต่อไป: §Y$VAL|0%$§!"
  MESSAGE_PRE_FTL_AWARENESS_INCREASED_TITLE:0 "การรับรู้เพิ่มขึ้น"
  MESSAGE_PRE_FTL_AWARENESS_INCREASED_DESC:1 "£awareness£ §Yการรับรู้§! ของ $COUNTRY|Y$ ในระบบดาว $SYSTEM|Y$ เพิ่มขึ้นเป็น §Y[root.GetAwarenessLevel]§!"
  MESSAGE_PRE_FTL_AWARENESS_DECREASED_TITLE:0 "การรับรู้ลดลง"
