@@ -1,8 +1,9 @@
 guiTypes = {
+	@main_menu_margin = 50
 
 	containerWindowType = {
 		name = "frontend_background"
-		position = { x= 0 y= 0 }
+		position = { x = 0 y = 0 }
 		size = { width = 100% height = 100%}
 
 		buttonType = {
@@ -12,198 +13,193 @@ guiTypes = {
 			size = { x = 1280 y = 720 }
 		}
 	}
-
 	containerWindowType = {
 		name = "frontend_background_view"
-		position = { x= -200 y= 0 }
+		position = { x = 0 y = 0 }
 		size = { width = 100% height = 100%}
-		orientation = center_down
+		margin = {
+			top = @main_menu_margin
+			right = @main_menu_margin
+			bottom = @main_menu_margin
+			left = @main_menu_margin
+		}
 
 		containerWindowType = {
 			name = "buttons"
-			position = { x=17 y=3 }
+			position = { x = 0 y = 0 }
+			orientation = lower_left
+			origo = lower_left
 
-			#containerWindowType = {
-			#	name = "social_view_interface_window"
-			#	position = { x=196 y=-67  }
-			#	size = { width=60 height=30 }
+			@links_y = -40
 
-			#	buttonType = {
-			#		name = "toggle_button"
-			#		quadTextureSprite = "GFX_button_60_29"
-			#		position = { x=0 y=0  }
-			#	}
+			@links_xc1 = 810
+			@links_xc2 = 850
+			@links_xc3 = 890
 
-			#	iconType = {
-			#		name = "button_toggle_socialview_icon"
-			#		spriteType = "GFX_socialview_icon"
-			#		position = { x= 15 y = 10 }
-			#		alwaystransparent = yes
-			#	}
-
-			#	instantTextBoxType={
-			#		name = "friends_online"
-			#		font = "cg_16b"
-			#		position = { x= 35 y= 18 }
-			#		text = "0"
-			#		maxWidth = 30
-			#		maxHeight = 16
-			#		alwaysTransparent = yes
-			#		format = center
-			#	}
-
-			#	iconType = {
-			#		name = "new_message"
-			#		position = { x = 57 y = 8 }
-			#		spriteType = "GFX_new_message_icon"
-			#		pdx_tooltip = "SOCIAL_NEW_MESSAGE"
-			#	}
-
-			#	iconType = {
-			#		name = "new_friend"
-			#		position = { x = 57 y = 20 }
-			#		spriteType = "GFX_new_friend_icon"
-			#		pdx_tooltip = "SOCIAL_NEW_FRIEND"
-			#	}
-			#}
-
-			@links_y = -55
+			@links_yr1 = -80
+			@links_yr2 = -45
+			@links_yr3 = -10
 
 
-			buttonType =	{
+			buttonType = {
 				name = "privacy"
 				quadTextureSprite = "GFX_front_menu_privacy"
-				position = { x= 247 y = @links_y  }
+				#position = { x = 350 y = @links_y }
+				position = { x = @links_xc2 y = @links_yr1 }
 				pdx_tooltip = "PRIVACY_POLICY"
 			}
 
-
-
-			buttonType =	{
+			buttonType = {
 				name = "pi_achievements"
 				quadTextureSprite = "GFX_front_menu_achievements"
-				position = { x= 320 y = @links_y  }
+				#position = { x = 430 y = @links_y }
+				position = { x = @links_xc2 y = @links_yr3 }
 				pdx_tooltip = "ACHIEVEMENTS"
 			}
 
-			buttonType =	{
+			buttonType = {
 				name = "homepage"
 				quadTextureSprite = "GFX_front_menu_homepage"
-				position = { x= 193 y = @links_y  }
+				#position = { x = 310 y = @links_y }
+				position = { x = @links_xc1 y = @links_yr1 }
 				pdx_tooltip = "HOMEPAGE"
 				web_link="https://www.paradoxinteractive.com/games/stellaris"
 			}
 
-			buttonType =	{
+			buttonType = {
 				name = "forum"
 				quadTextureSprite = "GFX_front_menu_forum"
-				position = { x= 301 y = @links_y  }
+				#position = { x = 390 y = @links_y }
+				position = { x = @links_xc3 y = @links_yr1 }
 				pdx_tooltip = "FORUM"
 				web_link="https://forum.paradoxplaza.com/forum/index.php?forums/stellaris.900/"
 			}
 
-			buttonType =	{
+			buttonType = {
 				name = "facebook"
 				quadTextureSprite = "GFX_front_menu_facebook"
-				position = { x= 412 y = @links_y }
+				position = { x = @links_xc1 y = @links_yr2 }
 				pdx_tooltip = "FACEBOOK"
 				web_link="https://www.facebook.com/StellarisGame"
 			}
 
-			buttonType =	{
+			buttonType = {
 				name = "twitter"
 				quadTextureSprite = "GFX_front_menu_twitter"
-				position = { x= 465 y = @links_y  }
+				position = { x = @links_xc2 y = @links_yr2 }
 				pdx_tooltip = "TWITTER"
 				web_link="http://twitter.com/StellarisGame"
 			}
 
-			buttonType =	{
+			buttonType = {
 				name = "you_tube"
 				quadTextureSprite = "GFX_main_menu_youtube"
-				position = { x=519 y = @links_y  }
+				position = { x = @links_xc3 y = @links_yr2 }
 				pdx_tooltip = "YOUTUBE"
 				web_link="https://www.youtube.com/stellarisofficial"
 			}
 
-			buttonType =	{
+			buttonType = {
 				name = "discord"
 				quadTextureSprite = "GFX_main_menu_discord"
-				position = { x=573 y = @links_y  }
+				#position = { x = 590 y = @links_y }
+				position = { x = @links_xc1 y = @links_yr3 }
 				pdx_tooltip = "DISCORD"
 				web_link="https://discord.gg/stellarisofficial"
 			}
+
+#mod start
+			containerWindowType = {
+				name = "modmsg_wnd"
+				#backGround =""
+				
+				position = { x = 300 y = -85 }
+				
+				size = { width=500 height=110 }
+				#moveable = 0
+				#orientation="UPPER_LEFT"
+				#Orientation = "LOWER_RIGHT"
+				#orientation = lower_left
+
+				background = {
+					name = "modmsg_wnd_bg"
+					spriteType = "GFX_tiles_frame"
+				}
+				
+			}
+
+			containerWindowType = {
+				name = "modmsg_wnd_modver"
+				size = { width = 500 height = 20 }
+				position = { x = 305 y = -80 }
+				
+				background = {
+					name = "modmsg_wnd_modver_hitbox"
+					spriteType = "GFX_invisible"
+				}
+
+				instantTextBoxType={
+					name = "moddev_ver"
+					font = "cg_16b"
+					text = "MOD_VERSION"
+					maxWidth = 500
+					text_color_code = "G"
+					alwaysTransparent = yes
+				}
+			}
+
+			containerWindowType = {
+				name = "modmsg_wnd_desc"
+				size = { width = 495 height = 83 }
+				position = { x = 305 y = -60 }
+				verticalScrollBar = "right_vertical_slider"
+				
+				background = {
+					name = "scroll_input_hitbox"
+					spriteType = "GFX_invisible"
+				}
+
+				instantTextBoxType={
+					name = "moddev_description"
+					font = "cg_16b"
+					text = "MOD_DEV_MSG"
+					maxWidth = 500
+					text_color_code = "G"
+					alwaysTransparent = yes
+				}
+			}
+#mod end
 		}
 	}
 
 	containerWindowType = {
 		name = "frontendgui"
-		position = { x= 0 y= 0 }
+		position = { x = 0 y = 0 }
 		size = { width = 100% height = 100%}
+		margin = {
+			top = @main_menu_margin
+			right = @main_menu_margin
+			bottom = @main_menu_margin
+			left = @main_menu_margin
+		}
+
+		containerWindowType = {
+			name = "main_menu_gradient"
+			position = { x = -50 y = -200 }
+			size = { width = 600 height = 4000 }
+
+			background = {
+				name = "main_menu_gradient_bg"
+				quadTextureSprite = "GFX_faded_gradient_tile"
+				alwaysTransparent = yes
+			}
+		}
 
 		iconType = {
 			name = "game_logo"
-			position = { x =140 y = 60 }
+			position = { x = -53 y = -33 } # Makes the logo appear to have the same top and left margin as other elements
 			quadTextureSprite = "gfx_game_logo"
 			Orientation = "UPPER_LEFT"
-		}
-
-		containerWindowType = {
-			name = "modmsg_wnd"
-			#backGround =""
-			
-			position = { x=230 y=200 }
-			
-			size = { width=700 height=200 }
-			#moveable = 0
-			#orientation="UPPER_LEFT"
-
-			background = {
-				name = "modmsg_wnd_bg"
-				spriteType = "GFX_tiles_frame"
-			}
-			
-		}
-		
-		containerWindowType = {
-			name = "modmsg_wnd_modver"
-			size = { width = 690 height = 20 }
-			position = { x = 235 y = 205 }
-			
-			background = {
-				name = "modmsg_wnd_modver_hitbox"
-				spriteType = "GFX_invisible"
-			}
-
-			instantTextBoxType={
-				name = "moddev_ver"
-				font = "cg_16b"
-				text = "MOD_VERSION"
-				maxWidth = 690
-				text_color_code = "G"
-				alwaysTransparent = yes
-			}
-		}
-		
-		containerWindowType = {
-			name = "modmsg_wnd_desc"
-			size = { width = 690 height = 170 }
-			position = { x = 235 y = 225 }
-			verticalScrollBar = "right_vertical_slider"
-			
-			background = {
-				name = "scroll_input_hitbox"
-				spriteType = "GFX_invisible"
-			}
-
-			instantTextBoxType={
-				name = "moddev_description"
-				font = "cg_16b"
-				text = "MOD_DEV_MSG"
-				maxWidth = 690
-				text_color_code = "G"
-				alwaysTransparent = yes
-			}
 		}
 
 		containerWindowType = {
@@ -245,208 +241,317 @@ guiTypes = {
 
 		containerWindowType = {
 			name ="menu"
-			position = { x=17 y=0 }
-			size = { width=1280 height=720 }
-			orientation = center_down
-
+			position = { x = 0 y = 0 }
+			size = { width = 100% height = 100% }
 
 			instantTextBoxType = {
 				name = "version"
 				font = "cg_16b"
 				text = "1337"
-				position = { x= -423 y = -40  }
-				maxWidth = 300
+				#position = { x = 310 y = 0 }
+				position = { x = 930 y = 0 }
+				maxWidth = 400
 				maxHeight = 20
 				fixedSize = yes
 				format = left
+				orientation = lower_left
 			}
+
+
 			buttonType = {
 				name = "version_button"
 				spriteType = "GFX_invisible"
 				size = { x = 450 y = 20 }
-				position = { x= -600 y = -38  }
+				position = { x = 310 y = 0 }
+				orientation = lower_left
 				no_clicksound = yes
 			}
 
 			containerWindowType = {
 				name = "buttons"
+				position = { x = 0 y = 0 }
+				# The height here is the Y position of the last button on small resolutions + the height of the last button.
+				size = { width = @button_large_width height = 350 }
+				origo = CENTER_LEFT
+				orientation = CENTER_LEFT
 
-				buttonType =	{
-					id = "start"
-					name = "start"
-					quadTextureSprite = "GFX_white_stripe_button"
-					position = { x= -640  y = -171 }
-					shortCut = "n"
-					oversound = mouse_over
-					navRight = "multiplayer"
-					defaultSelection = yes
-					clicksound = confirm_click
+				if_scaled_resolution = {
+					min_height = 900
+
+					# The height here is the Y position of the last button on large resolutions + the height of the last button.
+					size = { width = @button_large_width height = 500}
 				}
 
-				instantTextBoxType={
-					name = "start_new_game"
-					font = "malgun_goth_24"
-					text = "FRONT_START"
-					position = { x= -630 y = -155 }
-					maxWidth = 400
-					maxHeight = 35
-					fixedSize = yes
-					format = left
-					alwaysTransparent = yes
+				@button_large_width = 340
+				@button_large_height = 49 # Reduced by 1 pixel to avoid overlap
+
+				containerWindowType = {
+					name = "start_game_container"
+					position = { x = 0 y = 0 }
+					size = { width = @button_large_width height = @button_large_height }
+
+					if_scaled_resolution = {
+						min_height = 900
+
+						position = { x = 0 y = 0 }
+					}
+
+					buttonType = {
+						id = "start"
+						name = "button"
+						spriteType = "GFX_main_menu_button"
+						position = { x = 0 y = 0 }
+						size = { x = @button_large_width y = @button_large_height }
+						oversound = mouse_over
+						defaultSelection = yes
+						clicksound = confirm_click
+					}
+
+					instantTextBoxType = {
+						name = "text"
+						font = "jura"
+						text = "FRONT_START"
+						position = { x = 0 y = -5 }
+						maxWidth = @button_large_width
+						maxHeight = @button_large_height
+						fixedSize = yes
+						format = left
+						vertical_alignment = center
+						alwaysTransparent = yes
+					}
 				}
 
-				buttonType =	{
-					id = "coop"
-					name = "coop"
-					quadTextureSprite = "GFX_white_stripe_button"
-					position = { x= -220 y = -171 }
-					shortCut = "c"
-					oversound = mouse_over
-					navLeft = "multiplayer"
-					navRight = "load"
-					clicksound = confirm_click
-					pdx_tooltip = NAME_Beta
+				containerWindowType = {
+					name = "load_game_container"
+					position = { x = 0 y = 50 }
+					size = { width = @button_large_width height = @button_large_height }
+
+					if_scaled_resolution = {
+						min_height = 900
+
+						position = { x = 0 y = 75 }
+					}
+
+					buttonType = {
+						id = "load"
+						name = "button"
+						spriteType = "GFX_main_menu_button"
+						position = { x = 0 y = 0 }
+						size = { x = @button_large_width y = @button_large_height }
+						oversound = mouse_over
+						clicksound = confirm_click
+					}
+
+					instantTextBoxType = {
+						name = "text"
+						font = "jura"
+						text = "FRONT_LOAD"
+						position = { x = 0 y = -5 }
+						maxWidth = @button_large_width
+						maxHeight = @button_large_height
+						fixedSize = yes
+						format = left
+						vertical_alignment = center
+						alwaysTransparent = yes
+					}
 				}
 
-				instantTextBoxType = {
-					name = "coop_player_text"
-					font = "malgun_goth_24"
-					text = "FRONT_COOP"
-					position = { x= -210 y = -155  }
-					maxWidth = 400
-					maxHeight = 35
-					fixedSize = yes
-					format = left
-					alwaysTransparent = yes
+				containerWindowType = {
+					name = "multiplayer_container"
+					position = { x = 0 y = 100 }
+					size = { width = @button_large_width height = @button_large_height }
+
+					if_scaled_resolution = {
+						min_height = 900
+
+						position = { x = 0 y = 150 }
+					}
+
+					buttonType = {
+						id = "multiplayer"
+						name = "button"
+						spriteType = "GFX_main_menu_button"
+						position = { x = 0 y = 0 }
+						size = { x = @button_large_width y = @button_large_height }
+						oversound = mouse_over
+						clicksound = confirm_click
+					}
+
+					instantTextBoxType = {
+						name = "text"
+						font = "jura"
+						text = "FRONT_MULTIPLAYER"
+						position = { x = 0 y = -5 }
+						maxWidth = @button_large_width
+						maxHeight = @button_large_height
+						fixedSize = yes
+						format = left
+						vertical_alignment = center
+						alwaysTransparent = yes
+					}
 				}
 
-				buttonType =	{
-					id = "multiplayer"
-					name = "multiplayer"
-					quadTextureSprite = "GFX_white_stripe_button"
-					position = { x= -430 y = -171 }
-					shortCut = "m"
-					oversound = mouse_over
-					navLeft = "start"
-					navRight = "load"
-					clicksound = confirm_click
+				containerWindowType = {
+					name = "coop_container"
+					position = { x = 0 y = 150 }
+					size = { width = @button_large_width height = @button_large_height }
+
+					if_scaled_resolution = {
+						min_height = 900
+
+						position = { x = 0 y = 225 }
+					}
+
+					buttonType = {
+						id = "coop"
+						name = "button"
+						spriteType = "GFX_main_menu_button"
+						position = { x = 0 y = 0 }
+						size = { x = @button_large_width y = @button_large_height }
+						oversound = mouse_over
+						clicksound = confirm_click
+						pdx_tooltip = NAME_Beta
+					}
+
+					instantTextBoxType = {
+						name = "text"
+						font = "jura"
+						text = "FRONT_COOP"
+						position = { x = 0 y = -5 }
+						maxWidth = @button_large_width
+						maxHeight = @button_large_height
+						fixedSize = yes
+						format = left
+						vertical_alignment = center
+						alwaysTransparent = yes
+					}
 				}
 
-				instantTextBoxType = {
-					name = "multi_player_text"
-					font = "malgun_goth_24"
-					text = "FRONT_MULTIPLAYER"
-					position = { x= -420 y = -155  }
-					maxWidth = 400
-					maxHeight = 35
-					fixedSize = yes
-					format = left
-					alwaysTransparent = yes
+				containerWindowType = {
+					name = "settings_container"
+					position = { x = 0 y = 200 }
+					size = { width = @button_large_width height = @button_large_height }
+
+					if_scaled_resolution = {
+						min_height = 900
+
+						position = { x = 0 y = 300 }
+					}
+
+					buttonType = {
+						id = "settings"
+						name = "button"
+						spriteType = "GFX_main_menu_button"
+						position = { x = 0 y = 0 }
+						size = { x = @button_large_width y = @button_large_height }
+						oversound = mouse_over
+						clicksound = confirm_click
+					}
+
+					instantTextBoxType = {
+						name = "text"
+						font = "jura"
+						text = "FRONT_SETTINGS"
+						position = { x = 0 y = -5 }
+						maxWidth = @button_large_width
+						maxHeight = @button_large_height
+						fixedSize = yes
+						format = left
+						vertical_alignment = center
+						alwaysTransparent = yes
+					}
 				}
 
-				buttonType =	{
-					id = "load"
-					name = "load"
-					quadTextureSprite = "GFX_white_stripe_button"
-					position = { x= -10 y = -171  }
-					shortCut = "l"
-					oversound = mouse_over
-					navLeft = "multiplayer"
-					navRight = "credits"
-					clicksound = confirm_click
+				containerWindowType = {
+					name = "credits_container"
+					position = { x = 0 y = 250 }
+					size = { width = @button_large_width height = @button_large_height }
+
+					if_scaled_resolution = {
+						min_height = 900
+
+						position = { x = 0 y = 375 }
+					}
+
+					buttonType = {
+						id = "credits"
+						name = "button"
+						spriteType = "GFX_main_menu_button"
+						position = { x = 0 y = 0 }
+						size = { x = @button_large_width y = @button_large_height }
+						oversound = mouse_over
+						clicksound = confirm_click
+					}
+
+					instantTextBoxType = {
+						name = "text"
+						font = "jura"
+						text = "FRONT_CREDITS"
+						position = { x = 0 y = -5 }
+						maxWidth = @button_large_width
+						maxHeight = @button_large_height
+						fixedSize = yes
+						format = left
+						vertical_alignment = center
+						alwaysTransparent = yes
+					}
 				}
 
-				instantTextBoxType = {
-					name = "load_game_text"
-					font = "malgun_goth_24"
-					text = "FRONT_LOAD"
-					position = { x= 0 y = -155  }
-					maxWidth = 400
-					maxHeight = 35
-					fixedSize = yes
-					format = left
-					alwaysTransparent = yes
-				}
+				containerWindowType = {
+					name = "quit_container"
+					position = { x = 0 y = 300 }
+					size = { width = @button_large_width height = @button_large_height }
 
-				buttonType =	{
-					id = "credits"
-					name = "credits"
-					quadTextureSprite = "GFX_main_menu_credits"
-					position = { x= 157 y = -52  }
-					pdx_tooltip = "CREDITS"
+					if_scaled_resolution = {
+						min_height = 900
 
-				}
+						position = { x = 0 y = 450 }
+					}
 
+					buttonType = {
+						id = "quit"
+						name = "button"
+						spriteType = "GFX_main_menu_button"
+						position = { x = 0 y = 0 }
+						size = { x = @button_large_width y = @button_large_height }
+						oversound = mouse_over
+						clicksound = confirm_click
+					}
 
-				buttonType =	{
-					id = "settings"
-					name = "settings"
-					quadTextureSprite = "GFX_white_stripe_button"
-					position = { x= 200 y = -171  }
-					shortCut = "s"
-					oversound = mouse_over
-					navLeft = "credits"
-					navRight = "quit"
-					clicksound = confirm_click
-				}
-
-				instantTextBoxType = {
-					name = "settings_text"
-					font = "malgun_goth_24"
-					text = "FRONT_SETTINGS"
-					position = { x= 210 y = -155  }
-					maxWidth = 400
-					maxHeight = 35
-					fixedSize = yes
-					format = left
-					alwaysTransparent = yes
-				}
-
-				buttonType =	{
-					id = "quit"
-					name = "quit"
-					quadTextureSprite = "GFX_white_stripe_button"
-					position = { x= 410 y = -171  }
-					shortCut = "e"
-					oversound = mouse_over
-					navLeft = "settings"
-					actionShortCut = "cancel"
-				}
-
-				instantTextBoxType = {
-					name = "quit_text"
-					font = "malgun_goth_24"
-					text = "FRONT_QUIT"
-					position = { x= 420 y = -155  }
-					maxWidth = 400
-					maxHeight = 35
-					fixedSize = yes
-					format = left
-					alwaysTransparent = yes
+					instantTextBoxType = {
+						name = "text"
+						font = "jura"
+						text = "FRONT_QUIT"
+						position = { x = 0 y = -5 }
+						maxWidth = @button_large_width
+						maxHeight = @button_large_height
+						fixedSize = yes
+						format = left
+						vertical_alignment = center
+						alwaysTransparent = yes
+					}
 				}
 			}
 
 			iconType = {
 				name = "engine_logo"
-				position = { x = 460 y = -110 }
-				quadTextureSprite = "GFX_clausewitz_logo"
-				#Orientation = "LOWER_RIGHT"
-				scale = 1.0
+				position = { x = 0 y = -85 }
+				quadTextureSprite = "GFX_clausewitz_flat_logo"
+				orientation = lower_left
 			}
 
 			iconType = {
 				name = "pi_logo"
-				position = { x = -535 y = -100 }
+				position = { x = 190 y = -85 }
 				quadTextureSprite = "GFX_pi_logo"
-				#Orientation = "LOWER_RIGHT"
-				scale = 0.7
+				orientation = lower_left
 			}
 
 			iconType = {
 				name = "pds_logo"
-				position = { x = -625 y = -105 }
+				position = { x = 95  y = -85 }
 				quadTextureSprite = "GFX_pds_logo"
-				scale = 0.53
+				orientation = lower_left
 			}
 		}
 
@@ -455,7 +560,8 @@ guiTypes = {
 			name ="load_save"
 			position = { x=0 y=0 }
 			size = { width=1024 height=720 }
-			orientation = upper_left
+			orientation = center
+			origo = center
 
 			instantTextBoxType = {
 
@@ -530,8 +636,6 @@ guiTypes = {
 			Orientation = "CENTER"
 			position = { x= -500 y= -350 }
 		}
-
-
 
 		containerWindowType = {
 			name = "blocker"

@@ -238,13 +238,13 @@ guiTypes = {
 			
 			instantTextBoxType = {
 				name = "government_title"
-				position = { x = 5 y = 232 }
+				position = { x = 45 y = 232 }
 				font = "malgun_goth_24"
 				text = "GOVERNMENT_LABEL"
-				maxWidth = 270
+				maxWidth = 230
 				maxHeight = 22
 				fixedSize = yes
-				format = center
+				format = left
 			}			
 			
 			containerWindowType = {
@@ -421,7 +421,7 @@ guiTypes = {
 					
 					instantTextBoxType = {
 						name = "next_election_label"
-						position = { x = 0 y = -1 }
+						position = { x = -35 y = -1 }
 						textureFile = ""
 						font = "cg_16b"
 						borderSize = {x = 0 y = 0}
@@ -434,7 +434,7 @@ guiTypes = {
 
 					instantTextBoxType = {
 						name = "next_election"
-						position = { x = 0 y = 14 }
+						position = { x = -35 y = 14 }
 						textureFile = ""
 						font = "cg_16b"
 						borderSize = {x = 0 y = 0}
@@ -487,7 +487,7 @@ guiTypes = {
 				iconType = {
 					name = "government_authority"
 					quadTextureSprite = "GFX_government_authority"
-					position = { x = 9 y = 11 }
+					position = { x = 0 y = -101 }
 					scale = .65
 					orientation = "UPPER_LEFT"
 				}
