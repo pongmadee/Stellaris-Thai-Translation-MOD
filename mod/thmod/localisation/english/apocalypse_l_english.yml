@@ -623,7 +623,7 @@
  apoc.201.name:0 "No Holy World Candidate Found"
  apoc.201.desc:0 "Our top scryers have issued a report stating that no spiritual nexuses are to be found among the planets within our Empire."
  apoc.201.a.tooltip:0 "Edict £influence£ Influence cost is refunded."
- holy_player_planet:1 "โลกแห่งความศักดิ์สิทธิ์"
+ holy_player_planet:1 "ดาวแห่งความศักดิ์สิทธิ์"
  holy_player_planet_desc:0 "This planet is unspoiled by sapient life and considered sacred."
  has_holy_player_planet:0 "World Worship"
  has_holy_player_planet_desc:0 "We have designated an uninhabited world within our borders as a holy place."
