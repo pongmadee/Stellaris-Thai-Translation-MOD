@@ -577,7 +577,7 @@
  leader_trait_tuner_2_machine_desc:0 "$leader_trait_tuner_machine_desc$"
  trait_ruler_world_shaper_hive:0 "World Shaper"
  trait_ruler_world_shaper_hive_desc:0 "This node is specialized for improving colonized worlds."
- trait_ruler_world_shaper_machine:0 "ผู้สร้างโลก"
+ trait_ruler_world_shaper_machine:0 "ผู้สร้างดาว"
  trait_ruler_world_shaper_machine_desc:1 "This unit is specialized for improving colonized worlds."
  leader_trait_bureaucrat_hive:0 "Mindfulness"
  leader_trait_bureaucrat_hive_desc:1 "This drone raises performance standards and increases the efficiency of all administrative drones."

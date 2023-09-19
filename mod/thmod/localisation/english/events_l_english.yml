@@ -1968,7 +1968,7 @@
  country.14.desc:0 "Little remains of the strange alien modifications that our missing sublight probe had been subjected to, but we did manage to collect some valuable engineering data from the wreckage. Its memory bank was also salvaged, and from it we have extracted survey data of the entire [modified_probe_system.GetName] system."
  country.15.name:0 "Probes Collected"
  country.15.desc:0 "We have successfully collected all of our missing sublight probes! The detailed information they held on our culture is now safe from prying alien photoreceptors.\n\nWith their combined sensor telemetry, we have been able to fully survey a number of additional neighboring systems."
- country.50.name:0 "การสำรวจโลกที่สามารถอยู่อาศัยได้"
+ country.50.name:0 "การสำรวจดาวที่สามารถอยู่อาศัยได้"
  country.50.desc:0 "We now know without a doubt that a thriving biosphere is not something unique to [Root.Capital.GetName]. Both the scientific community and the public at large are eager to learn more about the various forms of alien life found throughout the galaxy.\n\nEfforts to catalog the life forms we encounter are already underway, but our xenobiologists have urged us to focus our planetary survey efforts on habitable, life-bearing worlds."
  country.50.desc_slaves:0 "We already knew without a doubt that a thriving biosphere is not something unique to [Root.Capital.GetName]. Both the scientific community and the public at large are eager to learn more about the various forms of alien life found throughout the galaxy.\n\nEfforts to catalog the life forms we encounter are already underway, but our xenobiologists have urged us to focus our planetary survey efforts on habitable, life-bearing worlds."
  country.50.a:0 "A commendable initiative!"

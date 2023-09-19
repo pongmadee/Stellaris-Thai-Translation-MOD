@@ -59,7 +59,7 @@
  quantum_catapult_restored_slingshot_DESC:1 "$quantum_catapult_2_DESC$"
  quantum_catapult_improved_slingshot:0 "Improved $quantum_catapult_1$"
  quantum_catapult_improved_slingshot_DESC:2 "$quantum_catapult_3_DESC$"
- quantic_ambush:0 "Quantic Ambush"
+ quantic_ambush:0 "การซุ่มโจมตีแบบควอนติก"
  quantic_ambush_specialists:0 "Quantic Ambush Specialists"
  quantic_ambush_bonus_slingshot:0 "§G50%§!"
  quantic_ambush_bonus:0 "§G33%§!"

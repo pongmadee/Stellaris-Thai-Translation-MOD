@@ -811,7 +811,7 @@
  anomaly.7020.name:0 "On Solar Sails"
  anomaly.7020.desc:0 "We have found the wreckage of an archaic spaceship of unusual design. Instead of using propulsion similar to that of modern ships, the craft relied on large sails unfurled in the vacuum of space. Presumably, the ship harvested solar energy and drifted on the solar winds created by starlight."
  anomaly.7020.a:0 "We should dig deeper."
- harmonious_crew:0 "Harmonious Crew"
+ harmonious_crew:0 "ลูกเรือที่ทำงานประสานกัน"
  situation_negative_mass:0 "Plight of the Beta-Universe"
  situation_negative_mass_type:0 "$situation_negative_mass$"
  situation_negative_mass_desc:0 "We have been confronted with a terrible situation inside the 'Beta-Universe' and must now decide if we are to stand aside or assist the doomed dimension."

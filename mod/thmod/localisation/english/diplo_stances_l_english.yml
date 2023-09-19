@@ -16,7 +16,7 @@
  diplo_stance_supremacist_name:0 "$diplo_stance_supremacist$"
  diplo_stance_supremacist_desc:0 "จักรวรรดินี้ต้องการให้ทุกคนยอมก้มหัวต่อหน้าพวกเขา\n\n§Rท่าทีทางการทูตนี้จะเป็นผลร้ายต่อความสัมพันธ์กับจักรวรรดิอื่นๆที่มีท่าทีทางการทูต §Y$diplo_stance_supremacist$§!§!\n\n§E$easy_rivalry$\n$influence_cost_for_improving_relations_effect$§!"
  triggered_opinion_diplo_stance_supremacy:0 "Both $diplo_stance_supremacist$"
- diplo_stance_animosity: "Antagonistic"
+ diplo_stance_animosity: "เป็นปฏิปักษ์"
  diplo_stance_animosity_name: "$diplo_stance_animosity$"
  diplo_stance_animosity_desc: "This empire wants to compete against all possible rivals.\n\n§RThis Diplomatic Stance will increase the Negative Opinion impact of being §YRivals§! by 100.§!\n\n§ERestrictions on the §YRival§! action against empires more powerful than us are removed.\n\n$easy_rivalry$§!\n"
  diplo_stance_mercantile:0 "ค้าขาย"

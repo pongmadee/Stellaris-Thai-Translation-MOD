@@ -70,7 +70,7 @@
  concept_edicts:0 "ประกาศคำสั่ง"
  concept_edicts_desc:1 "ประกาศคำสั่งคือการตัดสินใจบางอย่างซึ่งมีผลบังคับใช้ทั่วทั้งจักรวรรดิ โดยการใช้ทรัพยากรหรือจ่ายเป็นค่าบำรุงรักษารายเดือน โดยทั่วไป ค่าใช้จ่ายเหล่านี้จะจ่ายเป็น $i_unity$ หรือ ['concept_edict_fund'] แต่คำสั่งบางอย่าง อาจต้องจ่ายเป็นทรัพยากรอื่นๆแทน"
  concept_edict_fund:0 "กองทุนสำหรับประกาศคำสั่ง"
- concept_edict_fund_desc:1 "The Edict Fund is a separate and static pool of $i_unity$ for §IEdict§! Upkeep.\n\nIf upkeep exceeds the size of the Fund, regular $i_unity$ will also be used."
+ concept_edict_fund_desc:1 "กองทุนประกาศคำสั่งเป็น $i_unity$ ที่แยกออกมาจากทรัพยากรเอกภาพก้อนหลัก เพื่อคง §Iประกาศคำสั่ง§! เอาไว้\n\nหากค่าบำรุงรักษาประกาศคำสั่งมีเกินกว่าขนาดของกองทุน ก็จะใช้ทรัพยากร $i_unity$ แบบปกติด้วย"
  concept_faction:0 "กลุ่มการเมือง"
  concept_factions:0 "กลุ่มการเมือง"
  concept_factions_desc:0 "คือกลุ่ม £pops£ §Iประชากร§! ที่มีความต้องการร่วมกันว่าจักรวรรดิควรดำเนินการอะไร-อย่างไร\n\n$POP_FACTIONS_APPROVAL_DESC$"

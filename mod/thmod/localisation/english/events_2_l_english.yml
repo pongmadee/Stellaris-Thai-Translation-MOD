@@ -164,7 +164,7 @@
  anomaly.115.name:0 "Cell Cells"
  anomaly.115.desc:0 "[From.GetName] is partially hollow. Within its interior spaces sprawls a dense honeycomb structure crafted of some unknown alloy, housing containers of alien genetic material. By all appearances this is an archive of life, the genetic record of some earlier civilization come and gone. Most of the DNA is hopelessly degraded, but there is still much to learn here."
  anomaly.120.name:0 "เสาหินขนาดใหญ่มาก"
- anomaly.120.desc:0 "[From.GetName] ไม่มีใครอยู่ ไม่สามารถอยู่อาศัยได้จริง และไม่มีใครมาเยี่ยมเยียน พื้นผิวของมันเต็มไปด้วยศิลาจารึกสูงที่แกะสลักจากแร่บางชนิดที่ไม่มีบนโลก เห็นได้ชัดว่าถูกวางไว้ที่นี่โดยการแข่งขันในอวกาศที่มีความโน้มเอียงทางศิลปะ เส้นที่อยู่บนเสาหินสามารถนำไปสร้างแผนภูมิประวัติศาสตร์ได้ง่าย ดังนั้นมันจึงต้องเป็นเรื่องราวอย่างแน่นอน\n\nแน่นอน"
+ anomaly.120.desc:0 "[From.GetName] ไม่มีใครอยู่ ไม่สามารถอยู่อาศัยได้จริง และไม่มีใครมาเยี่ยมเยียน พื้นผิวของมันเต็มไปด้วยศิลาจารึกสูงที่แกะสลักจากแร่บางชนิดที่ไม่มีบนดาว เห็นได้ชัดว่าถูกวางไว้ที่นี่โดยการแข่งขันในอวกาศที่มีความโน้มเอียงทางศิลปะ เส้นที่อยู่บนเสาหินสามารถนำไปสร้างแผนภูมิประวัติศาสตร์ได้ง่าย ดังนั้นมันจึงต้องเป็นเรื่องราวอย่างแน่นอน\n\nแน่นอน"
  anomaly.120.a:0 "วาดภาพพวกมันแล้วเก็บไว้ในคลังข้อมูล"
  anomaly.120.b:0 "พวกมัน... สวยงาม"
  anomaly.120.b.tooltip:2 "สร้างการจำลองเสาหินแบบดิจิทัลใน §Yจักรวรรดิ§! ของเรา"

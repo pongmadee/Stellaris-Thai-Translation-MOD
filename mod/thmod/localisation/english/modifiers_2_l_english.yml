@@ -173,7 +173,7 @@
  mod_damage_vs_country_type_gray_mult:0 "Damage to the Gray Tempest"
  MOD_DAMAGE_VS_PLAYER_CRISIS_MULT:0 "Damage to Crisis-Seeking Civilizations"
  MOD_DAMAGE_VS_RIVAL_MULT:0 "ทำความเสียหายกับคู่แข่ง"
- MOD_DAMAGE_VS_SUPERIOR_EMPIRES_MULT:0 "Damage to Militarily Superior Empires"
+ MOD_DAMAGE_VS_SUPERIOR_EMPIRES_MULT:0 "สร้างความเสียหายให้กับจักรวรรดิที่การทหารเหนือกว่า"
  opinion_literary_savior:0 "Literary Savior"
  opinion_book_burner:0 "ประกาศความเหนือกว่า"
  opinion_faction_insult:0 "Faction Insult"
