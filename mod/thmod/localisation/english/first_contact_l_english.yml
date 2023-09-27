@@ -192,7 +192,7 @@
  payback_no_revenge_small_desc:0 "$payback_no_revenge_desc$"
  payback_underdog:0 "Underdog"
  payback_underdog_desc:0 "When a bigger empire bites, we bite back."
- payback_underdog_tooltip:1 "Damage to Endgame Crisis factions: §G+20%§!"
+ payback_underdog_tooltip:1 "สร้างความเสียหายให้กับฝ่ายไครซิสตอนจบเกม: §G+20%§!"
  payback_underdog_khan:0 "$payback_underdog$"
  payback_underdog_khan_desc:0 "$payback_underdog_desc$"
  payback_student:0 "Certified Educator"

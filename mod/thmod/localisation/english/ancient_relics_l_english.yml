@@ -405,7 +405,7 @@
  artifact_sanctuary_exhibits:1 "นิทรรศการเขตรักษาพันธุ์ §E(การตัดสินใจของดาวเคราะห์)§!"
  artifact_sanctuary_exhibits_desc:0 "The $decision_sanctuary_exhibits$ decision entertains the Bio-Trophies on one of our planets."
  artifact_sanctuary_exhibits_effect:1 "$decision_sanctuary_exhibits_desc$\n\n$artifact_action_planetary_decision$"
- decision_sanctuary_exhibits:0 "ส่งศิลปวัตถุไปยังปูชนียสถานของสิ่งมีชีวิต"
+ decision_sanctuary_exhibits:0 "ส่งศิลปวัตถุไปยังเขตรักษาพันธุ์สิ่งมีชีวิต"
  decision_sanctuary_exhibits_desc:0 "Put the minor artifacts on public display to entertain our $job_bio_trophy_plural$ with the wonders of the past."
  planet_sanctuary_exhibits:0 "นิทรรศการศิลปวัตถุ"
  planet_sanctuary_exhibits_desc:0 "The display of alien artifacts is all our $job_bio_trophy_plural$ are talking about!"
