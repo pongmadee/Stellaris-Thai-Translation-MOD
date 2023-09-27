@@ -360,6 +360,7 @@
  NAME_wenkwort_asteroid:0 "Truin"
  NAME_Gardener_Drone:0 "Audon Caretaker Unit"
  NAME_Gardener_Drone_plural:0 "Caretaker Division 14-WW"
+ NAME_Gardeners: "Gardeners"
  NAME_Gardener1:0 "CT Perton"
  NAME_Gardener2:0 "CT Sparton-Bron"
  NAME_Gardener3:0 "CT Whisenton"

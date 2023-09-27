@@ -64,4 +64,4 @@
  policy_diplomatic_stance:0 "ท่าทีทางการทูต"
  policy_diplomatic_stance_desc:0 "We can set our general diplomatic agenda, changing how we interact with the rest of the galaxy.\n"
  requires_supremacy_traditions:0 "$TRIGGER_FAIL$ต้องการ §Y$tr_supremacy_finish$§!"
- requires_enmity_traditions: "$TRIGGER_FAIL$Requires §Y$tr_enmity_finish$§!"
+ requires_enmity_traditions: "$TRIGGER_FAIL$ต้องการ §Y$tr_enmity_finish$§!"

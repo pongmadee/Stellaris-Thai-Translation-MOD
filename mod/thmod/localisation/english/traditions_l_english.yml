@@ -453,7 +453,7 @@
  tr_subterfuge_adopt:0 "วัฒนธรรมการวางอุบาย"
  tr_subterfuge_adopt_desc:0 "เทคโนโลยีที่เกี่ยวกับ§Yการวางอุบาย§! จะปรากฏให้เลือกเพิ่มขึ้น §Y5§! เท่า จากอัตราปกติ"
  tr_subterfuge_finish:0 "วัฒนธรรมการวางอุบายสำเร็จ"
- tr_subterfuge_finish_effect:0 "Successful §YOperations§! refund §G50%§! of their Infiltration Level Cost."
+ tr_subterfuge_finish_effect:0 "เมื่อ §Yปฏิบัติการ§! ประสบความสำเร็จ จะคืนค่าใช้จ่าย §G50%§! ของเลเวลการแทรกซึมของพวกเขา"
  tr_subterfuge_finish_desc:1 "$tr_subterfuge_finish_effect$\n$TRADITIONS_FINISH_AP$"
  tr_subterfuge_cloaking_finish:0 "$tr_subterfuge_finish$"
  tr_subterfuge_cloaking_finish_desc:0 "$tr_subterfuge_finish_effect$\n$MOD_SHIP_CLOAKING_STRENGTH_ADD$: §G+1§!\n$TRADITIONS_FINISH_AP$"

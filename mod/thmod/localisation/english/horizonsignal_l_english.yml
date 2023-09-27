@@ -32,7 +32,7 @@
  building_akx_worm_1_desc:0 "Significantly increases the power output of the planet using techniques with no place in conventional physics. Implicated in night-terrors and dreams of falling."
  building_akx_worm_2:0 "Loop Institute"
  building_akx_worm_2_desc:0 "Loop teachings encourage intuition, compliance and a valuable sense of perspective."
- building_akx_worm_3:0 "วัตถุจัดตำแหน่งโอเมก้า"
+ building_akx_worm_3:0 "Omega Alignment"
  building_akx_worm_3_desc:0 "พื้นผิวของวัตถุนี้ทำมุมอวกาศ ภายในจะมองไม่สามารถเห็นเซ็นเซอร์หรือเทคโนโลยีการถ่ายภาพที่มีอยู่ แต่เราทุกคนรู้ดีว่ามีอะไรอยู่ในนั้น"
  requires_power_hub_absence:1 "§RThe presence of any $building_power_hub_1$ or $building_power_hub_2$ on the planet will disturb the delicate helical flows that are integral to the proper functioning of the Spiral-Feed Power Hub.§!"
  building_worm_mine:0 "Spiral-Hewn Mine"

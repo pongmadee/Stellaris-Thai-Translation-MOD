@@ -983,7 +983,7 @@
  mod_pc_alpine_habitability:0 "การอยู่อาศัยได้ในดาวที่มีเทือกเขาสูง"
  mod_pc_habitat_habitability:0 "การอยู่อาศัยได้ในที่อยู่อาศัยในอวกาศ"
  mod_pc_shattered_ring_habitable_habitability:0 "Shattered Ring Habitability"
- MOD_HABITABILITY_FLOOR:0 "Species Minimum Habitability"
+ MOD_HABITABILITY_FLOOR:0 "การอยู่อาศัยได้ขั้นต่ำของเผ่าต่างๆ"
  MOD_HABITABILITY_CEIL:0 "Species Habitability Cap"
  MOD_HABITABILITY_FLOOR_ADD:0 "$MOD_HABITABILITY_FLOOR$"
  MOD_HABITABILITY_FLOOR_MULT:0 "$MOD_HABITABILITY_FLOOR$"
