@@ -225,7 +225,7 @@
  mod_op_cat_military_skill_add:1 "สกิลปฏิบัติการ ($op_cat_military$)"
  espionage_operation_roll_header:2 "§H$ARCHAEOLOGICAL_SITE_BREAKTHROUGH$§!\nThis reflects the chance of your operatives making a breakthrough during the current stage of their Operation.\n\nEvery time a phase ends, a die (§Y1§! to §Y10§!) is rolled. The result of the roll is added to §YSkill Bonus§! and §YInsights§!, then subtracted by §YDifficulty§!."
  espionage_operation_roll_extended_header:0 "$espionage_operation_roll_header$\n\n§ERoll Outcomes:§!"
- ESPIONAGE_OPERATION_ON_ROLL_FAILED_RANGE:1 "($CHANCE|%0Y$) Result is between $MIN|0Y$ and $MAX|0Y$. Adds $CLUES|0Y$ Insight(s)."
+ ESPIONAGE_OPERATION_ON_ROLL_FAILED_RANGE:1 "($CHANCE|%0Y$) ผลลัพธ์อยู่ระหว่าง $MIN|0Y$ และ $MAX|0Y$ เพิ่มข้อมูลเชิงลึก $CLUES|0Y$"
  ESPIONAGE_OPERATION_ON_ROLL_FAILED_GREATER_THAN_EQ:1 "($CHANCE|%0Y$) Result is $MIN|0Y$ or greater. Finishes stage."
  ESPIONAGE_OPERATION_ON_ROLL_FAILED_LESS_THAN_EQ:1 "($CHANCE|%0Y$) Result is $MAX|0Y$ or less. Adds $CLUES|0Y$ Insights."
  ESPIONAGE_OPERATION_SPYNETWORK_NOT_LEVEL:2 "§R- ต้องการ §Yเลเวลการแทรกซึม§! $VALUE|Y$ หรือสูงกว่า§!"

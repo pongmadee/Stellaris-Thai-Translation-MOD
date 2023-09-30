@@ -262,7 +262,7 @@
  influence_cost_for_harming_relations_effect:1 "การส่งทูตไป §Y$harm_relations_TITLE$§! มีค่าใช้จ่าย £influence£ 0.25 ต่อเดือน\n"
  influence_cost_for_improving_or_harming_relations_effect:1 "การส่งทูตไป §Y$improve_relations_TITLE$§! หรือ §Y$harm_relations_TITLE$§! มีค่าใช้จ่าย £influence£ 0.25 ต่อเดือน\n"
  influence_cost_for_close_borders:0 "การ §Y$ACTION_CLOSE_BORDERS_TITLE$§! (กิจกรรมทางการทูต) กับจักรวรรดิที่ไม่ใช่คู่แข่ง จะเสียค่าใช้จ่าย £influence£ 0.25 ต่อเดือน\n"
- easy_rivalry:0 "Restrictions on the §YRival§! action are relaxed both for and against us.\n"
+ easy_rivalry:0 "ข้อจำกัดในการกระทำที่เกี่ยวกับ §Yคู่แข่ง§! ผ่อนคลายทั้งเขาและเรา\n"
  envoy_costs:0 "ทูต"
  diplo_closed_borders:0 "$opinion_closed_borders$"
  EMPIRE_OVERVIEW:0 "ภาพรวมของจักรวรรดิ"

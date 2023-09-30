@@ -55,7 +55,7 @@
  RT_HIGH_ARTIST:0 "Headmaster"
  opinion-3:0 "ทัศนคติ: £opinion£ §R-3§!"
  opinion-5:0 "ทัศนคติ: £opinion£ §R-5§!"
- opinion_canceled_trade: "Opinion: £opinion£ §R[GetOpionLossTrader]§!"
+ opinion_canceled_trade: "ทัศนคติ: £opinion£ §R[GetOpionLossTrader]§!"
  opinion_enclave_trade_deal_1:0 "$OPINION$: £opinion£ §G+$@traderOpinion1$§! ต่อปี"
  opinion_enclave_trade_deal_2:0 "$OPINION$: £opinion£ §G+$@traderOpinion2$§! ต่อปี"
  opinion_enclave_trade_deal_3:0 "$OPINION$: £opinion£ §G+$@traderOpinion3$§! ต่อปี"

@@ -929,7 +929,7 @@
  leader_trait_expertise_archaeostudies:0 "เชี่ยวชาญ: การศึกษาโบราณคดี"
  leader_trait_expertise_archaeostudies_desc:0 "This leader is, following years of study, considered an expert within the field of Archaeostudies."
  aura_detection_scrambler:0 "Detection Scrambler"
- mod_starbase_shipyard_build_minor_artifacts_cost_mult: "Minor Artifact Ship Cost"
+ mod_starbase_shipyard_build_minor_artifacts_cost_mult: "ค่าใช้จ่ายของยาน (ศิลปวัตถุชั้นรอง)"
  opinion_devolved_a_world:0 "Devolved a World"
  opinion_devolved_my_world:0 "Devolved one of our Worlds"
  opinion_devolved_a_primitive_world:0 "Devolved a Primitive World"
