@@ -1642,7 +1642,7 @@
  mod_planet_sr_miners_rare_crystals_produces_mult:0 "£rare_crystals£ $rare_crystals$จาก ผู้เก็บรวบรวมทรัพยากรเชิงยุทธศาสตร์"
  mod_planet_sr_miners_volatile_motes_produces_mult:0 "£volatile_motes£ $volatile_motes$จาก ผู้เก็บรวบรวมทรัพยากรเชิงยุทธศาสตร์"
  mod_planet_sr_miners_exotic_gases_produces_mult:0 "£exotic_gases£ $exotic_gases$จาก ผู้เก็บรวบรวมทรัพยากรเชิงยุทธศาสตร์"
- mod_planet_sr_miners_produces_mult:0 "$r_strategic_plural$ from Strategic Resource Gatherers"
+ mod_planet_sr_miners_produces_mult:0 "$r_strategic_plural$ จาก ผู้เก็บรวบรวมทรัพยากรเชิงยุทธศาสตร์"
  mod_planet_metallurgists_alloys_produces_mult:1 "£alloys£ $alloys$จาก £job_foundry£ [GetAlloyProducerPlural]"
  mod_planet_metallurgists_alloys_produces_add:0 "$mod_planet_metallurgists_alloys_produces_mult$"
  mod_planet_metallurgists_energy_upkeep_add:0 "£energy£ $energy$ ที่เป็นค่าบำรุงรักษาของ £job_foundry£ [GetAlloyProducerPlural]"
