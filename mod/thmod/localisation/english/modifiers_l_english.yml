@@ -1537,7 +1537,7 @@
  mod_shipsize_crisis_destroyer_tracking_mult:1 "การติดตาม $crisis_destroyer$"
  mod_shipsize_crisis_cruiser_hull_mult:1 "HP $crisis_cruiser$"
  MOD_SHIP_DAMAGE_AGAINST_STARBASES_MULT:1 "ทำความเสียหายกับฐานอวกาศ"
- MOD_DIPLO_ACTION_ACCEPTANCE_ADD:0 "Diplomatic Acceptance"
+ MOD_DIPLO_ACTION_ACCEPTANCE_ADD:0 "การยอมรับทางการทูต"
  mod_ships_energy_upkeep_mult:0 "£energy£ พลังงานที่ใช้บำรุงรักษายาน"
  mod_starbases_energy_upkeep_mult:0 "£energy£ พลังงานที่ใช้บำรุงรักษาฐานอวกาศ"
  MOD_CATAPULT_SPREAD_BASE:0 "เครื่องเหวี่ยงกองยานควอนตัม ความแม่นยำ (พื้นฐาน)"

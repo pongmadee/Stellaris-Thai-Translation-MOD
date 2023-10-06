@@ -386,7 +386,7 @@
  paragon.41520.name:0 "Heeding the Call"
  paragon.41520.desc:1 "For years, §Y[Root.GetName]§! has been calling out into the void via powerful psionic dreams. Now, several civilian ships carrying members of many species have appeared in orbit around [planet_governed.GetName]. In exchange for a chance to live with their prophet, they are willing to serve us."
  paragon.41520.a:0 "They will be a part of our flock."
- paragon.41520.a.custom_tooltip:0 "Adds §Y3§! Spiritualist, Psionic Pops to [event_target:planet_governed.GetName]."
+ paragon.41520.a.custom_tooltip:0 "เพิ่ม §Y3§! ลัทธิจิตวิญญาณ, ประชากรพลังจิตไปที่ [event_target:planet_governed.GetName]"
  paragon.41520.b:0 "They are not welcome."
  paragon.41610.name:0 "Relics of an Ancient Past"
  paragon.41610.desc:1 "§Y[Root.GetName]§! the Archivist has discovered a cache of ancient relics. [Root.GetHeSheCap] pieced together information of their whereabouts from old myths and sensor logs traded from roaming pirates. The origin of the mysterious objects remains unclear, but by absorbing low frequency sound, they occasionally produce slight temporal distortions. The technology should prove beneficial."
