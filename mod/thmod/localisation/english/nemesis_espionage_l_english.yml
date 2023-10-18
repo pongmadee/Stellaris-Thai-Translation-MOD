@@ -455,7 +455,7 @@
  envoy_events.225.name:0 "A Salacious Affair"
  envoy_events.225.desc:0 "The [Root.GetAdj] diplomatic corps has been shaken by the news emerging from the [scandal_empire.GetName]. Our [event_envoy.GetAmbassadorOrNot] [event_envoy.GetName], who had been stationed there, has gotten [event_envoy.GetHerselfHimself] into a serious mess with [scandal_empire.GetAdj] law enforcement. [event_envoy.GetSheHeCap] [event_envoy.GetIsAre] currently in connection with a salacious affair involving an astonishing range of serious crimes that culminated in a brutal double murder.\n\nAs matters stand - and with rumors running wild among the [scandal_empire.GetSpeciesNamePlural] - there seems little doubt as to [event_envoy.GetName]'s guilt. The [scandal_empire.GetAdj] authorities have requested that [event_envoy.GetHerHis] diplomatic immunity be lifted so that [event_envoy.GetSheHe] can face justice for [event_envoy.GetHerHis] deeds."
  envoy_events.225.A:0 "Lift the immunity."
- envoy_events.225.A.tooltip:0 "§Y[event_envoy.GetName]§! is removed from our leader pool."
+ envoy_events.225.A.tooltip:0 "§Y[event_envoy.GetName]§! ถูกลบออกจากกลุ่มผู้นำของเรา"
  envoy_events.225.B:0 "Recall [event_envoy.GetName] for [event_envoy.GetHerHis] own protection."
  opinion_envoy_murder_scandal:0 "Sheltering Murderers"
  envoy_events.230.name:0 "[Root.GetName] Arrested"

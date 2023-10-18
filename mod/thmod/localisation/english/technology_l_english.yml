@@ -1,7 +1,7 @@
 ﻿l_english:
  materials:0 "วัสดุ"
  materials_desc:0 "The creation and manipulation of materials for increased utility and durability."
- propulsion:0 "แรงขับดัน"
+ propulsion:0 "ระบบขับเคลื่อน"
  propulsion_desc:1 "The study of propulsion and trajectory."
  voidcraft:0 "ยานอวกาศ"
  voidcraft_desc:0 "Space is the final frontier. To master it is to master the future."
@@ -378,7 +378,7 @@
  tech_zero_point_power_desc:1 "These generators extract vacuum energy, providing an almost limitless supply of ship power. There is no more efficient way to generate energy."
  tech_dark_matter_power_core:0 "พลังงานสสารมืด"
  tech_dark_matter_power_core_desc:1 "These generators appear to somehow draw energy directly from dark matter, providing more ship power than should be possible according to the laws of physics."
- tech_dark_matter_propulsion:0 "การขับเคลื่อนด้วยสสารมืด"
+ tech_dark_matter_propulsion:0 "ระบบขับเคลื่อนด้วยสสารมืด"
  tech_dark_matter_propulsion_desc:0 "$SHIP_THRUSTER_5_DESC$"
  tech_reactor_boosters_1:0 "เครื่องเร่งปฏิกิริยา"
  tech_reactor_boosters_1_desc:0 "$REACTOR_BOOSTER_1_DESC$"
