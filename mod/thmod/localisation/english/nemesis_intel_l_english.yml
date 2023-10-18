@@ -117,7 +117,7 @@
  DIPLO_PACTS_SECOND_HAND_PACTS_ONLY_TOOLTIP:0 "This Empire might have more diplomatic pacts that we do not know of yet."
  UNKNOWN_FEDERATION:0 "ไม่ทราบสหพันธ์"
  FEDERATION_CENTRALIZATION_INTEL:0 "This level of centralization will add $INTEL|Y$ to the base level of Intel provided by this Federation type, setting it to a minimum of $TOTAL|Y$."
- FEDERATION_TYPE_INTEL:0 "Base Intel on Federation Members is set to a minimum of $INTEL|Y$, modified by Federation Centralization."
+ FEDERATION_TYPE_INTEL:0 "ข่าวกรองพื้นฐานของสมาชิกสหพันธ์ถูกกำหนดขั้นต่ำที่ $INTEL|Y$ และปรับเปลี่ยนโดยการรวมอำนาจเข้าสู่ส่วนกลางของสหพันธ์"
  OPINION_BREAKDOWN_NOT_ENOUGH_INTEL:2 "Since we do not have enough Intel, we can only speculate as to their reasons."
  CANNOT_INSPECT_NO_INTEL:1 "We do not have enough Intel to know their ship design."
  INTEL_NEGATIVE:1 "Intel on $TARGET|R$ is falling"

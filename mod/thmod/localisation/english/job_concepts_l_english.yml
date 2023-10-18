@@ -52,6 +52,6 @@
  concept_low_tech_researcher: "$job_low_tech_researcher_plural$"
  concept_low_tech_researcher_desc: "$job_low_tech_researcher_plural$ turn $i_consumer_goods$ into $i_research$\n\n§L$job_low_tech_researcher_desc$§!"
  concept_low_tech_bureaucrat: "$job_low_tech_bureaucrat_plural$"
- concept_low_tech_bureaucrat_desc: "$job_low_tech_bureaucrat_plural$ turn $i_consumer_goods$ into $i_unity$\n\n§L$job_low_tech_bureaucrat_desc$§!"
+ concept_low_tech_bureaucrat_desc: "$job_low_tech_bureaucrat_plural$ เปลี่ยน $i_consumer_goods$ เป็น $i_unity$\n\n§L$job_low_tech_bureaucrat_desc$§!"
  concept_low_tech_warrior: "$job_low_tech_warrior_plural$"
  concept_low_tech_warrior_desc: "$job_low_tech_warrior_plural$ decrease £crime£ §I$PLANET_CRIME_TITLE$§! and spawn £defense_army£ §IDefense Armies§!\n\n§L$job_low_tech_warrior_desc$§!"
