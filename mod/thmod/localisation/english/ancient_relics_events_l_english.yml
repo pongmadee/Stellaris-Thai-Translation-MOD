@@ -8,7 +8,7 @@
  crisis.2480.name:0 "Mainframe Core Salvaged"
  crisis.2480.desc:0 "Our forces have salvaged a partially intact §HContingency Mainframe Core§! from the wreckage of their last Machine World. This incredibly powerful computer was used to plan and maintain the Contingency's building programs, and it will greatly increase our robot and megastructure construction speeds.\n\nSeveral layers of safeguards will have to be put in place, of course, to prevent the resurfacing of any remaining Contingency code, which could result in... unfortunate side effects."
  crisis.2481.desc:0 "Our forces have captured a partially intact §HContingency Mainframe Core§! attempting to flee their last Machine World shortly before the shielding completed. This incredibly powerful computer was used to plan and maintain the Contingency's building programs, and it will greatly increase our robot and megastructure construction speeds.\n\nSeveral layers of safeguards will have to be put in place, of course, to prevent the resurfacing of any remaining Contingency code, which could result in... unfortunate side effects."
- marauder.710.name:0 "Great Khan's Throne Recovered"
+ marauder.710.name:0 "เก็บกู้บัลลังก์ข่าน"
  marauder.710.desc:0 "After sifting through the wreckage of the Great Khan's flagship, our forces found a large blood-stained chair floating in space. We are reasonably certain that this piece of furniture is, in fact, the Great Khan's throne.\n\nThe relic has been placed inside a secure vault."
  story.335.name:0 "Surveyor Activated"
  story.335.desc:0 "We have swept our space with the strong scanning beam of the Surveyor relic, and a previously unknown resource deposit has been identified on §H[chosen_planet.GetName]§!!"

@@ -1031,7 +1031,7 @@
  leader_trait_cautious_2_machine_desc:0 "$leader_trait_cautious_machine_desc$"
  leader_trait_watchdog_hive:0 "Nest Protector"
  leader_trait_watchdog_hive_desc:1 "This drone possesses an unrelenting desire to defend its home territory."
- leader_trait_watchdog_machine:0 "Vigilant"
+ leader_trait_watchdog_machine:0 "ระมัดระวังตื่นตัว"
  leader_trait_watchdog_machine_desc:1 "This unit serves as a vigilant guardian for claimed territory."
  leader_trait_unyielding_hive:1 "Tenacity"
  leader_trait_unyielding_hive_desc:1 "This drone is incapable of surrender."

@@ -226,7 +226,7 @@
  TRADE_COLLECTION_VALUE:0 "$COLLECTION_RANGE$: $VALUE|Y0$"
  TRADE_COLLECTION_DESC:0 "§E§H$COLLECTION_RANGE$§! คือระยะสูงสุดที่ฐานอวกาศนี้สามารถรวบรวมมูลค่าการค้าจากระบบดาวใกล้เคียง§!"
  TRADE_PROTECTION_VALUE:0 "$MOD_STARBASE_TRADE_PROTECTION_ADD$: $VALUE|Y0$"
- TRADE_PROTECTION_DESC:0 "§E§H$MOD_STARBASE_TRADE_PROTECTION_ADD$§! is the amount by which this Starbase will reduce Piracy in nearby Systems.§!"
+ TRADE_PROTECTION_DESC:0 "§E§H$MOD_STARBASE_TRADE_PROTECTION_ADD$§! คือจำนวนที่ ฐานอวกาศ นี้จะลดการปล้นสะดมในระบบดาวใกล้เคียง§!"
  TRADE_PROTECTION_RANGE_VALUE:0 "$PROTECTION_RANGE$: $VALUE|Y0$"
  TRADE_PROTECTION_RANGE_DESC:0 "§E§H$PROTECTION_RANGE$§! คือระยะสูงสุดของการคุ้มครองการค้าของฐานอวกาศนี้ที่จะลดการปล้นสะดมในระบบดาวใกล้เคียง§!"
  GO_TO_preFTL_PLANET:0 "ไปที่ดาวเคราะห์"
