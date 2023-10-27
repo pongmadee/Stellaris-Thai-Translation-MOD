@@ -893,7 +893,7 @@
  02_ITOA_ACCEPT:1 "เราได้พิจารณาข้อเสนอของคุณอย่างรอบคอบและตัดสินใจที่จะจัดตั้งสหพันธ์กับคุณ!"
  01_ITOA_REFUSE:0 "We have discussed your Federation proposal and decided that it is not for us."
  01_ITOA_PROPOSE:1 "The galaxy is dark and full of terrors, [Root.GetSpeciesName]. Join us in a Federation for mutual protection?"
- 02_ITOA_PROPOSE:0 "We think that the §Y[Root.GetName]§! would make a valuable ally. Will you join [From.GetAllianceName]?"
+ 02_ITOA_PROPOSE:0 "เราคิดว่า §Y[Root.GetName]§! จะเป็นพันธมิตรที่ทรงคุณค่า คุณจะเข้าร่วมกับ [From.GetAllianceName]?"
  01_ASK_JOIN_A_SELECT:0 "So, [From.GetSpeciesName], you wish to join the great §Y[Root.GetAllianceName]§!?"
  02_ASK_JOIN_A_SELECT:0 "So you want to join the great §Y[Root.GetAllianceName]§!?"
  01_ASK_JOIN_A_ACCEPT:2 "We would be honored to have you as a member of our federation! We shall start a vote immediately."

@@ -783,7 +783,7 @@
  STELLARITE_PLASMA:0 "Stellar Plasma"
  STELLARITE_LASER:0 "Stellar Laser"
  BIO_DRIVE:0 "Bio-Drive"
- BIO_PROPULSION:0 "ระบบขับเคลื่อนชีวภาพ"
+ BIO_PROPULSION:0 "ระบบขับดันชีวภาพ"
  BIO_SENSORS:0 "Bio-Sensors"
  BIO_DETECTOR:0 "Bio-Detector"
  GUARDIAN_DRIVE:0 "$BIO_DRIVE$"

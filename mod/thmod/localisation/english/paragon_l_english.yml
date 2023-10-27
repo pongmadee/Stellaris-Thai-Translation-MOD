@@ -800,7 +800,7 @@
  councilor_feudal_realm:1 "หัวหน้าเจ้าหน้าที่ตราอาร์ม"
  councilor_feudal_realm_female:1 "หัวหน้าเจ้าหน้าที่ตราอาร์ม"
  councilor_feudal_realm_desc:0 "The $TITLE$ oversees the distribution of power and titles among subjects."
- councilor_feudal_realm_custom_modifier_desc:1 "- ความจุกองยานรบต่อจำนวนจักรวรรดิที่เป็นบริวาร: §G+2§!"
+ councilor_feudal_realm_custom_modifier_desc:1 "- ความจุของยานรบต่อจำนวนจักรวรรดิที่เป็นบริวาร: §G+2§!"
  councilor_franchising:0 "เจ้าหน้าที่พัฒนาแฟรนไชส์"
  councilor_franchising_female:0 "$councilor_franchising$"
  councilor_franchising_desc:0 "The $TITLE$ is responsible for expansion into new locations and markets."

@@ -24,7 +24,7 @@
  i_strategic: "£rare_crystals£ £exotic_gases£ £volatile_motes£ §IStrategic Resource§!"
  i_strategic_plural: "£rare_crystals£ £exotic_gases£ £volatile_motes£ §IStrategic Resources§!"
  i_stability: "£mod_planet_stability_add£ §I$PLANET_STABILITY_TITLE$§!"
- i_naval_capacity: "£mod_country_naval_cap_add£ §INaval Capacity§!"
+ i_naval_capacity: "£mod_country_naval_cap_add£ §Iความจุของยานรบ§!"
  i_defense_armies: "£defense_army£ §IDefense Armies§!"
  i_unlocks_building: "§Iปลดล็อกสิ่งปลูกสร้าง:§!"
  i_unlocks_feature: "§Iปลดล็อกคุณสมบัติ:§!"

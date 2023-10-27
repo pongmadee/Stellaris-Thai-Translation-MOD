@@ -246,7 +246,7 @@
  tr_diplomacy_the_federation_desc:2 "$TECH_UNLOCK_DIPLOMATIC_ACTION_CREATE_FEDERATION_TITLE$\n§Y$MOD_COUNTRY_ENVOYS_ADD$§! เพิ่มขึ้น §G1§!"
  tr_diplomacy_the_federation_delayed:0 "เราต้องสร้างความร่วมมือที่มั่นคงและยั่งยืนกับเพื่อนบ้าน บนพื้นฐานของความไว้วางใจและความเคารพซึ่งกันและกัน เราจะแข็งแกร่งกว่าการที่จะอยู่ตัวคนเดียว"
  tr_diplomacy_entente_coordination:0 "การประสานงานระหว่างชาติ"
- tr_diplomacy_entente_coordination_desc:0 "จำนวนยานที่เราบริจาคให้กับ §Yความจุยานรบของกองยานสหพันธ์§! เพิ่มเป็นสองเท่า"
+ tr_diplomacy_entente_coordination_desc:0 "จำนวนยานที่เราบริจาคให้กับ §Yความจุยานรบของสหพันธ์§! เพิ่มเป็นสองเท่า"
  tr_diplomacy_entente_coordination_delayed:0 "Perhaps the most important purpose of any successful interstellar federation is the mutual defense of its members. We have an obligation to contribute as much as we can."
  tr_diplomacy_open_markets:0 "ตลาดเสรี"
  tr_diplomacy_open_markets_desc:1 "§Y$MOD_TRADE_VALUE_MULT$§! จักรวรรดิเพิ่มขึ้น §G+10%§!"

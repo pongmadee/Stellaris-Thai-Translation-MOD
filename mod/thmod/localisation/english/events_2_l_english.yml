@@ -1711,7 +1711,7 @@
  nomad.522.d:0 "What do you want us to do?"
  nomad.522.e:0 "Not interested."
  nomad.523.desc:0 "We would need something to show for it. Even £energy£ §Y1000§! would be more than whatever the fleet would get out of the [other_empire.GetAdj] orb-dwellers."
- nomad.523.c:0 "Deal."
+ nomad.523.c:0 "ตกลง"
  nomad.523.a:0 "ไม่ตกลง"
  nomad.523.b:0 "We cannot afford that."
  nomad.524.desc:1 "Shade upon you, [Root.GetRulerName]. The ships will arrive at the appointed time - all of them. Fair winds."
