@@ -275,7 +275,7 @@
  operation.1001.desc:1 "A shortlist of targets has been drawn up. Those operatives who are no longer tasked with surveillance will provide cover for the others."
  operation.1002.name:0 "Asset Identified"
  operation.1002.desc:3 "As the operation nears its conclusion, $role_spymaster$ [spynetwork.leader.GetName] has moved to secure our new Asset within the [target.GetName]. Our remaining operatives are poised to facilitate any cover [spynetwork.leader.GetHeShe] may need."
- operation.1006.name:0 "Asset Acquired"
+ operation.1006.name:0 "เราได้สายมาแล้ว"
  operation.1006.desc.intro:1 "$role_spymaster$ [from.spynetwork.leader.GetName] reports from the [from.target.GetName]: a successful execution so far."
  operation.1006.desc.celebrity:1 "$operation.1006.desc.intro$ Our Spy Network now has access to §Han influential figure within [from.target.GetAdj] culture§!, whose desire to maintain their public profile pairs splendidly with ambitions we may wish to wield, to manipulate hearts and minds."
  operation.1006.desc.official:1 "$operation.1006.desc.intro$ We have secured access to §Han official within the [from.target.GetAdj] civic hierarchy§!. This Asset will be kept secure but poised, ready to assist us with future operations - particularly when we might brush up against diplomatic or governmental issues."
