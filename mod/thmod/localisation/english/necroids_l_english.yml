@@ -32,7 +32,7 @@
  planet_necro_apprentices:0 "Necrophyte Jobs"
  POP_ATTRACTION_NECROPHAGE_NEG:0 "§R- £pop£ Pop is a Necrophage and procreates by consuming other species§!"
  RULER_JOB_NECROPHAGE_TRIGGER:0 "This job can only be worked by Free Necrophage Pops that are not being purged."
- opinion_necrophage:1 "Mysterious Disappearances"
+ opinion_necrophage:1 "รูปร่างน่าพิศวง"
  opinion_necrophage_our_species:0 "Necrophaged our Species"
  disables_necrophage_features:0 "§RChoosing this Ascension Perk will disable Necrophage mechanics.§!"
  MESSAGE_NECROPHAGE_POPS_NECROPHAGED_TITLE:0 "Pops Necrophaged"

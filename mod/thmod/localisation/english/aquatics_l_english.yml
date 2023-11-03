@@ -152,7 +152,7 @@
  ap_hydrocentric_deluge_pre_unlock_tooltip:0 "Unlocks the §YDeluge§! Colossus Weapon §R(requires §Y$ap_colossus$§! Ascension Perk)§!."
  terraforming:0 "Terraforming"
  terraforming_ocean:0 "Terraforming to Ocean Worlds"
- has_terraforming_candidate:0 "§YTerraforming candidate(s) present in the system.§!"
+ has_terraforming_candidate:0 "§Yปรับสภาพดาวในระบบนี้ได้§!"
  has_frozen_terraforming_candidate:0 "§YFrozen terraforming candidate(s) present in the system.§!"
  has_toxic_terraforming_candidate:0 "§YToxic terraforming candidate(s) present in the system.§!"
  aquatics.1.name:0 "Evolved Aquatics"
