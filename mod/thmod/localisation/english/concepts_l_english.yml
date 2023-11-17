@@ -84,7 +84,7 @@
  concept_grand_admiral:0 "$DIFFICULTY_GRAND_ADMIRAL$"
  concept_grand_admiral_desc:0 "$DIFFICULTY_GRAND_ADMIRAL_DESC$"
  concept_archaeology_site: "แหล่งโบราณคดี"
- concept_archaeology_site_desc: "Archaelogy Sites are remains of ancient civilization, wreckage from battles, and other such sites of interest. They can be excavated by crewed §YScience Ships§! uncovering their secrets."
+ concept_archaeology_site_desc: "Archaeology Sites are remains of ancient civilization, wreckage from battles, and other such sites of interest. They can be excavated by crewed §YScience Ships§! uncovering their secrets."
  concept_alien_zoo:0 "$building_xeno_zoo$"
  concept_alien_zoo_desc:0 "£mod_job_entertainer_add£ งาน $job_entertainer$: §G+1§!\n£mod_job_xeno_zoo_keeper_add£ งาน $job_xeno_zoo_keeper$: §G+1§!\n£mod_job_livestock_zoo_animal_add£ งาน $job_livestock_zoo_animal$: §G+3§!\n\n£job_xeno_zoo_keeper£ $job_xeno_zoo_keeper_plural$ เปลี่ยน $r_consumer_goods$ เป็น £society£ §Yแต้มการวิจัย§! และ $r_amenities$\n$t$$r_amenities$ ถูกผลิตด้วย £job_livestock_zoo_animal£ งาน $job_livestock_zoo_animal$\n$job_entertainer_effect_desc$\n$job_livestock_zoo_animal_effect_desc$\n\n§L$building_xeno_zoo_desc$§!"
  concept_species_class: "คลาส/ประเภทของเผ่าพันธุ์"

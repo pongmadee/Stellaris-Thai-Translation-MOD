@@ -125,7 +125,7 @@
  FIRST_LEAGUE_ARCHEOLOGY_9_DESC:0 "[From.GetName] was once a major center of trade in the ancient First League. The [From.GetPlanetMoon] was heavily urbanized, and there are still plenty of ruins left for our archaeologists to study."
  FIRST_LEAGUE_ARCHEOLOGY_10:0 "Battle Wreckage"
  FIRST_LEAGUE_ARCHEOLOGY_10_DESC:0 "A massive fleet battle involving the First League occurred two million years ago near [From.GetName]. Some of the wreckage found its way to the [From.GetPlanetMoon]'s surface, and our archaeologists suggest the establishment of a base camp nearby."
- FIRST_LEAGUE_ARCHEOLOGY_11:0 "ทัณฑนิคม (อาณานิคมสถานที่คุมขัง)"
+ FIRST_LEAGUE_ARCHEOLOGY_11:0 "ทัณฑนิคม (อาณานิคมคุก)"
  FIRST_LEAGUE_ARCHEOLOGY_11_DESC:0 "The hostile [From.GetPlanetMoon] of [From.GetName] served as a penal colony in the ancient First League, and some of the prison facilities could be excavated if we establish an archaeological dig site."
  FIRST_LEAGUE_ARCHEOLOGY_12:0 "Observation Post"
  FIRST_LEAGUE_ARCHEOLOGY_12_DESC:0 "[From.GetName] was the homeworld of an early Bronze Age civilization that appears to have been under observation by the First League. Several promising dig sites have already been identified."

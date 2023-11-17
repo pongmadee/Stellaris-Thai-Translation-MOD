@@ -1,7 +1,7 @@
-version="0.70"
+version="0.71"
 tags={
 	"Translation"
 }
 name="Thai Translation MOD"
 path="mod/thmod/"
-supported_version="3.9.*"
+supported_version="3.10.*"

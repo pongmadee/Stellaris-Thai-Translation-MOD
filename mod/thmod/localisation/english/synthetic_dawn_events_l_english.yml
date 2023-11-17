@@ -84,7 +84,7 @@
  syndaw_wiped_systems:0 "Research AIs Wiped"
  uprising_player_buff:0 "$NAVY_SIZE_TITLE$"
  uprising_player_buff_desc:0 "==10x"
- situation_machine_uprising:0 "AI-Related Incidents"
+ situation_machine_uprising:0 "เหตุการณ์ที่เกี่ยวข้องกับ AI"
  situation_machine_uprising_type:0 "$situation_machine_uprising$"
  situation_machine_uprising_desc:0 "The robots within our empire are showing worrying signs of independence. We must put them in their place - or invite them to join us among the sentient species of the galaxy."
  situation_machine_uprising_pops_monthly_progress:0 "Robot Pops"

@@ -6,7 +6,7 @@
 
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 3.9.x "Caelum" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 3.10.x "Pyxis" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
  :heavy_check_mark: รองรับโหมดช่วยกันเล่น (Co-op) <br/>
