@@ -1,6 +1,15 @@
 guiTypes = {
 	@main_menu_margin = 50
 
+	positionType = {
+		name = "frontend_buttons_no_acb_offset"
+		position = { x = 0 y = -50 }
+		if_scaled_resolution = {
+			min_height = 900
+			position = { x = 0 y = -75 }
+		}
+	}
+
 	containerWindowType = {
 		name = "frontend_background"
 		position = { x = 0 y = 0 }
@@ -49,6 +58,8 @@ guiTypes = {
 				pdx_tooltip = "PRIVACY_POLICY"
 			}
 
+
+
 			buttonType = {
 				name = "pi_achievements"
 				quadTextureSprite = "GFX_front_menu_achievements"
@@ -78,6 +89,7 @@ guiTypes = {
 			buttonType = {
 				name = "facebook"
 				quadTextureSprite = "GFX_front_menu_facebook"
+				#position = { x = 470 y = @links_y }
 				position = { x = @links_xc1 y = @links_yr2 }
 				pdx_tooltip = "FACEBOOK"
 				web_link="https://www.facebook.com/StellarisGame"
@@ -86,6 +98,7 @@ guiTypes = {
 			buttonType = {
 				name = "twitter"
 				quadTextureSprite = "GFX_front_menu_twitter"
+				#position = { x = 510 y = @links_y }
 				position = { x = @links_xc2 y = @links_yr2 }
 				pdx_tooltip = "TWITTER"
 				web_link="http://twitter.com/StellarisGame"
@@ -94,6 +107,7 @@ guiTypes = {
 			buttonType = {
 				name = "you_tube"
 				quadTextureSprite = "GFX_main_menu_youtube"
+				#position = { x = 550 y = @links_y }
 				position = { x = @links_xc3 y = @links_yr2 }
 				pdx_tooltip = "YOUTUBE"
 				web_link="https://www.youtube.com/stellarisofficial"
@@ -107,8 +121,7 @@ guiTypes = {
 				pdx_tooltip = "DISCORD"
 				web_link="https://discord.gg/stellarisofficial"
 			}
-
-#mod start
+			#mod start
 			containerWindowType = {
 				name = "modmsg_wnd"
 				#backGround =""
@@ -271,7 +284,7 @@ guiTypes = {
 				name = "buttons"
 				position = { x = 0 y = 0 }
 				# The height here is the Y position of the last button on small resolutions + the height of the last button.
-				size = { width = @button_large_width height = 350 }
+				size = { width = @button_large_width height = 400 }
 				origo = CENTER_LEFT
 				orientation = CENTER_LEFT
 
@@ -279,7 +292,7 @@ guiTypes = {
 					min_height = 900
 
 					# The height here is the Y position of the last button on large resolutions + the height of the last button.
-					size = { width = @button_large_width height = 500}
+					size = { width = @button_large_width height = 575 }
 				}
 
 				@button_large_width = 340
@@ -428,7 +441,7 @@ guiTypes = {
 				}
 
 				containerWindowType = {
-					name = "settings_container"
+					name = "additional_content_container"
 					position = { x = 0 y = 200 }
 					size = { width = @button_large_width height = @button_large_height }
 
@@ -436,6 +449,41 @@ guiTypes = {
 						min_height = 900
 
 						position = { x = 0 y = 300 }
+					}
+
+					buttonType = {
+						id = "additional_content"
+						name = "button"
+						quadTextureSprite = "GFX_main_menu_button"
+						position = { x = 0 y = 0 }
+						size = { x = @button_large_width y = @button_large_height }
+						oversound = mouse_over
+						clicksound = confirm_click
+					}
+
+					instantTextBoxType = {
+						name = "text"
+						font = "jura"
+						text = "FRONT_ADDITIONAL_CONTENT"
+						position = { x = 0 y = -5 }
+						maxWidth = @button_large_width
+						maxHeight = @button_large_height
+						fixedSize = yes
+						format = left
+						vertical_alignment = center
+						alwaysTransparent = yes
+					}
+				}
+
+				containerWindowType = {
+					name = "settings_container"
+					position = { x = 0 y = 250 }
+					size = { width = @button_large_width height = @button_large_height }
+
+					if_scaled_resolution = {
+						min_height = 900
+
+						position = { x = 0 y = 375 }
 					}
 
 					buttonType = {
@@ -464,13 +512,13 @@ guiTypes = {
 
 				containerWindowType = {
 					name = "credits_container"
-					position = { x = 0 y = 250 }
+					position = { x = 0 y = 300 }
 					size = { width = @button_large_width height = @button_large_height }
 
 					if_scaled_resolution = {
 						min_height = 900
 
-						position = { x = 0 y = 375 }
+						position = { x = 0 y = 450 }
 					}
 
 					buttonType = {
@@ -499,13 +547,13 @@ guiTypes = {
 
 				containerWindowType = {
 					name = "quit_container"
-					position = { x = 0 y = 300 }
+					position = { x = 0 y = 350 }
 					size = { width = @button_large_width height = @button_large_height }
 
 					if_scaled_resolution = {
 						min_height = 900
 
-						position = { x = 0 y = 450 }
+						position = { x = 0 y = 525 }
 					}
 
 					buttonType = {
@@ -557,67 +605,90 @@ guiTypes = {
 
 		### load save
 		containerWindowType = {
-			name ="load_save"
-			position = { x=0 y=0 }
-			size = { width=1024 height=720 }
+			name = "load_save"
+			position = { x = 0 y = 0 }
+			size = { width = 1024 height = 720 }
 			orientation = center
 			origo = center
 
 			instantTextBoxType = {
-
-				name ="title"
+				name = "title"
 				position = { x = 180 y = 40 }
 				textureFile = ""
 				font = "cg_16b"
-				borderSize = {x = 4 y = 4}
+				borderSize = { x = 4 y = 4 }
 				text = "FRONT_SAVE_GAMES"
 				Orientation = "UPPER_LEFT"
 				format = left
 				maxWidth = 200
 				maxHeight = 100
 			}
-			buttonType =
-			{
+			buttonType = {
 				name = "launch"
 				quadTextureSprite = "GFX_button"
-				position = { x= -200 y = -200  }
+				position = { x = -200 y = -200 }
 				Orientation = "LOWER_RIGHT"
 				buttonText = "FRONT_LAUNCH"
 				buttonFont = "cg_16b"
 			}
 
-			buttonType =
-			{
+			buttonType = {
 				name = "back"
 				quadTextureSprite = "GFX_button"
-				position = { x= -400 y = -200  }
+				position = { x = -400 y = -200 }
 				Orientation = "LOWER_RIGHT"
 				buttonText = "FRONT_BACK"
 				buttonFont = "cg_16b"
 			}
 
-			listboxType =
-			{
-				name ="list"
-				position = { x=100 y =80}
-				size = { x=220 y =260}
+			listboxType = {
+				name = "list"
+				position = { x = 100 y = 80 }
+				size = { x = 220 y = 260}
 				horizontal = 0
 				scrollbartype = "standardlistbox_slider"
-				borderSize = {x = 20 y = 20}
+				borderSize = { x = 20 y = 20 }
 				Orientation = "UPPER_LEFT"
+			}
+		}
+
+		### Additional content browser "What's new"
+		containerWindowType = {
+			name = "additional_content_whats_new"
+			position = { x = 0 y = 0 }
+			size = { width = 250 height = 340 }
+			orientation = lower_right
+			origo = lower_right
+
+			instantTextBoxType = {
+				name = "title"
+				position = { x = 0 y = 0 }
+				maxWidth = 250
+				format = right
+				font = "large_title_font"
+				text = "ADDITIONAL_CONTENT_WHATS_NEW_TITLE"
+			}
+
+			gridBoxType = {
+				name = "items"
+				position = { x = 0 y = 45 }
+				size = { width = 100% }
+				slotSize = { width = 250 height = 155 }
+				max_slots_horizontal = 1
+				format = "UPPER_LEFT"
 			}
 		}
 
 		### DEBUG
 		buttonType = {
-			name ="portrait_room"
+			name = "portrait_room"
 			spriteType = "GFX_portrait_room"
 			Orientation = "CENTER"
-			position = { x= -476 y= -10 }
+			position = { x = -476 y = -10 }
 		}
 
 		buttonType = {
-			name ="portrait_planet"
+			name = "portrait_planet"
 			spriteType = "GFX_portrait_planet_character"
 			Orientation = "CENTER"
 			position = { x= -100 y= -320 }
