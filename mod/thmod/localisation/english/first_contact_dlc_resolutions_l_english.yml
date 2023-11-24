@@ -1,5 +1,5 @@
 ﻿l_english:
- resolution_category_pre_ftl_stances:1 "Pre-FTL Stance"
+ resolution_category_pre_ftl_stances:1 "ท่าทีต่ออารยธรรมดึกดำบรรพ์ Pre-FTL"
  resolution_pre_ftl_stances_repeal_1:0 "§RRepeal $resolution_pre_ftl_stances_equal_standing$§!"
  resolution_pre_ftl_stances_repeal_1_desc:1 "Treating "civilizations" that are barely even capable of leaving their homeworlds as equals is a preposterous idea. The empires of the [global_event_country.GetGalCommunityOrGalImperium] should be allowed to treat lesser civilizations within their borders as they see fit."
  resolution_pre_ftl_stances_repeal_1_effect_success:1 "Repeals the §Y$resolution_pre_ftl_stances_equal_standing$§! resolution."

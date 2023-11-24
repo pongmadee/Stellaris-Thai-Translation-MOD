@@ -457,7 +457,7 @@
  astral_rift.2890.a: "Inevitable."
  astral_rift_interdimensional_circus: "Entertainment Nexus"
  revolutionary_medigel_modifier: "Revolutionary Medi-Gel"
- revolutionary_medigel_tt: "£job_healthcare£ §Y$job_healthcare_plural$§! Output: §G+50%§!"
+ revolutionary_medigel_tt: "ผลผลิตของ £job_healthcare£ §Y$job_healthcare_plural$§!: §G+50%§!"
  edict_spontaneous_crystallization: "Spontaneous Crystallization"
  edict_spontaneous_crystallization_desc: "By applying a unique matrix of catalysts onto freshly harvested rock, we have a chance at generating much more valuable crystalline structures."
  edict_spontaneous_crystallization_tooltip: "Convert up to 1% of total £minerals£ Mineral income into £rare_crystals£ Rare Crystals."
