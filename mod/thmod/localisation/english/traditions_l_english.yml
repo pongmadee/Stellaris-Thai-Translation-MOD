@@ -671,7 +671,7 @@
  tr_aptitude_champions_of_the_empire_hive_delayed:0 "The Hive is willing to impart a minute level of autonomy for its strongest elements for the good of the whole."
  tr_aptitude_champions_of_the_empire_machine:0 "สิทธิ์ของผู้ดูแลระบบ"
  tr_aptitude_champions_of_the_empire_machine_delayed:0 "We trust the unique sub-routines of our leaders and give them permission to influence how the Empire is run."
- tr_aptitude_champions_of_the_empire_desc:1 "$commander_with_icon$ และ $general_with_icon$ แต่ละเลเวล\n$t$$MOD_COUNTRY_NAVAL_CAP_ADD$: §G+2§!\n$governor_with_icon$ แต่ละเลเวล\n$t$$MOD_EMPIRE_SIZE_MULT$: §G-2§!\n$scientist_with_icon$ แต่ละเลเวล\n$t$$MOD_LEADER_SPECIES_EXP_GAIN$: §G+0.5%§!"
+ tr_aptitude_champions_of_the_empire_desc:1 "$commander_with_icon$ และ $general_with_icon$ แต่ละเลเวล\n$t$$MOD_COUNTRY_NAVAL_CAP_ADD$: §G+2§!\n$official_with_icon$ แต่ละเลเวล\n$t$$MOD_EMPIRE_SIZE_MULT$: §G-2§!\n$scientist_with_icon$ แต่ละเลเวล\n$t$$MOD_LEADER_SPECIES_EXP_GAIN$: §G+0.5%§!"
  tradition_statecraft:0 "การปกครอง"
  tradition_statecraft_desc:0 "สภาที่ทรงพลังช่วยให้จักรวรรดิของเราตอบสนองได้มากขึ้น"
  tradition_statecraft_hive_desc:0 "The Council of Voices defines our empire."

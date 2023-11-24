@@ -1072,7 +1072,7 @@
  council_agenda_agenda_superior_colonies_effect:1 "อาณานิคมที่สร้างใหม่จะได้รับ §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$:§! §G+50%§! เป็นเวลา §Y10§! ปี"
  agenda_superior_colonies_finish:0 "$council_agenda_agenda_superior_colonies_name$ $agenda_ref$"
  agenda_superior_colonies_finish_desc:0 "$council_agenda_agenda_superior_colonies_desc$"
- agenda_superior_colonies_planet_boost:0 "Superior Colonies support"
+ agenda_superior_colonies_planet_boost:0 "การสนับสนุนอาณานิคมที่เหนือกว่า"
  agenda_superior_colonies_planet_boost_desc:1 "This colony has substantial development support due to a Council Agenda."
  council_agenda_agenda_inner_stability_name:0 "ความมั่นคงภายใน"
  council_agenda_agenda_inner_stability_desc:1 "วิสัยทัศน์ร่วมกันทำให้เรามีความปรองดองแม้มีค่านิยมที่แตกต่างกัน"

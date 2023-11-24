@@ -24,7 +24,7 @@
  concept_offspring_feeder: "$job_overlord_offspring_drone_feeder_plural$"
  concept_offspring_feeder_desc: "$job_overlord_offspring_drone_feeder_plural$ ใช้ $i_food$ (หรือ $i_minerals$) สามารถการเข้าถึง §I$offspring_defense_plural$§! และ เพิ่มใน £mod_planet_jobs_worker_produces_mult£ §Iผลผลิตที่เป็นทรัพยากรจากประชากรคนงาน§!\n\n§L$job_overlord_offspring_drone_feeder_desc$§!"
  concept_squire: "$job_squire_plural$"
- concept_squire_desc: "$job_squire_plural$ provide $i_amenities$ and increase the §IOutput§! of £job_knight_commander£ §I$job_knight_commander$§! and £job_knight£ §I$job_knight$§! Jobs.\n\n§L$job_squire_desc$§!"
+ concept_squire_desc: "$job_squire_plural$ ให้ $i_amenities$ และเพิ่ม §Iผลผลิต§! ของ £job_knight_commander£ §I$job_knight_commander$§! และงาน £job_knight£ §I$job_knight$§!\n\n§L$job_squire_desc$§!"
  concept_knight: "$job_knight_plural$"
  concept_knight_desc: "$job_knight_plural$ turn $i_alloys$ into $i_unity$ and $i_research$, increase $i_naval_capacity$ and spawn $i_defense_armies$.\nCompleting §YKnightly Quests§! can further improve their output.\n\n§L$job_knight_desc$§!"
  concept_knight_commander: "$job_knight_commander_plural$"
