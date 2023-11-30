@@ -1558,7 +1558,7 @@
  war_in_heaven.4.a:0 "เราจะยืนเคียงข้าง [FirstSleeper.GetName]"
  war_in_heaven.4.a.dominion.tt:0 "§Y[Root.GetName]§! กลายเป็น $preset_dominion$ ภายใต้ §Y[FirstSleeper.GetName]§!\n$war_in_heaven_dominion_text$"
  war_in_heaven.4.a.satellite.tt:0 "§Y[Root.GetName]§! กลายเป็น $preset_satellite$ ภายใต้ §Y[FirstSleeper.GetName]§!\n$war_in_heaven_satellite_text$"
- war_in_heaven.4.a.signatory.tt:0 "§Y[Root.GetName]§! กลายเป็น $preset_signatory$ ภายใต้e §Y[FirstSleeper.GetName]§!\n$war_in_heaven_signatory_text$"
+ war_in_heaven.4.a.signatory.tt:0 "§Y[Root.GetName]§! กลายเป็น $preset_signatory$ ภายใต้ §Y[FirstSleeper.GetName]§!\n$war_in_heaven_signatory_text$"
  war_in_heaven.4.a.thrall.tt:0 "§Y[Root.GetName]§! กลายเป็น $preset_thrall$ ภายใต้ §Y[FirstSleeper.GetName]§!\n$war_in_heaven_thrall_text$"
  war_in_heaven.4.b.dominion.tt:0 "§Y[Root.GetName]§! กลายเป็น $preset_dominion$ ภายใต้ §Y[from.GetName]§!\n$war_in_heaven_dominion_text$"
  war_in_heaven.4.b.satellite.tt:0 "§Y[Root.GetName]§! กลายเป็น $preset_satellite$ ภายใต้ §Y[from.GetName]§!\n$war_in_heaven_satellite_text$"

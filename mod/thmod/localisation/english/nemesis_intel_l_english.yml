@@ -160,7 +160,7 @@
  PACT_hegemony_federation:0 "สหพันธ์มหาอำนาจ"
  FIRST_CONTACT_ROLL_CHANCE_TT:0 "There is a §Y$CHANCE|0$%§! chance that the current phase will end in §Gsuccess§!.\n\nThe phase has a $INSIGHT_CHANCE|%0Y$ chance of granting §YInsights§!, which increase the chance of future phases' success."
  FIRST_CONTACT_INSIGHTS_NEEDED_TT:1 "We need $INSIGHTS|0Y$ more §YInsights§! before we will have a chance at succeeding this phase of the investigation."
- FIRST_CONTACT_CURRENT_SCORE_AND_HEADER:0 "The current score before dice roll is $SCORE|0Y$.\n\n§ERoll Outcomes:§!"
+ FIRST_CONTACT_CURRENT_SCORE_AND_HEADER:0 "คะแนนปัจจุบันก่อนสุ่มลูกเต๋าคือ $SCORE|0Y$\n\n§Eผลลัพธ์ของการดำเนินการ:§!"
  FIRST_CONTACT_ON_ROLL_FAILED_RANGE:0 "($CHANCE|%0Y$) ผลลัพธ์อยู่ระหว่าง $MIN|0Y$ และ $MAX|0Y$ เพิ่มข้อมูลเชิงลึก $CLUES|0Y$"
  FIRST_CONTACT_ON_ROLL_FAILED_GREATER_THAN_EQ:1 "(§Y$CHANCE|0$%§!) Result is $MIN|0Y$ or greater. Finishes chapter."
  FIRST_CONTACT_ON_ROLL_FAILED_LESS_THAN_EQ:1 "($CHANCE|%0Y$) Result is $MAX|0Y$ or less. Adds §Y0§! insights."

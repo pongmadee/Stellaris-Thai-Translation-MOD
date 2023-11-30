@@ -1138,7 +1138,7 @@
  colony.185.a:0 "We still hunger."
  colony.185.a.tooltip:0 "§Y[From.GetName]§! is destroyed."
  vultaum_artifact:0 "We have acquired a Vultaum artifact."
- precursor.completed.name:0 "Archaeological Project Completed"
+ precursor.completed.name:0 "โครงการโบราณคดีเสร็จสมบูรณ์"
  precursor.completed.a:0 "An interesting find."
  precursor.1.name:0 "The Vultaum Star Assembly"
  precursor.1.desc:1 "We have recovered artifacts from an ancient alien civilization on §Y[From.GetName]§!! They must have been active in this region of space approximately 12 million years ago, judging by the age of the artifacts.\n\nFrom what they have been able to piece together, our scientists theorize that these aliens, who called themselves the "Vultaum Star Assembly," were worm-like annelids, roughly 3 to 4 meters in length, that communicated with each other primarily through vibrations carried along their segmented bodies."

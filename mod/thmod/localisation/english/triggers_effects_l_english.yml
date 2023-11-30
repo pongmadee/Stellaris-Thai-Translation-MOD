@@ -1212,7 +1212,7 @@
  DISMANTLE_EFFECT:0 "The station is dismantled.\n"
  ACTIVATE_ADVISOR:0 "ที่ปรึกษา $COUNTRY|Y$ ถูกเพิ่ม"
  DEACTIVATE_ADVISOR:0 "ที่ปรึกษา $COUNTRY|Y$ ถูกลบ"
- BEGIN_EVENT_CHAIN_EFFECT:1 "เริ่มเหตุการณ์ $NAME$\n\n"
+ BEGIN_EVENT_CHAIN_EFFECT:1 "เริ่มเหตุการณ์ต่อเนื่อง $NAME$\n\n"
  END_EVENT_CHAIN_EFFECT:1 "จบเหตุการณ์ต่อเนื่อง: $NAME$\n\n"
  SHIFT_ETHIC_EFFECT:0 "\n$COUNTRY|Y$ มีแนวโน้มหลักจริยธรรมไปทาง $ETHIC|Y$\n"
  CHANGE_BACKGROUND_ETHIC:0 "Change Leader Ethic to $ETHIC|Y$"
