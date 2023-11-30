@@ -448,7 +448,7 @@
  DISTRICTS_PLANET_ALL:0 "จำนวนเขตทั้งหมด: §Y$NUM$/$MAX$§!"
  DISTRICTS_PLANET_TYPE:0 "$NAME_PLURAL$: §Y$NUM$/$MAX$§!"
  DISTRICTS_PLANET_BLOCKED:0 "ติดสิ่งกีดขวาง: §R$NUM$§!"
- ROBOTS_CANNOT_COLONIZE:1 "$TRIGGER_FAIL$The £engineering_research£ §Y$tech_droid_workers$§! technology is required to colonize with Robots."
+ ROBOTS_CANNOT_COLONIZE:1 "$TRIGGER_FAIL$จำเป็นต้องมีเทคโนโลยี £engineering_research£ §Y$tech_droid_workers$§! เพื่อตั้งอาณานิคมด้วยหุ่นยนต์ได้"
  SPECIES_CANNOT_COLONIZE:1 "$TRIGGER_FAIL$This species has insufficient mental capacity to colonize new planets on their own."
  PLANET_MAX_DISTRICTS:0 "จำนวนเขตสูงสุด: $VALUE|Y$"
  DISTRICTS_BASE_VALUE:0 "ฐาน: $VALUE$"

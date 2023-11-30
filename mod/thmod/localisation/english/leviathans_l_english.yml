@@ -527,7 +527,7 @@
  leviathans.665.desc:0 "The Ether Drake egg recovered from the Dragon's Hoard planetoid has, in the words of the xenobiologist in charge of the ovum, passed its expiry date.\n\nThere is no longer any hope of hatching the creature within."
  leviathans.665.desc.gesta:0 "The Ether Drake egg recovered from the Dragon's Hoard planetoid can no longer be considered viable.\n\nThe species is extinct."
  leviathans.665.desc.machine: "The Ether Drake egg is terminated. Biological processes have crashed, and there are no available error reports for debugging."
- leviathans.670.name:0 "Dragonslayer"
+ leviathans.670.name:0 "ผู้ฆ่ามังกร"
  leviathans.670.desc:3 "The formidable Ether Drake has been slain. The exceptional bravery of Commander [From.From.GetLeaderName] and the [From.From.GetName] will not soon be forgotten.\n\nThe §Hplanetoid§! the beast guarded so jealously can now be safely exploited. Who knows what treasures the creature might have amassed over the eons?"
  leviathans.670.desc.noleader:3 "The formidable Ether Drake has been slain. The exceptional bravery of the [From.From.GetName] will not soon be forgotten.\n\nThe §Hplanetoid§! the beast guarded so jealously can now be safely exploited. Who knows what treasures the creature might have amassed over the eons?"
  leviathans.670.desc.gesta:0 "The formidable Ether Drake has been slain.\n\nThe §Hplanetoid§! the beast guarded so jealously can now be safely exploited. What treasures might the creature have amassed over the eons?"
