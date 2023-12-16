@@ -1572,7 +1572,7 @@
  EMERGENCY_MEASURE_ALREADY_VOTING:0 "You cannot propose an Emergency Measure when the Senate is already in session"
  VETO_OWN_RESOLUTION:0 "You cannot Veto your own Resolution"
  STRONG_DIPLO_STANCE:0 "การทูตที่แข็งแกร่ง"
- STRONG_DIPLO_STANCE_DESC:0 "มีท่าทีทางการทูต §Y$diplo_stance_belligerent$§! หรือ §Y$diplo_stance_supremacist$§! ทำให้ [Root.GetName] พอใจ"
+ STRONG_DIPLO_STANCE_DESC:0 "มีท่าทีทางการทูต §Y$diplo_stance_belligerent$§!, §Y$diplo_stance_supremacist$§!, หรือ §Y$diplo_stance_animosity$§! ทำให้ [Root.GetName] พอใจ"
  WEAK_DIPLO_STANCE:0 "การทูตที่อ่อนแอ"
  WEAK_DIPLO_STANCE_DESC:0 "แสดงความอ่อนแอโดยการมีท่าทีทางการทูต §Y$diplo_stance_cooperative$§! ทำให้ [Root.GetName] ไม่พอใจ"
  ISOLATIONIST_DIPLO_STANCE:0 "นโยบายการทูตโดดเดี่ยว"

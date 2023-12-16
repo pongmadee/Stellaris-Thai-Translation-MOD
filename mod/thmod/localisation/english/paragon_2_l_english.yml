@@ -280,6 +280,7 @@
  veteran_scientist_trait:1 "§vคุณลักษณะผู้นำที่มีประสบการณ์§!\n£scientist£ ประเภท/คลาส นักวิทยาศาสตร์"
  paragon_scientist_trait:1 "§dคุณลักษณะระดับสูง(โชควาสนา)§!\n£scientist£ ประเภท/คลาส นักวิทยาศาสตร์"
  triggered_councilor_trait:0 "[Root.SubtitleDLCCheckCouncilor]"
+ triggered_leader_trait: "[Root.SubtitleDLCCheckLeader]"
  triggered_admiral_trait:0 "[Root.SubtitleDLCCheckAdmiral]"
  triggered_general_trait:0 "[Root.SubtitleDLCCheckGeneral]"
  triggered_governor_trait:0 "[Root.SubtitleDLCCheckGovernor]"
