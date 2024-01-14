@@ -1508,7 +1508,7 @@
  anomaly.7135.b.tooltip: "We'll monitor the situation from afar."
  RAPID_DESERTIFICATION_PROJECT: "Encumbered Ecosystem"
  RAPID_DESERTIFICATION_PROJECT_DESC: "The planet [desertling_planet.Planet.GetName] is overpopulated by a herd of rapidly spreading mammals. With the proper resources, our scientists could gather more insights about the origins and capabilities of this non-sapient species."
- anomaly.7140.name: "Invasive Species"
+ anomaly.7140.name: "เผ่าพันธุ์รุกราน"
  anomaly.7140.desc: "While studying the desertlings on [desertling_planet.GetName] our scientists have made a pivotal observation. Despite the ubiquitous nature of the species, there is a striking absence of matching fossil records. These ecological interlopers have caused extreme environmental damage over a relatively short time period, and were most likely transported here by an outside actor.\n\nThe pressing need for intervention has become abundantly clear. Without action, these creatures will destroy what remains of this planet's natural ecosystem."
  anomaly.7140.a: "We will adopt as many critters as possible."
  anomaly.7140.a.tooltip: "We will be responsible for their actions."

@@ -677,4 +677,4 @@
  OCCUPATION_SUMMARY:0 "การยึดครอง"
  OCCUPATION_SUMMARY_LONG:0 "การยึดครอง $ATTR|R$ เนื่องจากระบบดาวถูกยึด $SYSTEMS|R$ ระบบ และดาวเคราะห์ถูกยึด $PLANETS|R$ ดวง"
  FLEET_TEMPLATE_COMMAND_MAX_MULTIPLE:0 "การเพิ่มยาน $NUM|Y$ ลำ จะทำให้เกินขีดจำกัดคำสั่ง"
- FLEET_TEMPLATE_COMMAND_MIN_MULTIPLE:0 "Cannot remove $NUM|Y$ ships from the fleet template"
+ FLEET_TEMPLATE_COMMAND_MIN_MULTIPLE:0 "ไม่สามารถลบยาน $NUM|Y$ ลำจากเทมเพลตของกองยานนี้"

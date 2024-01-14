@@ -1,5 +1,5 @@
 ﻿l_english:
- vo_aquatics_voice:0 "Aquatic"
+ vo_aquatics_voice:0 "น้ำ"
  trait_aquatic:0 "อยู่ใต้น้ำ"
  trait_aquatic_desc:1 "§LThis species is perfectly adapted to living in the depths of the ocean. However, on dry land, it is like a fish out of water.§!\n\n§RRequires§! §YOcean World§! §Rhomeworld§!."
  trait_aquatic_tooltip:2 "การใช้งานที่อยู่อาศัยบนดาว §Yมหาสมุทร§! และ §Yที่อยู่อาศัยที่มีน้ำท่วม§!: §G-10%§!\nผลผลิตอาหาร พลังงาน และแร่บนดาว §Yมหาสมุทร§!: §G+10%§!\nการใช้งานที่อยู่อาศัยบนดาวที่ ไม่-§Yเปียกชื้น§!: §R+30%§!\nการอยู่อาศัยได้บนดาวที่ ไม่-§Yเปียกชื้น§!: §R-20%§!\n\n การยกระดับ §H$ap_hydrocentric$§! จะขยายผลกระทบของคุณลักษณะนี้"
