@@ -38,6 +38,10 @@
 * [แผนงานทั้งหมด](https://trello.com/b/bxyVsiGL/stellaris-thai-translation-mod)
 
 
+### Contributors - ผู้มีส่วนร่วม
+ * PhakphumV , [ZFox Gaming](https://www.youtube.com/channel/UCGO2v4qXvUMzYQBwmi69t6Q)
+
+
 ### DONATIONS - สนับสนุนเครดิตพลังงานผู้พัฒนา
 * [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนเครดิตพลังงานผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/pongmadee) :zap:
 
