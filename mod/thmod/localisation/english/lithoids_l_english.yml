@@ -19,7 +19,7 @@
  being_devoured_modifier: "Being Devoured"
  being_devoured_modifier_desc: "This world is being devored by the local Terravore. Its days are numbered."
  lithoid_crater_effect: "การอยู่อาศัยได้ของประชากรที่ §Yไม่ใช่ Lithoid§!: §R-50%§!"
- civic_selective_kinship: "Selective Kinship"
+ civic_selective_kinship: "เครือญาติคัดสรร"
  civic_selective_kinship_desc: "In an uncertain universe, only kin can be trusted. This civilization is selective about the species it defines as equals."
  wrong_species_class: "We do not allow this Species Class full citizenship rights."
  selective_kinship_must_citizen: "$TRIGGER_FAIL$Sharing a Species Class means this species is granted §YCitizenship§!."

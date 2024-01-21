@@ -411,7 +411,7 @@
  resolution_amoeba_conservation_act_tooltip:0 "Any empire that does not agree to peacefully coexist with §YSpace Amoebas§! will be considered in §RBreach of Galactic Law§!."
  resolution_repeal_amoeba_conservation_act:0 "§Rยกเลิก $resolution_amoeba_conservation_act$§!"
  resolution_repeal_amoeba_conservation_act_desc:0 "Space Amoebas are a pest and must be eradicated."
- resolution_repeal_amoeba_conservation_act_effect_success:0 "Repeals the §Y$resolution_amoeba_conservation_act$§! resolution, leaving §Y$resolution_tiyanki_conservation_act$§! as galactic law.\n\n"
+ resolution_repeal_amoeba_conservation_act_effect_success:0 "ยกเลิกมติ §Y$resolution_amoeba_conservation_act$§! แล้วออก §Y$resolution_tiyanki_conservation_act$§! เป็นกฎหมายกาแล็กติก\n\n"
  galactic_features.505.name:0 "The Space Amoeba Protection Act"
  galactic_features.505.desc:0 "The Galactic Community has passed the §Y$resolution_amoeba_conservation_act$§! resolution, mandating that empires peacefully coexist with §YSpace Amoebas§!.\n\nOur Empire is currently in breach of this resolution. Shall we change our policies to be in compliance?"
  galactic_features.505.A:0 "Of course we will comply."
