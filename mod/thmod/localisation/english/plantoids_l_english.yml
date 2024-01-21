@@ -1,8 +1,8 @@
 ﻿l_english:
  feeding_station: "สวนผลไม้"
  feeding_station_plural: "สวนผลไม้"
- origin_fruitful: "Fruitful Partnership"
- origin_fruitful_desc: "This verdant civilization has developed a unique synergy with spaceborne fauna. By offering their fruits to these creatures, they entice the seed dispersers to aid their colonization efforts."
+ origin_fruitful: "หุ้นส่วนที่ออกดอกออกผล"
+ origin_fruitful_desc: "เป็นอารยธรรมที่มีการร่วมทำงานกันกับสิ่งมีชีวิตในอวกาศทำให้เมล็ดพันธ์ที่ช่วยขยายอาณานิคมของพวกเขาได้"
  origin_tooltip_fruitful_effects: "- สัตว์อวกาศ: กระจาย ['concept_seed_pod', Seed Pods] ไปทั่วทั้งกาแล็กซี \n- $AVAILABLE_STARBASE_BUILDINGS$ ['concept_sm_feeder', Starseed Gardens] \n- $AVAILABLE_BOMBARDMENT_STANCE$ ['concept_seed_bombing' ]\n- $HOME_SYSTEM$ ['concept_tiyanki' ] ในระบบดาวเพื่อนบ้าน"
  civic_tooltip_hive_xenophile_or_pacifist: "มีระดับดีกรีของจริยธรรม §Yชอบต่างดาว§!, §Yรักสันติ§!, หรือ §Yเป็นหนึ่งอันเดียวกัน§!"
  START_SCREEN_FRUITFUL_PLANTOID: "If your roots run deep, yet your spirit grows restless, let others carry your aches away. Let animals sniff your flowers, nourish themselves on your fruits, and bathe in the shadow of your leaves. Let them carry pollen and seeds to distant lands, so that your offspring can bury their roots on foreign soil. And when the wind brings you the sound of rustling leaves, you'll know your children have found a new home.\n\nSince time immemorial, we have worked with local fauna to spread our species across [GetHomeWorldName]. So when the time came to uproot ourselves, branches reaching further skyward, it was only natural we would also connect with the fauna of the void. They chew our fruits. They graze our leaves. And they'll carry our children to distant worlds, where they will bloom and be nurtured by alien suns.\n\nLet our seeds spread. Let the galaxy be our garden."
