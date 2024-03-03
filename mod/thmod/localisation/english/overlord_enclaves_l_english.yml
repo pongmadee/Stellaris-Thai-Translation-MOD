@@ -270,7 +270,7 @@
  master_salvager_catch_phrase: "§L"Right, let's do some field work! Got any interesting wreckage floating about?"§!"
  leader_trait_master_salvager: "$master_salvager$"
  leader_trait_master_salvager_desc: "A veteran of Salvage operations from the [salvager_enclave_country.GetName], sharing their expertise for a small fee."
- leader_trait_master_salvager_effect: "$SYSTEM_EFFECTS_TXT$:\n$t$Friendly Ships in System:\n$tt$Monthly Hull Points Repaired: §G+2%§!\n$t$When Debris is Scavenged/Researched in System:\n$tt$Chance to Salvage Ships: §Y15%§!\n$tt$$salvage_ship_restrictions$"
+ leader_trait_master_salvager_effect: "$SYSTEM_EFFECTS_TXT$:\n$t$ยานพันธมิตรในระบบ:\n$tt$ซ่อมแซม HP (ต่อเดือน): §G+2%§!\n$t$เมื่อเศษซากถูกเก็บกู้/วิจัยในระบบ:\n$tt$มีโอกาสในการกอบกู้ยาน: §Y15%§!\n$tt$$salvage_ship_restrictions$"
  councilor_master_salvager: "$master_salvager$"
  councilor_master_salvager_female: "$councilor_master_salvager$"
  councilor_master_salvager_desc: "$master_salvager_desc$"

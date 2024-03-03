@@ -416,6 +416,7 @@
  NAME_Primitive_Army:0 "Primitive Army"
  NAME_Robot_Army:0 "Robot Army"
  NAME_Sobak:0 "Sobak"
+ Sobak_Background: "A brilliant mind abructed from a world that couldn't stimulate their genius."
  NAME_Radical_Cult:0 "Radical Cult"
  NAME_Cult_Defense_Fleet:0 "Cult Defense Fleet"
  NAME_Cultist_Marauders:0 "Cultist Marauders"

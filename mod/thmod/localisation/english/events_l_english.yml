@@ -1486,6 +1486,7 @@
  preftl.180.b.tt.notregular:0 "§RWe do not have the capablilties to house individuals, all of their people would be enslaved if we were to do this.§!"
  preftl.180.b:0 "ความต้องการที่น่าขันจากอารยธรรมที่ยังเจริญยังไม่เต็มขั้น"
  preftl.180.b.tooltip:0 "ยังคงควบคุม §Y$fleet_type_shipclass_starbase$ [From.Capital.GetStarName]§!\n\n§Y$opinion_not_ceded_starbase$§!: §Y[From.GetName]§! จะมี §Hทัศนคติ§! ต่อ §Y[Root.GetName]§! ที่ §Rต่ำกว่า§!"
+ preftl.180.c: "We are sorry, but we already have a colony in your system."
  observation.2000.name:0 "Enlightenment Completed"
  observation.2000.desc:3 "The thousands of scientists and advisors we sent to [From.home_planet.GetName] have finally completed the arduous task of bringing the local civilization up to an early FTL level of technology. Under their new unified government, the aliens now style themselves as the "[From.GetName]" and they have offered to become our vassals.\n\nWe have ceded full control of the system and dismantled our Observation Post, as per the conditions of our treaty with them. All that remains is deciding if we shall guide them further on in the stellar trek."
  observation.2000.a:0 "This is a great day."

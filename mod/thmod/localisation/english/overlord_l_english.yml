@@ -298,7 +298,7 @@
  galcom_tooltip_ethics_tier_2:0 "Subjects have a §Y50%§! ethics attraction towards their Overlord's Fanatic Ethics."
  galcom_tooltip_ethics_tier_3:0 "Subjects have a §Y75%§! ethics attraction towards their Overlord's Fanatic Ethics."
  galcom_is_subject:0 "เป็นบริวาร"
- galcom_is_overlord:0 "Is an Overlord"
+ galcom_is_overlord:0 "เป็นเจ้าเหนือหัว"
  suzerains_sovereignty:1 "Suzerains and Sovereignty"
  resolution_category_intergalacticdirective:0 "คำสั่งอินเตอร์กาแล็กติก"
  resolution_category_bureaucraticsurveillance:0 "การตรวจตราดูแลระบบราชการ"
