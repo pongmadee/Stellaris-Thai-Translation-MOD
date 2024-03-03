@@ -768,7 +768,7 @@ guiTypes = {
 			orientation = "LOWER_RIGHT"
 		}		
 
-		smoothListBoxType = { #TODO Here it is
+		smoothListBoxType = {
 			name = "unlocks"
 			position = { x = 70 y = 33 }
 			size = { x = 372 y = 54 }

@@ -1414,7 +1414,7 @@
  gal_custodian_desc:0 "As Custodians of the Galactic Community, our influence in the galaxy has been increased."
  war_goal_wg_declared_crisis:0 "สงครามไครซิส"
  war_goal_wg_declared_crisis_desc:0 "สงครามแบบเบ็ดเสร็จระหว่างประชาคมกาแล็กติกและจักรวรรดิไครซิส\n\nสันติภาพจะเกิดขึ้นได้ก็ต่อเมื่อมีการทำลายล้างฝ่ายใดฝ่ายหนึ่งจนสิ้นซาก หรือหากประชาคมลงมติให้ยุติการสู้รบ"
- resolution_category_declare_crisis:0 "Crisis Declaration"
+ resolution_category_declare_crisis:0 "การประกาศไครซิส"
  resolution_repeal_crisis:0 "Repeal Crisis"
  resolution_repeal_crisis_desc:0 "Enough is enough. The targeted empire should no longer be considered a galactic crisis, and hostilities with the members of the Community must come to an immediate end."
  resolution_repeal_crisis_empire:0 "$resolution_repeal_crisis$"
