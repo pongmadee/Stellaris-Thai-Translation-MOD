@@ -393,7 +393,7 @@
  MESSAGE_INVASION_ATTACKER_WIN:1 "เราบุก $PLANET|Y$! ได้สำเร็จ"
  MESSAGE_INVASION_ATTACKER_LOSE:0 "การบุกรุก $PLANET|H$ ของเราล้มเหลว"
  MESSAGE_INVASION_DEFENDER_WIN:1 "We successfully fended off the invaders on $PLANET|Y$!"
- MESSAGE_INVASION_DEFENDER_LOSE:1 "We failed to fend off the invaders on $PLANET|Y$."
+ MESSAGE_INVASION_DEFENDER_LOSE:1 "เราล้มเหลวในการจัดการผู้รุกรานบนดาว $PLANET|Y$"
  MESSAGE_RETREAT_CASUALTIES_TITLE:0 "Retreating Armies Lost"
  RETREAT_CASUALTIES_DESC:1 "We lost $NUM|Y$ of our $TOTAL|Y$ armies while attempting to retreat from $PLANET|Y$\n$LOST$"
  MESSAGE_LOST_ARMY:0 "$NUMBER$. $NAME|R$"

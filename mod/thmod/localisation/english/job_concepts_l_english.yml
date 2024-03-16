@@ -12,7 +12,7 @@
  concept_politician: "$job_politician_plural$"
  concept_politician_desc: "$job_politician_plural$ turn $i_consumer_goods$ into $i_unity$ and $i_amenities$.\n\n§L$job_politician_desc$§!"
  concept_colonist: "$job_colonist_plural$"
- concept_colonist_desc: "$job_colonist_plural$ produce a small amount of $i_food$ (or $i_minerals$) and $i_amenities$, and spawn £defense_army£ §YDefense Armies§!.\n\n§L$job_colonist_desc$§!"
+ concept_colonist_desc: "$job_colonist_plural$ ผลิต $i_food$ (หรือ $i_minerals$) และ $i_amenities$ เพิ่มขึ้นเล็กน้อย และวางกำลัง £defense_army£ §Yกองทัพป้องกัน§!\n\n§L$job_colonist_desc$§!"
  concept_overlord_arborist: "$job_overlord_arborist_plural$"
  concept_overlord_arborist_desc: "$job_overlord_arborist_plural$ เปลี่ยน $i_food$ ของจักรวรรดิบริวารให้เป็น $i_food$ สำหรับจักรวรรดิเจ้าเหนือหัว\n\n§L$job_overlord_arborist_desc$§!"
  concept_replicator: "$job_replicator_plural$"
