@@ -735,7 +735,7 @@
  first_contact.490.A:0 "How nice of them."
  first_contact.500.name:0 "Hostilities at First Contact"
  first_contact.500.desc:0 "Clearly, our response was not the appropriate one: the response of the §Y[contact_country.GetName]§! was swift and hostile, as they began firing on our ships. It seems we have a fight on our [Owner.GetSpeciesHandNamePlural]!"
- first_contact.500.A:0 "To arms!"
+ first_contact.500.A:0 "เตรียมอาวุธ!"
  first_contact.500.A.tooltip:0 "The §Y[contact_country.GetName]§! are now hostile to us."
  first_contact.505.desc:0 "It is not clear what went wrong, but the §Y[contact_country.GetName]§! are suddenly attacking us! It seems we have a fight on our [Owner.GetSpeciesHandNamePlural]!"
  first_contact.5000.name:1 "Clear Signal Found"

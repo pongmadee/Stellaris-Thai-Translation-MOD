@@ -1028,7 +1028,7 @@
  04_RECALL_EMBASSY_NEUTRAL:0 "It would be unfortunate if our relations were to worsen as a result of this."
  01_RECALL_EMBASSY_HOSTILE:0 "Your fumbling efforts to improve relations between our two nations yield only meager returns. As expected of the [From.GetName]."
  02_RECALL_EMBASSY_HOSTILE:0 "This entire initiative is a fool's errand, [From.GetRulerTitle]."
- 03_RECALL_EMBASSY_HOSTILE:0 "Good riddance."
+ 03_RECALL_EMBASSY_HOSTILE:0 "โชคดีนะ"
  04_RECALL_EMBASSY_HOSTILE:0 "Crawl back to [From.Capital.GetName], [From.GetSpeciesName]."
  01_RECALL_EMBASSY_DISMISSIVE:0 "You're still here?"
  02_RECALL_EMBASSY_DISMISSIVE:0 "......"

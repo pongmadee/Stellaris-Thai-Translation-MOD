@@ -179,7 +179,7 @@
  astral_rift.2427.desc: "$astral_rift.2426.desc$"
  astral_rift.2425.a: "Impressive machine."
  astral_rift.2425.b: "May it rest in peace."
- astral_rift.2427.c: "Good riddance."
+ astral_rift.2427.c: "โชคดีนะ"
  astral_rift.2430.name: "Absorbed Consciousness"
  astral_rift.2430.desc.common: "Now fully inert, the spectral mass diffused evenly throughout the mesh."
  astral_rift.2430.desc: "[Leader.GetName] was bound to a diagnostic bench, and the transfer began. They writhed with discomfort, spasming uncontrollably as the foreign consciousness overwhelmed their mind. The ghostly entity became a churning vortex of unstable energy. Suddenly, everything went quiet, and [Leader.GetName] rose with a new demeanor.\n\n$astral_rift.2430.desc.common$"

@@ -158,7 +158,7 @@
  culture_shock_early_space_age_desc:0 "$culture_shock_bronze_age_desc$"
  mod_damage_vs_country_type_amoeba_mult:0 "ทำความเสียหายกับอะมีบาอวกาศ"
  mod_damage_vs_country_type_crystal_mult:0 "ทำความเสียหายกับ Crystalline Entities"
- mod_damage_vs_country_type_drone_mult:0 "ทำความเสียหายกับ Ancient Mining Drones"
+ mod_damage_vs_country_type_drone_mult:0 "ทำความเสียหายกับโดรนขุดแร่โบราณ"
  mod_damage_vs_country_type_tiyanki_mult:0 "สร้างความเสียหายกับ Tiyanki"
  mod_damage_vs_country_type_cloud_mult:0 "ทำความเสียหายกับ Void Clouds"
  mod_damage_vs_country_type_swarm_mult:1 "ทำความเสียหายกับ Prethoryn Creatures"
