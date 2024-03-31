@@ -304,7 +304,7 @@
  leader_trait_spacebender: "Spacebender"
  leader_trait_spacebender_desc: "Deeply attuned to the spaces between space, this leader is capable of slipping easily across galaxies."
  leader_trait_spacebender_effect: "$THIS_LEADER_TXT$:\n$t$Has no upkeep"
- leader_trait_energy_weapon_specialist: "Energy Weapon Specialist"
+ leader_trait_energy_weapon_specialist: "ผู้เชี่ยวชาญอาวุธพลังงาน"
  leader_trait_energy_weapon_specialist_desc: "The calculations and precise focusing it takes to properly calibrate energy weapons can be incredibly time consuming, but such skills come naturally to this commander."
  trait_plasmic: "Plasmic"
  trait_plasmic_desc: "The external membrane and amorphous body of this species allows them to adapt to any environment and renders them immune to a wide variety of diseases."
