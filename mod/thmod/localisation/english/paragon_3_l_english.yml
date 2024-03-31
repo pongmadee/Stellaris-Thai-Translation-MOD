@@ -439,7 +439,7 @@
  paragon.3005.c_custom_tooltip:0 "§LVery well. We accept your pledge. Serve with honor, Admiral.§!\n$SEPARATOR$\n"
  paragon.3005.c.response:0 "§HSharpbeak spreads his plummage.§!\n\nI shall. The Last Talon will fly again, albeit under new colors. You have restored our purpose. I thank you."
  paragon.3005.d_custom_tooltip:0 "§LWords are hollow. Farewell, Admiral.§!"
- paragon.3005.d:1 "Dismiss"
+ paragon.3005.d:1 "ยกเลิก"
  paragon.3005.d.response:0 "§HSharpbeak's gaze is piercing.§!\n\nVery well. The Last Talon will fly alone. Farewell."
  NAME_LastTalon:0 "Last Talon"
  paragon.3006.name:0 "Victory!"

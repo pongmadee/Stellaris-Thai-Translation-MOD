@@ -745,7 +745,7 @@
  building_scrap_processing_plant_desc:0 "Processing plants for material scavenged from the ring."
  building_scrap_processing_hub_desc:0 "Massive hubs where material scavenged from the ring is received and then shuttled to arrays of purifiers."
  mod_planet_miners_alloys_produces_add:0 "£alloys£ $alloys$จาก £job_miner£ [GetMinerPlural]"
- d_artifacts_research_1:0 "Minor Artifacts Deposit"
+ d_artifacts_research_1:0 "แหล่งวัตถุโบราณชั้นรอง"
  d_artifacts_research_2:0 "$d_artifacts_research_1$"
  d_artifacts_research_3:0 "$d_artifacts_research_1$"
  d_artifacts_mining_1:0 "$d_artifacts_research_1$"
