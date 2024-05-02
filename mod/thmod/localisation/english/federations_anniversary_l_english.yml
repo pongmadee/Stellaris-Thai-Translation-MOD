@@ -408,7 +408,7 @@
  galcom.109.desc:0 "Officials from the Galactic Community have observed the presence of Tiyanki within the borders of the [Root.GetName]. With the Tiyanki Pest Control resolution having been enacted, this leaves us in §RBreach of Galactic Law§! until the creatures are euthanized or leave our space of their own accord."
  resolution_amoeba_conservation_act:0 "กฎหมายคุ้มครองอะมีบาอวกาศ"
  resolution_amoeba_conservation_act_desc:0 "Despite their unseeming looks, the Space Amoebas have as much right to roam the galaxy as any species. They must be treated as a form of life worth cherishing, not as vermin to be hunted down."
- resolution_amoeba_conservation_act_tooltip:0 "Any empire that does not agree to peacefully coexist with §YSpace Amoebas§! will be considered in §RBreach of Galactic Law§!."
+ resolution_amoeba_conservation_act_tooltip:0 "จักรวรรดิใดก็ตามที่ไม่ตกลงที่จะอยู่ร่วมกันกับ §Yอะมีบาอวกาศ§! อย่างสันติจะถือว่าเป็นการ §Rละเมิดกฎหมายกาแล็กติก§!"
  resolution_repeal_amoeba_conservation_act:0 "§Rยกเลิก $resolution_amoeba_conservation_act$§!"
  resolution_repeal_amoeba_conservation_act_desc:0 "Space Amoebas are a pest and must be eradicated."
  resolution_repeal_amoeba_conservation_act_effect_success:0 "ยกเลิกมติ §Y$resolution_amoeba_conservation_act$§! แล้วออก §Y$resolution_tiyanki_conservation_act$§! เป็นกฎหมายกาแล็กติก\n\n"

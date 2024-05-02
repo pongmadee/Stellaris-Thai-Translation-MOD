@@ -1201,7 +1201,7 @@
  awareness_high:0 "มีการรับรู้สูง"
  awareness_full:0 "รับรู้ครบถ้วนสมบูรณ์"
  awareness_unaware_tt:0 "อารยธรรมนี้ไม่รู้ถึงสิ่งมีชีวิตระหว่างดวงดาว"
- awareness_low_tt:0 "เนื่องจากขาดหลักฐานของชีวิตระหว่างดวงดาว อารยธรรมนี้ยังเชื่อว่าอาจอยู่เพียงลำพังในจักรวาล"
+ awareness_low_tt:0 "เนื่องจากขาดหลักฐานของชีวิตระหว่างดวงดาว อารยธรรมนี้ยังเชื่อว่าพวกเขาอาจอยู่เพียงลำพังในจักรวาล"
  awareness_partial_tt:0 "This civilization is partially aware of the existence of life in the galaxy. Something is out there. But what?"
  awareness_high_tt:0 "This civilization is aware that the galaxy is full of life; but who are these creatures, and what do they want?"
  awareness_full_tt:0 "Fully aware of interstellar life, this civilization understands it belongs to a galactic community."

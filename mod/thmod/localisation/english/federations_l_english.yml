@@ -2771,7 +2771,7 @@
  FEDERATION_MEMBERS_HEADING:0 "§Eสมาชิกสหพันธ์:§!"
  FEDERATION_VOTE_RECENTLY_PROPOSED:0 "$FEDERATION|Y$ has already voted on $LAWY|Y$ recently"
  FEDERATION_VOTE_TYPE_RECENTLY_PROPOSED:0 "$FEDERATION|Y$ has already voted on changing to $TYPE|Y$ recently"
- FEDERATION_ALREADY_HAS_LAW:0 "$FEDERATION|Y$ already has the law $LAW|Y$"
+ FEDERATION_ALREADY_HAS_LAW:0 "$FEDERATION|Y$ มีกฎหมาย $LAW|Y$ อยู่แล้ว"
  FEDERATION_ALREADY_HAS_TYPE:0 "$FEDERATION|Y$ เป็น $TYPE|Y$ ($FEDERATION_TYPE$) อยู่แล้ว"
  ACTION_OFFER_FEDERATION_ASSOCIATION_OFFER_DESC:1 "§H[Actor.GetName]§! ได้เชิญเราให้เป็นสมาชิกสมทบของ §H[Actor.GetAllianceName]§! และสิ่งนี้จะทำหน้าที่เป็นข้อตกลงไม่รุกรานกับสมาชิกทั้งหมดในสหพันธ์"
  mod_federation_influence_produces_mult:0 "ได้รับอิทธิพลจากสหพันธ์"

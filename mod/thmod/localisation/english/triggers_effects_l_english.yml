@@ -1341,7 +1341,7 @@
  RESEARCH_LEADER_TRIGGER:0 "Research Leader"
  START_PURGE_PLANET_EFFECT:0 "Purge all Pops on $PLANET|Y$"
  START_PURGE_POP_EFFECT:0 "กวาดล้าง $POP|Y$ ที่ดาว $PLANET|Y$"
- STOP_PURGE_PLANET_EFFECT:0 "Stop purge of Pops on $PLANET|Y$"
+ STOP_PURGE_PLANET_EFFECT:0 "หยุดกวาดล้างประชากรบนดาว $PLANET|Y$"
  STOP_PURGE_POP_EFFECT:0 "หยุดกวาดล้าง $POP|Y$ ที่ดาว $PLANET|Y$"
  HAS_FACTION:0 "มีกลุ่มการเมือง $TYPE|Y$"
  HAS_NOT_FACTION:0 "ไม่มีกลุ่มการเมือง $TYPE|Y$"

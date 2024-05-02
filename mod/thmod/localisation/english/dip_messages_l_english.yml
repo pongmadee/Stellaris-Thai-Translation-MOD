@@ -1840,7 +1840,7 @@
  01_KICK_FROM_ALLIANCE_PROPOSE:1 "We can no longer let you be part of the Federation. You must walk your own way."
  01_KICK_FROM_ALLIANCE_ACCEPT:1 "A shame for our cooperation to end like this."
  01_OFFER_FEDERATION_ASSOCIATION_STATUS_SELECT:0 "A partnership with the [From.GetAllianceName]?"
- 01_OFFER_FEDERATION_ASSOCIATION_STATUS_PROPOSE:0 "The [From.GetAllianceName] does not only cooperate with its members. We would like to extend an offer of association status to the [Root.GetName]."
+ 01_OFFER_FEDERATION_ASSOCIATION_STATUS_PROPOSE:0 "[From.GetAllianceName] ไม่เพียงแต่ให้ความร่วมมือกับสมาชิกเท่านั้น แต่เราต้องการขยายข้อเสนอสถานะการมีส่วนร่วมกับ [Root.GetName] อีกด้วย"
  01_OFFER_FEDERATION_ASSOCIATION_STATUS_ACCEPT:0 "We're glad to have this opportunity to work with the [From.GetAllianceName]."
  01_OFFER_FEDERATION_ASSOCIATION_STATUS_REFUSE:0 "We are not interested in cooperating with the [From.GetAllianceName]."
  01_OFFER_FEDERATION_ASSOCIATION_STATUS_VOTE_PROPOSE:0 "Dear ally, although the §Y[Root.GetName]§! may not qualify for membership yet, we strongly suggest our federation grants them association status to secure cordial relations."
