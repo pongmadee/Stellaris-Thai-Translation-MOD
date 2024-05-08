@@ -6,7 +6,7 @@
 
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 3.11.x "Eridanus" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 3.12.x "Andromeda" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
  :heavy_check_mark: รองรับโหมดช่วยกันเล่น (Co-op) <br/>
@@ -19,6 +19,7 @@
 *  Federations
 *  Nemesis
 *  Galactic Paragons
+*  Overlord
 
 ### Story Pack DLC ที่รองรับ
 *  Synthetic Dawn
