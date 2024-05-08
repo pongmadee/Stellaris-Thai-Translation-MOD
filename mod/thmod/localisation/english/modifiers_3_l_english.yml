@@ -124,7 +124,7 @@
  nascent_locust:0 "Nascent Locust"
  nascent_locust_desc:0 "This planet boasts a large population of easy-to-dispatch but rapidly reproducing creatures. Anyone trying to survive on the surface will have to adapt their infrastructure to occasional attacks by large insects."
  stratovents: "Stratospheric Vents"
- stratoventsc_desc: "Towering mineral structures that send gases billowing into the thermosphere."
+ stratovents_desc: "Towering mineral structures that send gases billowing into the thermosphere."
  stratovent_world_modifier_tourism: "Untouched Stratospheric Vents"
  stratovent_world_modifier_tourism_desc: "These magnificient stratospheric vents have been left untouched to allow Tiyanki to graze on the gases."
  stratovent_world_modifier_refining: "Stratospheric Vent Refineries"

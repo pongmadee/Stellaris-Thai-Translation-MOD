@@ -467,7 +467,7 @@ guiTypes = {
 			containerWindowType = {
 				name = "icon_frame_box"
 				size = { width = 54 height = 54 }
-				position = { x = 3 y = 53 }
+				position = { x = 3 y = 51 }
 				
 				background = {
 					name = "icon_frame"
