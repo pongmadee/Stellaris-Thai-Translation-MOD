@@ -581,7 +581,7 @@
  tr_cybernetics_metabolic_reprocessing_delayed:0 "Reprocessing metabolic waste into digestible chemical components reduces the required chemical upkeep for our population."
  tr_cybernetics_metabolic_reprocessing_hive_delayed:0 "$tr_cybernetics_metabolic_reprocessing_delayed$"
  tr_cybernetics_metabolic_reprocessing_hive_desc:0 "ค่าบำรุงรักษาไซบอร์ก: §G-10%§!\nขนาดของจักรวรรดิจากประชากรไซบอร์ก: §G-10%§!"
- tr_cybernetics_metabolic_reprocessing_situation_effects: "$tr_cybernetics_situation$Cyborg Upkeep: §G-10%§!"
+ tr_cybernetics_metabolic_reprocessing_situation_effects: "$tr_cybernetics_situation$ค่าบำรุงรักษาไซบอร์ก: §G-10%§!"
  tr_cybernetics_metabolic_reprocessing_situation_hive_effects: "$tr_cybernetics_situation$$tr_cybernetics_metabolic_reprocessing_hive_desc$"
  tr_cybernetics_integrated_anatomy:0 "รวมเข้ากับร่างกาย"
  tr_cybernetics_integrated_anatomy_delayed:0 "Only by alloying [Owner.Species.GetFleshTypeCyberCreed], steel, and nano-carbon composite can we truly reach perfection."

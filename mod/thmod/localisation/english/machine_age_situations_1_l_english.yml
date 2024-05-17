@@ -53,7 +53,7 @@
  job_augmentor_growth_desc: "$job_augmentor_plural$ install cybernetic implants to merge [Owner.Species.GetFleshTypeCyberCreed] and machine."
  job_augmentor_growth_effect_desc: "$job_augmentor_plural_with_icon$ provide $r_engineering$, $r_amenities$, and $m_pop_growth$"
  mod_job_augmentor_add: "$job_augmentor$ Jobs"
- mod_job_augmentor_trade_value_add: "£trade_value£ Trade Value from £job_augmentor£ $job_augmentor_plural$"
+ mod_job_augmentor_trade_value_add: "£trade_value£ มูลค่าการค้า จาก £job_augmentor£ $job_augmentor_plural$"
  planet_augmentors: "$job_augmentor$ Jobs"
  mod_planet_augmentors_upkeep_mult: "$job_augmentor_plural$ Upkeep"
  job_augmentor_drone: "Augmentor Drone"

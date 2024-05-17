@@ -865,7 +865,7 @@
  country_resource_sr_riggan_add:0 "Riggan Spice"
  country_resource_sr_xuran_add:0 "XuraGel"
  country_resource_sr_muutagan_add:0 "Muutagan Crystals"
- riggan_spice_effect:1 "\n§YRiggan Spice§! grants Fire Rate §G+5%§! and Army Damage §G+10%§!"
+ riggan_spice_effect:1 "\n§YRiggan Spice§! ให้อัตราการยิง §G+5%§! และ พลังโจมตีของทหาร §G+10%§!"
  xuragel_effect:1 "\n§YXuraGel§! grants Habitability §G+10%§!"
  muutagan_crystals_effect:2 "\n§YMuutagan Crystals§! grant Happiness §G+10%§!"
  space_dragon_baby:0 "Immature Ether Drake"
