@@ -1,11 +1,11 @@
 ﻿l_english:
- civic_mercenary_enclave:0 "Mercenary Enclave"
+ civic_mercenary_enclave:0 "ทหารรับจ้าง Enclave"
  civic_mercenary_enclave_desc:0 ""
  civic_salvager_enclave:0 "Salvager Enclave"
  civic_salvager_enclave_desc:0 ""
  civic_shroudwalker_enclave:0 "Shroudwalker Enclave"
  civic_shroudwalker_enclave_desc:0 ""
- gov_mercenary_enclave:0 "Mercenary Enclave"
+ gov_mercenary_enclave:0 "ทหารรับจ้าง Enclave"
  gov_mercenary_enclave_desc:1 "A proud and lethal company of warships, naval crew and soldiers for hire."
  gov_salvager_enclave:0 "Salvager Enclave"
  gov_salvager_enclave_desc:1 "A motley society of ardent mechanics and engineers, in thrall to their passion for dismantling and reassembling."

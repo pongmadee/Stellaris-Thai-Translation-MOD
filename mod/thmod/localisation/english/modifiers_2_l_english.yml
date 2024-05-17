@@ -136,7 +136,7 @@
  hunger_strike_desc:0 "This Pop will not consume sufficient nutrients to maintain optimal productivity."
  peace_strike:0 "War Protester"
  peace_strike_desc:0 "This Pop will dedicate some of their time to protesting the war, resulting in a loss of productivity."
- culture_shock_bronze_age:0 "Stellar Culture Shock"
+ culture_shock_bronze_age:0 "ความตื่นตระหนกทางวัฒนธรรมต่างดาว"
  culture_shock_bronze_age_desc:0 "This Pop is still adjusting to life under their new xeno overlords."
  culture_shock_stone_age:0 "$culture_shock_bronze_age$"
  culture_shock_stone_age_desc:0 "$culture_shock_bronze_age_desc$"
