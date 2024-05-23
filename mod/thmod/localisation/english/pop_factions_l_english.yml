@@ -174,7 +174,7 @@
  IMPERIALIST_RIVALS2:0 "การแข่งขันในพื้นที่ใกล้เคียง"
  IMPERIALIST_RIVALS_DESC2:1 "เป็นคู่แข่งกับจักรวรรดิอื่นอย่างน้อย §Y2 จักรวรรดิ§! จะทำให้ [Root.GetName] พอใจ"
  IMPERIALIST_FEW_RIVALS2:0 "$IMPERIALIST_RIVALS2$"
- IMPERIALIST_RIVALS3:0 "นักเลงแห่งกาแล็กติก"
+ IMPERIALIST_RIVALS3:0 "กาแล็กติกเนเมซิส"
  IMPERIALIST_RIVALS_DESC3:1 "เป็นคู่แข่งกับจักรวรรดิอื่นอย่างน้อย §Y3 จักรวรรดิ§! จะทำให้ [Root.GetName] พอใจ"
  IMPERIALIST_FEW_RIVALS3:0 "$IMPERIALIST_RIVALS3$"
  IMPERIALIST_OVERLORD:0 "จักรวรรดิมหาอำนาจ"

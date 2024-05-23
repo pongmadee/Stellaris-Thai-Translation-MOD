@@ -221,5 +221,5 @@
  mod_job_catalytic_drone_per_pop:0 "§G+1§! อาชีพ$job_catalytic_drone$ ต่อ $VALUE$ ประชากร"
  mod_job_catalytic_drone_per_pop_short:0 "\n§G+1§! £mod_job_catalytic_drone_add£ ต่อ $VALUE$ £pop£"
  trait_invasive: "เผ่าพันธุ์ที่แพร่กระจายอย่างรวดเร็ว"
- TRAIT_INVASIVE_EFFECT: "§YCan only select negative or botanical traits§!\n\nการอยู่อาศัยได้: §G+5%§! สำหรับแต่ละลักษณะเชิงลบที่เลือก\nความเร็วในการเพิ่มประชากร: §G+5%§! สำหรับแต่ละคุณลักษณะเชิงลบที่เลือก"
+ TRAIT_INVASIVE_EFFECT: "§Yสามารถเลือกได้เฉพาะคุณลักษณะเชิงลบหรือคุณลักษณะทางพืชได้เท่านั้น§!\n\nการอยู่อาศัยได้: §G+5%§! สำหรับแต่ละลักษณะเชิงลบที่เลือก\nความเร็วในการเพิ่มประชากร: §G+5%§! สำหรับแต่ละคุณลักษณะเชิงลบที่เลือก"
  trait_invasive_desc: "Rapid reproduction. High dispersal ability. Zero useful capabilities."
