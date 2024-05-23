@@ -372,7 +372,7 @@
  change_auth_tt: "Changes Authority: "
  keep_auth_tt: "Keeps Authority: "
  cyber_keep_auth_option: "Cyberization does not change who we are."
- unlock_edict_tt: "Unlocks Edict: "
+ unlock_edict_tt: "ปลดล็อกประกาศคำสั่ง: "
  unlock_agenda_augmentation_product_launch: "Unlocks Agenda: §Y$council_agenda_agenda_augmentation_product_launch_name$§!"
  auth_cyber_democratic_individualist: "Democratic Concurrency"
  auth_cyber_democratic_individualist_desc: "Highly advanced neurosecurity protocols allow citizens to vote on policy decisions in real-time directly.\n\nThis democratic government holds regular elections where all citizens can vote on who should represent them."

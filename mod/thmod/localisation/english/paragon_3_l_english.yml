@@ -399,7 +399,7 @@
  integrated_command_desc:0 "Our integrated command processes have allowed us to innovate the way we use strike ships in combat. We will also be rid of the quarrels of the pesky admiralty."
  crisis_studied:0 "Skrand Crisis Insight"
  crisis_studied_desc:0 "Thanks to Skrand's insights we were able to devise effective ways to wage our war against the Crisis."
- crisis_studied_damage_desc:0 "Damage to Endgame Crisis factions: §G+20%§!"
+ crisis_studied_damage_desc:0 "สร้างความเสียหายให้กับฝ่ายไครซิสตอนจบเกม: §G+20%§!"
  talon_armor:0 "Armor Layering"
  talon_armor_desc:1 "Investigation into the Talon's cladding has provided us with insights into hull optimization. This has allowed us to improve the armor of our ships without adding more weight."
  talon_hull:0 "Hull Hardening"

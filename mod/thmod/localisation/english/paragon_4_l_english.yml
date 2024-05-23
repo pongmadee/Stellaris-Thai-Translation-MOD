@@ -853,7 +853,7 @@
  leader_trait_courtroom_training_machine_desc:1 "Concise and thoughtful with organic communication styles, this unit excels at diplomatic meetings."
  leader_trait_principled_hive:0 "Hum of Stability"
  leader_trait_principled_hive_desc:1 "This node emits a constant chemical signal which reinforces the correct synapse development in its fellow drones."
- leader_trait_principled_machine:0 "Protected"
+ leader_trait_principled_machine:0 "ได้รับการปกป้อง"
  leader_trait_principled_machine_desc:0 "Corrupt files, data loss, and similar code failings are less likely to occur under this node's guidance."
  leader_trait_principled_2_hive:0 "$leader_trait_principled_hive$ II"
  leader_trait_principled_2_hive_desc:0 "$leader_trait_principled_hive_desc$"

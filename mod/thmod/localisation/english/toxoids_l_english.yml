@@ -593,7 +593,7 @@
  incubator_tooltip:1 "ความเร็วการเพิ่มประชากรระหว่าง §G+30%§! ถึง §R-10%§! แปรผกผันกับจำนวนประชากรบนดาว"
  trait_incubator_desc:1 "§LWhen isolated or few in numbers, a species with this trait naturally adapts and is able to focus on procreation with an intentness others would consider extreme. However, when in large numbers, this effect is reversed, and they find reproduction more difficult.§!"
  trait_inorganic_breath:0 "ลมหายใจอนินทรีย์"
- inorganic_breath_tooltip:2 "Each pop working as a slave or better produces 0.02 £exotic_gases£ §Y$exotic_gases$§! per month."
+ inorganic_breath_tooltip:2 "แต่ละประชากรที่ทำงานเป็นทาสหรือสูงกว่าจะผลิต 0.02 £exotic_gases£ §Y$exotic_gases$§! ต่อเดือน"
  trait_inorganic_breath_desc:0 "§LThe slightly toxic digestive methods of this species have resulted in a highly exotic breath composition.§!"
  trait_noxious:0 "เป็นพิษ"
  noxious_tooltip:2 "ความสุขของประชากร non-noxious: §R$@noxious_happiness_penalty|%$§!\nความสุขต่อประชากร non-noxious (ไม่รวมประชากรที่ไม่ได้รับผลกระทบจากความสุข): §G$@noxious_happiness_bonus|%$§! (สูงสุด: §G+40%§!)"

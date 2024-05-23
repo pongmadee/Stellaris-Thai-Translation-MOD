@@ -559,7 +559,7 @@
  specialist_prospectorium_neighbor_desc:0 "Readily available materials from the nearby Prospectorium specialist eliminates inefficiencies in construction."
  mod_shipclass_military_station_build_speed_mult:0 "Defense Platform Build Speed"
  mod_ship_military_cost_mult:0 "Military Ships Build Cost"
- mod_ship_military_upkeep_mult:0 "Military Ships Upkeep"
+ mod_ship_military_upkeep_mult:0 "ค่าบำรุงรักษายานทางทหาร"
  mod_shipclass_mining_station_build_cost_mult:0 "Mining Station Build Cost"
  mod_shipclass_mining_station_build_speed_mult:0 "Mining Station Build Speed"
  holding_splinter_hive_modifier:0 "Splinter Hive Symbiotic Link"
