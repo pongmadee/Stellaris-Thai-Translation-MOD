@@ -44,7 +44,7 @@
  allow_edict_consectrated_worlds:5 "§Hปลดล็อกการตัดสินใจ:§! ดาวศักดิ์สิทธิ์\n"
  describe_edict_consectrated_worlds:5 "§Eทำดาวเคราะห์ที่ไม่มีใครอยู่ให้เป็นดาวศักดิ์สิทธิ์ (สูงสุดที่ §Y3§!) เพิ่ม §Yแรงดึงดูดจริยธรรมจิตวิญญาณ§! และ §Yความอยู่ดีกินดีทั่วทั้งจักรวรรดิ§! เช่นเดียวกับ £unity£ §Yการสร้างเอกภาพ§! ตามระดับความศักดิ์สิทธิ์ของดาวเคราะห์ (เมื่อทำเสร็จแล้ว)§!"
  allow_machine_worlds:2 "§Hปลดล็อกตัวเลือกการปรับสภาพดาว:§! ดาวเครื่องจักร"
- describe_machine_worlds:7 "Uninhabitable for most organics\nUnlimited £district£ §YCoordination§!, §YGenerator§!, and §YMining Districts§!\nDoubles Housing and Jobs from £district£ §YIndustrial§!, §YCoordination§!, §YGenerator§!, and §YMining Districts§!\n£pop£ Pop Resource Output: §G+10%§!\nHousing Usage: §G-10%§!\n§RRemoves all Agriculture Districts§!"
+ describe_machine_worlds:7 "- ไม่สามารถอยู่อาศัยได้สำหรับสิ่งมีชีวิตส่วนใหญ่\n- £district£ §Yเขตประสานงาน§!, §Yเขตกำเนิดไฟฟ้า§!, และ §Yเขตเหมืองแร่§! มีไม่จำกัด\n- เพิ่มที่อยู่อาศัยและงานจาก £district£ §Yเขตอุตสาหกรรม§!, §Yเขตประสานงาน§!, §Yเขตกำเนิดไฟฟ้า§!, และ §Yเขตเหมืองแร่§!\n- £pop£ ผลผลิตที่เป็นทรัพยากรจากประชากร: §G+10%§!\n- ใช้งานที่อยู่อาศัย: §G-10%§!\n- §Rยกเลิกเขตเกษตรกรรมทั้งหมด§!"
  allow_hive_worlds:0 "§Hปลดล็อกตัวเลือกการปรับสภาพดาว:§! ดาวที่เป็นรัง"
  describe_hive_worlds:1 "- §Yดาวที่เป็นรัง§! เป็นดาวเคราะห์ชนิดพิเศษที่ไม่เอื้ออำนวยต่อประชากรที่ไม่ใช่สิ่งมีชีวิตจิตสำนึกร่วม แต่ไม่ถูกจำกัดจำนวนของเขตต่างๆที่รองรับ: £district£ §Yเขตกำเนิดไฟฟ้า§!, §Yเขตเหมืองแร่§! และ §Yเขตเกษตรกรรม§! และ §Yเขตรัง§! มีประสิทธิภาพมากขึ้น\n\n- £pop£ §Yประชากร§! ที่อาศัยบน §Yดาวที่เป็นรัง§! จะมี §Yผลผลิตของทรัพยากร§! เพิ่มขึ้น §G+10%§!"
  ALLOW_PSI_CORPS:1 "ปลดล็อกสิ่งปลูกสร้าง: §Y$building_psi_corps$§!"

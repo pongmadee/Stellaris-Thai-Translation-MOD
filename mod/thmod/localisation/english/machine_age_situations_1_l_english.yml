@@ -55,7 +55,7 @@
  mod_job_augmentor_add: "$job_augmentor$ Jobs"
  mod_job_augmentor_trade_value_add: "£trade_value£ มูลค่าการค้า จาก £job_augmentor£ $job_augmentor_plural$"
  planet_augmentors: "$job_augmentor$ Jobs"
- mod_planet_augmentors_upkeep_mult: "$job_augmentor_plural$ Upkeep"
+ mod_planet_augmentors_upkeep_mult: "ค่าบำรุงรักษา $job_augmentor_plural$"
  job_augmentor_drone: "Augmentor Drone"
  job_augmentor_drone_plural: "Augmentor Drones"
  job_augmentor_drone_plural_with_icon: "£job_augmentor_drone£ $job_augmentor_drone_plural$"

@@ -143,7 +143,7 @@
  MOD_BIOLOGICAL_POP_HAPPINESS_DESC:1 "Biological Pops have their Happiness adjusted by this value."
  mod_BIOLOGICAL_pop_happiness:0 "$MOD_BIOLOGICAL_POP_HAPPINESS$"
  mod_BIOLOGICAL_pop_happiness_DESC:0 "$MOD_BIOLOGICAL_POP_HAPPINESS_DESC$"
- MOD_ROBOT_POP_HAPPINESS: "Mechanical Pop Happiness"
+ MOD_ROBOT_POP_HAPPINESS: "ความสุขของประชากรจักรกล"
  MOD_ROBOT_POP_HAPPINESS_DESC: "Mechanical Pops have their Happiness adjusted by this value."
  mod_ROBOT_pop_happiness: "$MOD_ROBOT_POP_HAPPINESS$"
  mod_ROBOT_pop_happiness_DESC: "$MOD_ROBOT_POP_HAPPINESS_DESC$"
