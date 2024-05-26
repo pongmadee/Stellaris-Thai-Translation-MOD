@@ -138,7 +138,7 @@
  TRADITIONS_TAB_SHORT:0 "วัฒนธรรมและการยกระดับ"
  RELICS_TAB_SHORT:0 "วัตถุโบราณ"
  CRISIS_TAB_SHORT:0 "ไครซิส"
- CRISIS_TAB_DISABLED:1 "Only available with $TRAD|Y$ or §Y$ap_cosmogenesis$§! Ascension Perk"
+ CRISIS_TAB_DISABLED:1 "ใช้ได้เฉพาะกับการยกระดับ $TRAD|Y$ หรือ §Y$ap_cosmogenesis$§! เท่านั้น"
  CRISIS_TAB_DESC:2 ""
  new_crisis_perks_tt:0 "\n§GNew Crisis Perks have been unlocked§!"
  can_advance_crisis_progression:0 "The next level of our §YCrisis Progression§! has been unlocked"

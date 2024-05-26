@@ -335,7 +335,7 @@
  asset_cortex_node_desc:0 "Acting as data storage for the hive, control of a cortex node can allow our operatives to steal or modify data."
  asset_subspace_tendril:0 "Subspace Tendril"
  asset_subspace_tendril_desc:0 "These tendrils are used for communication with the hive's fleets across the galaxy."
- asset_coordination_system:0 "Coordination System"
+ asset_coordination_system:0 "ระบบประสานงาน"
  asset_coordination_system_desc:0 "This system acts as a layer between a planet's primary nodes and the $job_coordinator$ drones for that area."
  asset_engagement_protocol:0 "Engagement Protocol"
  asset_engagement_protocol_desc:0 "Communication with other intelligences is largely governed by this system."

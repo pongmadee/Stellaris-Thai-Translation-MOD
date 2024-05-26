@@ -1285,7 +1285,7 @@
  leader_trait_erudite_desc:1 "This leader possesses a vast intellect and a deep pool of knowledge."
  leader_trait_cyborg:0 "ไซบอร์ก"
  leader_trait_cyborg_desc:0 "This leader has been heavily augmented with cybernetic implants."
- leader_trait_synthetic:1 "Synth"
+ leader_trait_synthetic:1 "สังเคราะห์"
  leader_trait_synthetic_desc:0 "This synthetic leader is equipped with a large collection of assorted upgrades."
  leader_trait_psionic:0 "มีญาณทิพย์"
  leader_trait_psionic_desc:1 "This leader possesses powerful psionic abilities."

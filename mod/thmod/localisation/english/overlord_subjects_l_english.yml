@@ -106,7 +106,7 @@
  SPECIALIST_CONVERSION_TIME:0 "£time£ $VALUE|Y0$"
  specialist_conversion_time_estimated:0 "Conversion to $SPECIALIZATION|Y$ will take around $DAYS|Y0$ days"
  specialist_conversion_losing_specialization:0 "$NAME|Y$'s $SPECIALIZATION|Y$ Specialization will be lost!"
- specialist_conversion_base_time:0 "Base: $DAYS|Y0$ days"
+ specialist_conversion_base_time:0 "พื้นฐาน: $DAYS|Y0$ วัน"
  specialist_conversion_time_from_sprawl:0 "จาก $SPRAWL|Y$ £empire_sprawl£ $EMPIRE_SIZE$: ระยะเวลาในการเปลี่ยนแปลง +$TIME_PERCENT$"
  specialist_conversion_speed_from_ethic:0 "จากการเป็น $ETHIC|Y$: ระยะเวลาในการเปลี่ยนแปลง $TIME_PERCENT$"
  specialist_conversion_time_from_overlord: "จากเจ้าเหนือหัว $OVERLORD|Y$: ระยะเวลาในการเปลี่ยนแปลง $TIME_PERCENT$"

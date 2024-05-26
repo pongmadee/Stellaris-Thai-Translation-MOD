@@ -93,7 +93,7 @@
  sm_dark_matter_detector:0 "ห้องเรโซแนนซ์สสารมืด"
  sm_dark_matter_detector_desc:0 "By exciting dark matter into a resonant state, this chamber will greatly improve our Detection Arrays.\n"
  sm_dark_matter_detector_desc_modifier:1 "Every §Y3§! §H$sm_detection_array_plural$§! provide:\n$t$Detection Strength: §G+1§!"
- sm_dark_matter_listening_post:0 "Dark Matter Listening Post"
+ sm_dark_matter_listening_post:0 "เครื่องฟังคลื่นเสียงสะท้อนสสารมืด"
  sm_dark_matter_listening_post_desc:0 "Capable of exceptional cloaking detection, this Listening Post's suite of powerful sensors is boosted by a self-contained dark matter resonance chamber.\n"
  CLOAKING_STRENGTH:0 "Cloaking Strength"
  CLOAKING_STRENGTH_VALUE:0 "$CLOAKING_STRENGTH$: $VALUE|0$"

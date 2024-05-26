@@ -357,7 +357,7 @@
  Dimensional_Commune: "คอมมูนมิติ"
  sm_dimensional_shrine: "ศาลเจ้ามิติ"
  sm_dimensional_shrine_desc: "Outside the known universe there are pathways to other worlds, and places where those connections are subtly made. This is where we build the holiest of our temples.\n"
- sm_reloading_bay: "Reloading Bay"
+ sm_reloading_bay: "รีโหลดเบย์"
  sm_reloading_bay_desc: "Reserves a significant portion of the Starbase for reloading our weapon components, and provides for extra defense platforms.\n"
  requires_dimensional_space_object: "§RRequires a §Y$WORMHOLE$§!, an §Y$pc_rift_star$§!, an §Y$ASTRAL_RIFT$§!, a §Y$LGATE_GALACTIC$§! or a §Y$SHROUD_TUNNEL_GALACTIC$§!§!"
  civic_hyperspace_specialty: "ชำนาญการไฮเปอร์สเปซ"
