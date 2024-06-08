@@ -303,7 +303,7 @@
  concept_culture_shock_broken_shackles: "$culture_shock_broken_shackles$"
  concept_culture_shock_broken_shackles_desc: "- $mod_planet_jobs_minerals_produces_mult$: §R-10%§!\n- $mod_planet_jobs_energy_produces_mult$: §R-10%§!\n- $mod_planet_jobs_engineering_research_produces_mult$: §R-20%§!\n- $mod_planet_jobs_physics_research_produces_mult$: §R-20%§!\n- $mod_planet_jobs_society_research_produces_mult$: §R-20%§!\n- จะหมดอายุใน §I10§! ปี\n\n§L$culture_shock_broken_shackles_desc$§!"
  concept_free_at_last_broken_shackles: "$free_at_last_broken_shackles$"
- concept_free_at_last_broken_shackles_desc: "- $MOD_POP_CITIZEN_HAPPINESS$: §G+20%§!\n- $MOD_POP_HOUSING_USAGE_MULT$: §R-25%§!\n- $MOD_POP_AMENITIES_USAGE_MULT$: §R-50%§!\n- $mod_planet_jobs_unity_produces_mult$: §G+100%§!\n- $mod_planet_pops_consumer_goods_upkeep_mult$: §R-50%§!\n- $mod_pop_ethic_egalitarian_attraction_mult$: §G+50%§!\n- จะหมดอายุใน §I20§! ปี\n\n§L$free_at_last_broken_shackles_desc$§!"
+ concept_free_at_last_broken_shackles_desc: "- $MOD_POP_CITIZEN_HAPPINESS$: §G+20%§!\n- $MOD_POP_HOUSING_USAGE_MULT$: §G-25%§!\n- $MOD_POP_AMENITIES_USAGE_MULT$: §G-50%§!\n- $mod_planet_jobs_unity_produces_mult$: §G+100%§!\n- $mod_planet_pops_consumer_goods_upkeep_mult$: §G-50%§!\n- $mod_pop_ethic_egalitarian_attraction_mult$: §G+50%§!\n- จะหมดอายุใน §I20§! ปี\n\n§L$free_at_last_broken_shackles_desc$§!"
  concept_crashed_slaver_ship_broken_shackles: "$d_crashed_slaver_ship$"
  concept_crashed_slaver_ship_broken_shackles_desc: "- Max ['concept_district_crashed_slaver_ship', $district_crashed_slaver_ship_plural$]: §G+6§!\n\n§L$d_crashed_slaver_ship_desc$§!"
  concept_district_crashed_slaver_ship: "$district_crashed_slaver_ship$"

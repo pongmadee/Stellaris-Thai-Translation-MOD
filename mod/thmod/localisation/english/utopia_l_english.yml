@@ -3,6 +3,7 @@
  BUILD_MEGASTRUCTURE_WITHIN_INNER_CIRCLE:0 "§RCannot build this Megastructure within a system's gravity well§!"
  BUILD_MEGASTRUCTURE_CANT_BUILD_ON_PLANET:0 "§RCannot build this Megastructure on a planet§!"
  BUILD_MEGASTRUCTURE_BUILD_ON_PLANET:0 "§RCan only build this Megastructure on a planet§!"
+ BUILD_MEGASTRUCTURE_CANT_BUILD_ON_SYSTEM_PLANETS: "§RCannot build around any stellar body in this system§!"
  MEGASTRUCTURE_DESC:0 "สิ่งก่อสร้างขนาดมหึมานี้เป็นของ §Y$OWNER$§!"
  MEGASTRUCTURE_CLICK:0 "§Gคลิกเพื่อเปิดเมนูอัปเกรด§!"
  MEGASTRUCTURE_UPGRADE_TOOLTIP_HEADER:0 "$NAME|H$\n$DESC|L$"

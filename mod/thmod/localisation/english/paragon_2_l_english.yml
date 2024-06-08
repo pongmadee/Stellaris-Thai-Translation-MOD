@@ -12,7 +12,7 @@
  leader_desc_scientist: "§Eสามารถแต่งตั้ง §Hนักวิทยาศาสตร์§! ให้คุม §Hยานวิจัยวิทยาศาสตร์§! หรือปกครอง §Hดาวเคราะห์§! ควบคู่ไปกับ §Hตำแหน่งในสภา§! ในเวลาเดียวกันได้§!"
  leader_desc_general:0 "§Eสามารถแต่งตั้ง §Hพลเอก§! ให้คุม §Hกองทัพบก(จู่โจม)§! ควบคู่ไปกับ §Hตำแหน่งในสภา§! ในเวลาเดียวกันได้§!"
  leader_desc_governor:0 "§Eสามารถแต่งตั้ง §Hผู้ว่าการ§! ให้ปกครอง §Hดาวเคราะห์§! ควบคู่ไปกับ §Hตำแหน่งในสภา§! ในเวลาเดียวกันได้§!"
- leader_desc_official: "§Eสามารถแต่งตั้ง §H$official_plural$§! ให้เป็นตัวแทนและดูแลผลประโยชน์ของเราใน §Hสหพันธ์§! หรือ §H[global_event_country.GetCommunityOrImperium]§! หรือปกครอง §Hดาวเคราะห์§! ควบคู่ไปกับ §Hตำแหน่งในสภา§! ในเวลาเดียวกันได้§!"
+ leader_desc_official: "§Eสามารถแต่งตั้ง §H$official_plural$§! ให้เป็นตัวแทนและดูแลผลประโยชน์ของเราใน §Hสหพันธ์§! หรือ §H[GetCommunityOrImperium]§! หรือปกครอง §Hดาวเคราะห์§! ควบคู่ไปกับ §Hตำแหน่งในสภา§! ในเวลาเดียวกันได้§!"
  EXTERNAL_POOL_AVAILABILITY_TITLE:0 "$NAME|Y$ เป็นผู้นำจากภายนอกเนื่องจาก:"
  FROM_DEFENDING_GENERAL:0 "Defending Commander $NAME|H$:\n"
  FROM_ATTACKING_GENERAL:0 "Attacking Commander $NAME|H$:\n"
