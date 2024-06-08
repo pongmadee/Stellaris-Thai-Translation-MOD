@@ -55,6 +55,7 @@
  preftl.2010.a:0 "Enough. This suffering must end."
  tt_end_the_suffering:0 "Ending the plague now will reveal our presence and require a significant investment of resources."
  d_mass_graves:0 "Mass Graves"
+ d_mass_graves_desc: "After a cataclysmic plague decimated the global population, all that remains is a silent expanse that stretches towards the horizon. An empty landscape, occupied by countless lost souls."
  preftl.2011.name:0 "Survival of the Fittest"
  preftl.2011.desc:0 "Our efforts to promote the plague on [Target.GetName] have borne fruit. The contagion is running rampant, and the dead are left to fester in the streets.\n\nHowever, a significant percentage of the population possesses a natural immunity to the disease. Further study of their genome could be useful in our own immunology research."
  preftl.2011.a:0 "Procure a sample."

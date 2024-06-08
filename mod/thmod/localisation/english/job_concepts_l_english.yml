@@ -22,7 +22,7 @@
  concept_technophant: "$job_technophant_plural$"
  concept_technophant_desc: "$job_technophant_plural$ turn $i_consumer_goods$ into $i_engineering$ and $i_unity$.\n\n§LExalted interpreters of divine wetware. They guide the people toward a perfect fusion of flesh and machine.§!"
  concept_roboticist: "$job_roboticist_plural$"
- concept_roboticist_desc: "$job_roboticist_plural$ เปลี่ยน $i_alloys$ เป็น £pop£ §Iประชากรหุ่นยนต์§! ใหม่\n\n§L$job_roboticist_desc$§!"
+ concept_roboticist_desc: "$job_roboticist_plural$ เปลี่ยน $i_alloys$ เป็น £pops£ §Iประชากรจักรกล§! (ใหม่)\n\n§L$job_roboticist_desc$§!"
  concept_archaeoengineers: "$job_archaeoengineers_plural$"
  concept_archaeoengineers_desc: "$job_archaeoengineers_plural$ turn $i_consumer_goods$ into $i_research$.\n\n§L$job_archaeoengineers_desc$§!"
  concept_politician: "$job_politician_plural$"

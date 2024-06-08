@@ -1066,6 +1066,7 @@
  minor_orbital_generic: "$major_orbital_generic$"
  minor_orbital_generic_plural: "$major_orbital_generic_plural$"
  num_generic_orbitals: "\nปัจจุบัน $major_orbital_generic_plural$: §Y[solar_system.GetNumOrbitalsGeneric]/[solar_system.GetMaxOrbitalsGeneric]§!"
+ habitat_system_tt: "§Eความจุที่อยู่อาศัยวงโคจรดาว:§!$TABBED_NEW_LINE$- ที่อยู่อาศัยโคจรดาว (หลัก): §Y[root.GetNumMajorOrbitals]/[root.GetMaxMajorOrbitals]§! $TABBED_NEW_LINE$- ที่อยู่อาศัยโคจรดาว (รอง): §Y[root.GetNumMinorOrbitals]/[root.GetMaxMinorOrbitals]§! $TABBED_NEW_LINE$- $major_orbital_mining_plural$: §Y[root.GetNumOrbitalsMining]/[root.GetMaxOrbitalsMining]§! $TABBED_NEW_LINE$- $major_orbital_science_plural$: §Y[root.GetNumOrbitalsScience]/[root.GetMaxOrbitalsScience]§! $TABBED_NEW_LINE$- $major_orbital_energy_plural$: §Y[root.GetNumOrbitalsEnergy]/[root.GetMaxOrbitalsEnergy]§!"
  major_orbital_knights: "Demesne Outpost"
  major_orbital_knights_plural: "Demesne Outposts"
  major_orbital_knights_effect: "£mod_planet_max_districts_add£ สล็อตช่องเขตสูงสุด: §G+0.50§! \n$t$- £mod_job_knight_add£ งาน Knight: §G+1§!"
