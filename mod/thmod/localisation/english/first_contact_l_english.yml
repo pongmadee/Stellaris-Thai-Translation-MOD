@@ -1947,7 +1947,7 @@
  colony_vessel_plural:0 "Colonization Vessels"
  tech_subspace_drive:0 "ระบบขับเคลื่อนในทางลัดอวกาศ"
  tech_subspace_drive_desc:0 "An insight borne of a desperate desire to leave our home, these Subspace Drive engines were designed to facilitate limited interstellar travel. While only allowing small-scale jumps, they provide a unique opportunity to jumpstart our galactic exploration."
- TECH_UNLOCK_SUBSPACE_DRIVE_TITLE:0 "§HUnlocks Component:§! $SUBSPACE_DRIVE$"
+ TECH_UNLOCK_SUBSPACE_DRIVE_TITLE:0 "§Hปลดล็อกส่วนประกอบ:§! $SUBSPACE_DRIVE$"
  TECH_UNLOCK_SUBSPACE_DRIVE_DESC:0 "§HJump Drive§!\n$tech_subspace_drive_desc$"
  SUBSPACE_DRIVE:0 "ระบบขับเคลื่อนในทางลัดอวกาศ"
  SUBSPACE_DRIVE_DESC:0 "The Subspace Drive creates microtears in spacetime, allowing vessels to jump to nearby systems. The process becomes incredibly unstable if longer jumps are attempted."

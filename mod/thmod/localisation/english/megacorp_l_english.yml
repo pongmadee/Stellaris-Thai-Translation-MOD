@@ -1152,6 +1152,7 @@
  mod_job_roboticist_add:0 "งาน $job_roboticist$"
  mod_job_roboticist_per_pop:0 "§G+1§! อาชีพ $job_roboticist$ ต่อ $VALUE$ ประชากร"
  mod_job_roboticist_per_pop_short:0 "\n§G+1§! £mod_job_roboticist_add£ ต่อ $VALUE$ £pop£"
+ mod_job_roboticist_branch_office_value_mult: "£mod_branch_office_value_mult£ $MOD_BRANCH_OFFICE_VALUE_MULT$ จาก $job_roboticist_plural_with_icon_and_job_identity_designer_plural_with_icon$"
  job_manager:1 "ผู้จัดการ"
  job_manager_plural:1 "ผู้จัดการ"
  job_manager_desc:1 "The endless struggle to balance conflicting demands from the middle of the managerial hierarchy is envied by few."

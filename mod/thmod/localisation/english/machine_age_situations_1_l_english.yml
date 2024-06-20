@@ -86,7 +86,7 @@
  planet_job_cyberdome_spectator: "$job_cyberdome_spectator$ Jobs"
  mod_job_cyberdome_spectator_add: "$planet_job_cyberdome_spectator$"
  mod_job_cyberdome_spectator_per_pop: "$job_cyberdome_spectator$ Jobs per $VALUE$ Pops: §G+1§!"
- mod_job_cyberdome_spectator_per_pop_short: "\nmod_job_cyberdome_spectator_add per $VALUE$ £pop£: §G+1§!"
+ mod_job_cyberdome_spectator_per_pop_short: "\n$mod_job_cyberdome_spectator_add$ per $VALUE$ £pop£: §G+1§!"
  planet_cyberdome_spectator: "$job_cyberdome_spectator_plural$"
  trait_limited_cybernetic: "Limited Cybernetic"
  trait_limited_cybernetic_desc: "This species has the least amount of implants necessary to function in a cybernetic society."
