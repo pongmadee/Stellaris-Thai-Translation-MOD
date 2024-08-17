@@ -1,5 +1,5 @@
 ﻿l_english:
- situation_digitization: "Synthesization"
+ situation_digitization: "การสังเคราะห์"
  situation_digitization_type: "Ascension Situation"
  situation_digitization_desc: "It is time to leave our flawed biological vessels behind. We must prepare advanced machine bodies and perform the process of consciousness transfers.\n\n§YPops to be digitized next month§!: §G[From.GetSynthPopsPerMonth]§!"
  situation_digitization_monthly_change_tooltip: "Our minds will become digital, our bodies machines."
@@ -15,7 +15,7 @@
  approach_digitization_overclocked_tt: "Higher risk of challenging events.\n$situation_speed_tt$: §G+20%§!"
  situation_digitization_overclocked_approach_tt: "$situation_digitization_overclocked$ $situation_approach_tt$"
  situation_num_identity_complex_tt: "$building_identity_complex$"
- situation_digitization_ongoing_desc: "Synthesization Ongoing"
+ situation_digitization_ongoing_desc: "การสังเคราะห์กำลังดำเนินอยู่"
  situation_digitization_pause_desc: "$situation_cyberization_pause_desc$"
  situation_identity_complex_needed_desc: "£trigger_no£ No enabled $building_identity_complex$"
  synth_positive_media_coverage_tt: "Positive Media Coverage"
