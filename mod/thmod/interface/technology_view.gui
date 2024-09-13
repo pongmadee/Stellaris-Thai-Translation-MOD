@@ -775,7 +775,7 @@ guiTypes = {
 			orientation = "UPPER_LEFT"
 			borderSize = { x = 0 y = 0 }
 			spacing = 0
-			alwaystransparent = yes
+			alwaystransparent = no
 			scrollbarType = "standardtext_slider_small"
 		}													
 	}
@@ -1046,7 +1046,7 @@ guiTypes = {
 			borderSize = { x = 0 y = 0 }
 			spacing = 0
 			scrollbarType = "standardtext_slider_small"
-			alwaystransparent = yes
+			alwaystransparent = no
 		}
 
 		instantTextBoxType={

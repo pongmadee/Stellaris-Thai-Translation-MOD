@@ -4,7 +4,7 @@
  requires_leviathans:0 "$dlc_requirement_string$ §ILeviathans§!"
  requires_apoc:0 "$dlc_requirement_string$ §IApocalypse§!"
  requires_syn_dawn:0 "$dlc_requirement_string$ §ISynthetic Dawn§!"
- requires_megacorp:0 "$dlc_requirement_string$ §IMegacorp§!"
+ requires_megacorp:0 "$dlc_requirement_string$ §IMegaCorp§!"
  requires_dis_stars:0 "$dlc_requirement_string$ §YDistant Stars Story Pack§!"
  concept_shape:0 "รูปร่าง"
  concept_galaxy_shape:0 "รูปร่างกาแล็กซี"
