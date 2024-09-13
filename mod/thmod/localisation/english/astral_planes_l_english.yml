@@ -1,6 +1,6 @@
 ﻿l_english:
  ASTRAL_ACTIONS: "Astral Actions"
- ASTRAL_ACTIONS_TAB_DISABLED: "Available with §Y$tech_astral_harvesting$§! technology."
+ ASTRAL_ACTIONS_TAB_DISABLED: "Available with £physics£ §Y$tech_astral_harvesting$§! technology."
  ASTRAL_ACTION_REMAINING_USAGES: "($LEFT|0$/$TOTAL|0$)"
  ASTRAL_ACTION_REMAINING_USAGES_DESC: "This action is limited to $TOTAL|0$ uses total. You have $LEFT|0$ uses remaining."
  ASTRAL_ACTION_UNIQUE_USAGE_DESC: "This action can be used only once."
@@ -380,7 +380,7 @@
  civic_dimensional_worship: "บูชามิติ"
  civic_dimensional_worship_desc: "This society believes that a divine existence lies beyond the folds in space and time. Systems where instabilities are highest hold a sacred meaning to them as sites of both pilgrimage and research."
  civic_dimensional_worship_effects: "สามารถสร้าง §Y$sm_dimensional_shrine$§! บนฐานอวกาศที่ตั้งอยู่ภายในระบบดาวที่มี §Y$WORMHOLE$§!, §Y$pc_rift_star$§!, §Y$ASTRAL_RIFT$§!, §Y$LGATE_GALACTIC$§! หรือ §Y$SHROUD_TUNNEL_GALACTIC$§!\nแต่ละ §Y$sm_dimensional_shrine$§! ให้ £unity£ §G+$@dimensional_shrine_unity_production$§!"
- civic_dimensional_worship_effects_additional: "- โอกาสที่[ 'concept_astral_rift', $ASTRAL_RIFTS$ ]จะปรากฏในระบบดาวที่คุณควบคุม: §G+100%§!$NEW_LINE$§M- เทคโนโลยีหายาก§! โอกาส §Y1.1§! เท่าจากปกติ เอฟเฟกต์นี้จะเปลี่ยนโอกาสจาก §Y1%§! เป็น §Y1.1%§!"
+ civic_dimensional_worship_effects_additional: "- Chance for [ 'concept_astral_rift', $ASTRAL_RIFTS$ ] to appear in systems you control: §G+100%§!$NEW_LINE$- §MRare technologies§! now appear at §Y1.1§! times the normal rate. This effect would change a §Y1%§! chance into a §Y1.1%§! chance."
  civic_corporate_dimensional_worship: "บริษัทองค์กรมิติ"
  civic_corporate_dimensional_worship_desc: "$civic_dimensional_worship_desc$"
  civic_corporate_dimensional_worship_effects: "$civic_dimensional_worship_effects$"
@@ -909,5 +909,5 @@
  astral_planes.6105.hire_custom_tooltip:0 "§Y$NAME_Mercedes$§! joins our empire as a §HLeader§!."
  leader_trait_blorg_insight: "Blorg Insight"
  leader_trait_blorg_insight_desc: "Centuries of studying the broadcasts and culture of a certain species of upright mammal has made this individual brazenly eager to please. Some would say, annoyingly so."
- blorg_insight_effect: "§R-25§! opinion with §YHuman§! empires."
+ blorg_insight_effect: "$t$§R-25§! opinion with §YHuman§! empires."
  triggered_opinion_blorg_insight: "Blorg Insight"

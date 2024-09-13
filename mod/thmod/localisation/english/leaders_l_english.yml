@@ -126,7 +126,7 @@
  leader_trait_speed_chaser: "Speed Chaser"
  leader_trait_speed_chaser_desc: "Burn bright, die young, and leave a blazing trail for others to follow."
  leader_trait_destructive:2 "Controversial Reputation"
- leader_trait_destructive_desc:1 "Many would be happy to se this leader go. Their mere presence hurts our cohesion."
+ leader_trait_destructive_desc:1 "Many would be happy to see this leader go. Their mere presence hurts our cohesion."
  leader_trait_collective_wisdom:1 "Detail-Oriented"
  leader_trait_collective_wisdom_desc:2 "A meticulous academic who works slowly, but produces incredible amounts of research."
  leader_trait_collective_wisdom_effect:2 "$TABBED_NEW_LINE$Grants §G+$@trait_collective_wisdom_soc_amt|0$§! $mod_leader_scientists_society_research_produces_add$ while Excavating Archaeology Sites"

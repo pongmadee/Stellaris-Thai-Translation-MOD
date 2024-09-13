@@ -797,7 +797,7 @@
  tr_enmity_eclipse_effect: "ได้รับ $r_research$ และผลผลิต $r_unity$ เพิ่มขึ้น §G2%§! ต่อจำนวน §Yคู่แข่ง§! เป็นเวลา §Y10§! ปี หลังจากชนะ §Yสงครามดูถูกเหยียดหยาม§!"
  enmity_humiliate: "[GetName] ได้รับการปรับเปลี่ยน §Yยืนยันความเหนือกว่าอีกครั้ง§! เป็นเวลา §Y10§! ปี ได้รับ $r_research$ และผลผลิต $r_unity$ เพิ่ม §G2%§! ต่อจำนวน §Yคู่แข่ง§!"
  reaffirmed_superiority: "ยืนยันความเหนือกว่าอีกครั้ง"
- reaffirmed_superiority_desc: "Our superiority is unassailable. No one is greater than the [GetName]."
+ reaffirmed_superiority_desc: "Our superiority is unassailable. No one is greater than us."
  requires_tradition_the_federation:1 "$TRIGGER_FAIL$§Rต้องการ §Yสหพันธ์§! ที่อยู่ในวัฒนธรรมการทูต§!"
  requires_tradition_universal_compatibility:0 "§Rต้องการ §Yความเข้ากันได้สากล§! ที่อยู่ในวัฒนธรรมความสามารถรอบตัว§!"
  requires_independence:0 "$TRIGGER_FAIL$[This.GetName] จะต้องเป็นอิสระไม่ขึ้นกับใคร"
