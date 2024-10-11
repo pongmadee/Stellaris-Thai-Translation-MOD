@@ -314,7 +314,7 @@
  astral_rift.535.desc: "$astral_rift.535.answer.a$\n\n$astral_rift.535.desc.2$"
  astral_rift.536.desc: "$astral_rift.535.answer.b$\n\n$astral_rift.535.desc.2$"
  astral_rift.537.desc: "$astral_rift.535.answer.c$\n\n$astral_rift.535.desc.2$"
- tower_rift_leader_desc: "§Y[Root.GetName]§! is [Root.An_Ethic_Class] recovered from a great tower inside of an $ASTRAL_RIFT$, where [Root.GetSheHe] previously held a position as the leader of a doomsday cult."
+ tower_rift_leader_desc: "§Y[Root.GetName]§! was recovered from a great tower inside of an $ASTRAL_RIFT$, where [Root.GetSheHe] previously held a position as the leader of a doomsday cult."
  astral_rift_tower: "The Tower"
  astral_rift.600.name: "The Tower"
  astral_rift.600.desc: "Soon after arrival, we touched down on a stone pedestal that conforms perfectly to the dimensions of the §Y$tech_rift_sphere$§!. In fact, the location is so obviously suited to our needs that the idea of it being a coincidence has been rejected out of hand.\n\nIn all directions, a vast and radiant sky stretches before us. Initial scans indicate we are sitting atop a massive tower, the bottom of which is blocked from view by the swirling layers of cloud.\n\nAt the edge of the pedestal is a solitary creature. It wears a tattered, dusty robe, and is apparently waiting to greet us."

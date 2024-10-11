@@ -988,7 +988,7 @@ guiTypes = {
 			containerWindowType = {
 				name = "pop_effects_bg_window"
 				position = { x=0 y=340 }
-				size = { width = 550 height = 170 }
+				size = { width = 550 height = 180 }
 
 				background = {
 					name = "empire_background"
