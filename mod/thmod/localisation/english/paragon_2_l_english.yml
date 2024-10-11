@@ -604,7 +604,7 @@
  MATERIALIST_ICON:0 "£materialist£"
  GOTO_LEADER:0 "§H$GOTO$§! §GGo to the Leader.§!"
  LEADER_UI_DISMISS_ENABLED:0 "ปลด §Y$LEADER_NAME$§!"
- LEADER_BACKGROUND_DESC:0 "§Y[Root.GetName]§! มีหลักจริยธรรม [Root.An_Ethic_Class] จาก [Root.GetHomeWorldBiome] ของ §Y$PLANET$§! ที่ซึ่ง [Root.GetSheHe]เคยดำรงตำแหน่งเป็น §Y$JOB$§!"
+ LEADER_BACKGROUND_DESC:0 "§Y[Root.GetName]§! จาก [Root.GetHomeWorldBiome] ของ §Y$PLANET$§!, ที่ซึ่ง [Root.GetSheHe]เคยดำรงตำแหน่งเป็น §Y$JOB$§!"
  LEADER_ETHIC:0 "§Hจริยธรรม§!\n$ETHIC|Y$\nผู้นำคนนี้จะให้ต่อไปนี้ §Hให้การดึงดูดจริยธรรม:\n\n§!$EMPIRE_EFFECTS_TXT$:$TABBED_NEW_LINE$ ดึงดูดจริยธรรม $ETHIC$ §G$@council_ethic_attraction|%0$§!\n\n$PLANET_EFFECTS_TXT$:$TABBED_NEW_LINE$ ดึงดูดจริยธรรม $ETHIC$ §G50%§!\n\n$SECTOR_EFFECTS_TXT$:$TABBED_NEW_LINE$ ดึงดูดจริยธรรม $ETHIC$ §G25%§!"
  ETHIC_A:0 ""
  ETHIC_AN:0 ""

@@ -43,7 +43,7 @@
  POPULATION_BUTTON:0 "§Hประชากร§!"
  PLANET_CRIME_NO_HAPPINESS_DESC:0 "§E§Yความเบี่ยงเบน§! เป็นการวัดระดับโดยรวมของพฤติกรรมผิดปกติและการไม่ปฏิบัติตามข้อกำหนดของประชากรบนดาวดวงนี้ การมี §Yความเบี่ยงเบน§! ที่สูงจะทำให้เหตุการณ์ด้านลบ เกิดขึ้นบนดาวและอาจลด £stability£ §Yเสถียรภาพ§! ซึ่งเกิดจากการมีประชากรดาวเคราะห์ที่มีจำนวนมาก และสามารถลดความเบี่ยงเบนโดยการจ้าง  £job_patrol_drone£ §Y$job_patrol_drone_plural$§!§!"
  CRIME_FROM_POPS:0 "จากประชากร: §R+$VALUE|0$§!"
- CRIME_UNDER_FLOOR: "This Planet has a minimum Crime level of $VALUE|0Y$ due to:"
+ CRIME_UNDER_FLOOR: "ดาวเคราะห์ดวงนี้มีระดับเลเวลอาชญากรรมขั้นต่ำอยู่ที่ $VALUE|0Y$ เนื่องจาก:"
  POP_BASE_CRIME:0 "พื้นฐานอาชญากรรม: $VALUE|2Y$"
  POP_BASE_DEVIANCY: "ความเบี่ยงเบนพื้นฐาน: $VALUE|2Y$"
  POP_CRIME_SCALE:0 "คูณด้วย §Yx$SCALE|2$§! เนื่องจากความสุข $HAPPINESS|Y%$"

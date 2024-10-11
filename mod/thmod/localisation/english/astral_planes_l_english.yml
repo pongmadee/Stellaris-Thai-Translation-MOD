@@ -380,7 +380,7 @@
  civic_dimensional_worship: "บูชามิติ"
  civic_dimensional_worship_desc: "This society believes that a divine existence lies beyond the folds in space and time. Systems where instabilities are highest hold a sacred meaning to them as sites of both pilgrimage and research."
  civic_dimensional_worship_effects: "สามารถสร้าง §Y$sm_dimensional_shrine$§! บนฐานอวกาศที่ตั้งอยู่ภายในระบบดาวที่มี §Y$WORMHOLE$§!, §Y$pc_rift_star$§!, §Y$ASTRAL_RIFT$§!, §Y$LGATE_GALACTIC$§! หรือ §Y$SHROUD_TUNNEL_GALACTIC$§!\nแต่ละ §Y$sm_dimensional_shrine$§! ให้ £unity£ §G+$@dimensional_shrine_unity_production$§!"
- civic_dimensional_worship_effects_additional: "- Chance for [ 'concept_astral_rift', $ASTRAL_RIFTS$ ] to appear in systems you control: §G+100%§!$NEW_LINE$- §MRare technologies§! now appear at §Y1.1§! times the normal rate. This effect would change a §Y1%§! chance into a §Y1.1%§! chance."
+ civic_dimensional_worship_effects_additional: "- โอกาสที่[ 'concept_astral_rift', $ASTRAL_RIFTS$ ]จะปรากฏในระบบดาวที่คุณควบคุม: §G+100%§!$NEW_LINE$- §Mเทคโนโลยีหายาก§! โอกาส §Y1.1§! เท่าจากปกติ เอฟเฟกต์นี้จะเปลี่ยนโอกาสจาก §Y1%§! เป็น §Y1.1%§!"
  civic_corporate_dimensional_worship: "บริษัทองค์กรมิติ"
  civic_corporate_dimensional_worship_desc: "$civic_dimensional_worship_desc$"
  civic_corporate_dimensional_worship_effects: "$civic_dimensional_worship_effects$"
