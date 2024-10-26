@@ -347,7 +347,7 @@
  tr_discovery_science_division_machine:0 "การเพิ่มประสิทธิภาพเส้นทางการวิจัย"
  tr_discovery_science_division_machine_desc:0 "$tr_discovery_science_division_desc$"
  tr_discovery_science_division_machine_delayed:0 "Outmoded and inefficient speculative research code has been refactored or entirely rewritten. The result is greater flexibility in our choice of which avenues of development to pursue."
- tr_discovery_science_division_hive:0 "เชื่อมต่อจิตใจ"
+ tr_discovery_science_division_hive:0 "เชื่อมจิต"
  tr_discovery_science_division_hive_desc:0 "$tr_discovery_science_division_desc$"
  tr_discovery_science_division_hive_delayed:0 "Even though it usually drives them mad, briefly immersing prominent minds of the others in our consciousness sometimes introduces useful outside ideas for us to explore further."
  tr_discovery_polytechnic_education:0 "การศึกษาสารพัดช่าง"
