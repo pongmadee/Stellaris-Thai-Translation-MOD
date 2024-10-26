@@ -999,14 +999,16 @@ guiTypes = {
 
 			containerWindowType = {
 				name = "effects_window"
-				position = { x=15 y=353 }
-				size = { width = 544 height = 160 }
+				position = { x=6 y=347 }
+				size = { width = 538 height = 165 }
 				verticalScrollbar = "right_vertical_slider"
 
 				background = {
 					name = "background"
-					quadTextureSprite = "gfx_transparency"
-					alwaystransparent = yes
+					#quadTextureSprite = "gfx_transparency"
+					#alwaystransparent = yes
+					position = { x = 0 y = 0 }
+					spriteType = "GFX_tiles_dark_area_cut_8"
 				}
 
 				gridBoxType = {
