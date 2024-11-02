@@ -1,38 +1,38 @@
 guiTypes = {
 	containerWindowType = {
 		name = "technology_view_window"
-		size = { width=480 height=682 } 
-		
+		size = { width=480 height=682 }
+
 		show_position = { x = 30 y = 35 }
         hide_position = { x = -1070 y = 35 }
         animation_time = 200
         animation_type = decelerated
 	#	fade_time = 750
     #   fade_type = smoothstep
-		
+
 		orientation = upper_left
 		moveable = no
 		clipping = no
-		
+
 		containerWindowType = {
 			name = "black_background_box_01"
 			size = { width = 480 height = 640 }
 			position = { x = 5 y = 5 }
-			
+
 			background = {
 				name = "black"
 				spriteType = "GFX_tile_outliner_bg"
 				#alwaysTransparent = yes
 			}
 		}
-		
+
 		iconType = {
 			name = "hex_bg"
 			spriteType = "GFX_hex_bg"
 			position = { x = 5 y = -12 }
 			alwaysTransparent = yes
 		}
-		
+
 		iconType = {
 			name = "empire_header_line"
 			quadTextureSprite = "GFX_line"
@@ -61,7 +61,7 @@ guiTypes = {
 		}
 
 		### Head of Research Slot ###
-		
+
 		containerWindowType = {
 			name = "research_container"
 			position = { x = 20 y = 42 }
@@ -75,7 +75,7 @@ guiTypes = {
 			size = { width = 480 height = 800 }
 			position = { x = 0 y = 165 }
 			clipping = no
-			
+
 			gridBoxType = {
 				name = "grid"
 				slotSize = { width = 480 height = 160 }
@@ -113,12 +113,12 @@ guiTypes = {
 			position = { x = 489 y = 14 }
 			orientation = upper_left
 			moveable = no
-			
+
 			containerWindowType = {
 				name = "reserached_tech_bg_box"
 				size = { width = 490 height = 631 }
 				position = { x = 0 y = 0 }
-				
+
 				background = {
 					name = "reserached_tech_bg"
 					spriteType = "GFX_tile_outliner_bg"
@@ -134,7 +134,7 @@ guiTypes = {
 				clicksound = "back_click"
 				pdx_tooltip = "CLOSE_TITLE"
 			}
-			
+
 			iconType = {
 				name = "hex_bg"
 				spriteType = "GFX_hex_bg"
@@ -148,7 +148,7 @@ guiTypes = {
 				position = { x = 6 y = 22 }
 				alwaysTransparent = yes
 			}
-		
+
 
 			instantTextBoxType={
 				name = "header"
@@ -205,12 +205,12 @@ guiTypes = {
 			position = { x = 489 y = 14 }
 			orientation = upper_left
 			moveable = no
-	
+
 			containerWindowType = {
 				name = "reserached_tech_bg_box"
 				size = { width = 490 height = 591 }
 				position = { x = 0 y = 0 }
-				
+
 				background = {
 					name = "reserached_tech_bg"
 					spriteType = "GFX_tile_outliner_bg"
@@ -233,20 +233,20 @@ guiTypes = {
 				position = { x = -10 y = -12 }
 				alwaysTransparent = yes
 			}
-			
+
 			containerWindowType = {
 				name = "black_background_box_01"
 				size = { width = 400 height = 90 }
 				position = { x = 0 y = 0 }
 				clipping = yes
-				
+
 				iconType = {
 					name = "header_line"
 					spriteType = "GFX_line_long"
 					position = { x = 6 y = 21 }
 				}
 			}
-				
+
 			instantTextBoxType={
 				name = "header"
 				font = "malgun_goth_24"
@@ -256,7 +256,7 @@ guiTypes = {
 				maxHeight = 20
 				fixedSize = yes
 				format = left
-			}			
+			}
 
 			smoothListBoxType = {
 				name = "list"
@@ -269,8 +269,8 @@ guiTypes = {
 				spacing = 15
 			}
 
-			@tabheight = -21 
-			
+			@tabheight = -21
+
 			buttonType = {
 				name = "tab_physics"
 				quadTextureSprite = "GFX_tab_1_inactive"
@@ -282,7 +282,7 @@ guiTypes = {
 				clicksound = "tab_click"
 				Orientation = "LOWER_LEFT"
 			}
-			
+
 			buttonType = {
 				name = "tab_physics_active"
 				quadTextureSprite = "GFX_tab_1_active"
@@ -306,7 +306,7 @@ guiTypes = {
 				clicksound = "tab_click"
 				Orientation = "LOWER_LEFT"
 			}
-			
+
 			buttonType = {
 				name = "tab_society_active"
 				quadTextureSprite = "GFX_tab_2_active"
@@ -330,7 +330,7 @@ guiTypes = {
 				clicksound = "tab_click"
 				Orientation = "LOWER_LEFT"
 			}
-			
+
 			buttonType = {
 				name = "tab_engineering_active"
 				quadTextureSprite = "GFX_tab_2_active"
@@ -341,8 +341,8 @@ guiTypes = {
 				clicksound = "tab_click"
 				shortcut = "c"
 				Orientation = "LOWER_LEFT"
-			}								
-		}												
+			}
+		}
 	}
 
 	containerWindowType = {
@@ -352,7 +352,7 @@ guiTypes = {
 		orientation = upper_left
 		moveable = no
 		clipping = yes
-		
+
 		background = {
 			name = "bg"
 			spriteType = "GFX_tiles_dark_area_cut_8"
@@ -379,8 +379,8 @@ guiTypes = {
 			maxHeight = 20
 			fixedSize = yes
 			format = left
-		}		
-		
+		}
+
 		iconType = {
 			name = "modifier_icon"
 			quadTextureSprite = "GFX_modifier_unknown"
@@ -398,13 +398,13 @@ guiTypes = {
 			format = left
 			text_color_code = "G"
 		}
-			
+
 		iconType = {
 			name = "bottom_line"
 			position = { x = 9 y = 212 }
 			spriteType = "GFX_bottom_line_physics"
 			alwaysTransparent = yes
-		}		
+		}
 
 		containerWindowType = {
 			name = "choose"
@@ -430,7 +430,7 @@ guiTypes = {
 				fixedSize = yes
 				format = center
 				alwaysTransparent = yes
-			}			
+			}
 		}
 
 		containerWindowType = {
@@ -438,7 +438,7 @@ guiTypes = {
 			size = { width = 100% height = 100% }
 			position = { x = 0 y = 0 }
 			clipping = yes
-			
+
 			iconType = {
 				name ="tech_option_bg"
 				spriteType = "GFX_tech_entry_physics_bg"
@@ -452,10 +452,10 @@ guiTypes = {
 
 				background = {
 					name = "background"
-					spriteType = "GFX_tiles_dark_area_cut_8"
+					spriteType = "GFX_nullobject"
 				}
 			}
-			
+
 			iconType = {
 				name = "icon"
 				spriteType = "GFX_technology_unknown"
@@ -463,19 +463,19 @@ guiTypes = {
 				orientation = "UPPER_LEFT"
 				alwaystransparent = yes
 			}
-			
+
 			containerWindowType = {
 				name = "icon_frame_box"
 				size = { width = 54 height = 54 }
 				position = { x = 3 y = 51 }
-				
+
 				background = {
 					name = "icon_frame"
 					spriteType = "GFX_plain_green_frame_tile"
 					alwaystransparent = no
 				}
 			}
-			
+
 			iconType = {
 				name ="category_icon"
 				spriteType = "GFX_traits"
@@ -549,10 +549,10 @@ guiTypes = {
 				size = { x = 380 y = 66 }
 				orientation = "UPPER_LEFT"
 				borderSize = { x=0 y=0 }
-				spacing = 1	
+				spacing = 1
 				alwaystransparent = no
 				scrollbarType = "standardtext_slider_small"
-			}				
+			}
 
 			iconType = {
 				name = "risk_icon"
@@ -568,7 +568,7 @@ guiTypes = {
 				orientation = "LOWER_RIGHT"
 				scale = 1.0
 				clicksound = back_click
-			}			
+			}
 		}
 
 		buttonType = {
@@ -579,7 +579,7 @@ guiTypes = {
 			scale = 1
 			oversound = "no_sound"
 			clicksound = "select_click"
-		}						
+		}
 	}
 
 	positionType = {
@@ -608,7 +608,7 @@ guiTypes = {
 			position = { x= 0 y= 0  }
 			clicksound = "research_click_01"
 		}
-		
+
 		iconType = {
 			name = "tech_option_bg"
 			spriteType = "GFX_tech_entry_physics_bg"
@@ -626,28 +626,28 @@ guiTypes = {
 		iconType = {
 			name = "icon"
 			spriteType = "GFX_technology_unknown"
-			position = { x = 17 y = 41 }
+			position = { x = 15 y = 33 }
 			alwaystransparent = yes
 		}
 
 		containerWindowType = {
 			name = "icon_frame_box"
 			size = { width = 54 height = 54 }
-			position = { x = 16 y = 40 }
-			
+			position = { x = 15 y = 32 }
+
 			background = {
 				name = "icon_frame"
 				spriteType = "GFX_plain_green_frame_tile"
 				alwaystransparent = yes
 			}
 		}
-		
+
 		iconType = {
 			name ="category_icon"
 			spriteType = "GFX_traits"
 			position = { x= 424 y = 40 }
 		}
-		
+
 		iconType = {
 			name ="gateway_icon"
 			spriteType = "GFX_tech_gateway"
@@ -686,14 +686,14 @@ guiTypes = {
 			spacing = 0
 			alwaystransparent = yes
 			scrollbarType = "standardtext_slider_small"
-		}		
+		}
 
 		iconType = {
 			name = "risk_icon"
 			spriteType = "GFX_failure_risk_icon"
 			position = { x = -32 y = -32 }
 			orientation = "LOWER_RIGHT"
-		}									
+		}
 	}
 
 	containerWindowType = {
@@ -704,13 +704,13 @@ guiTypes = {
 		moveable = no
 		clipping = no
 
-		
+
 		iconType = {
 			name = "tech_option_bg"
 			spriteType = "GFX_tech_entry_physics_bg"
 			position = { x = 4 y = 5 }
 			orientation = upper_left
-		}	
+		}
 
 		iconType = { #technology art
 			name = "icon"
@@ -718,12 +718,12 @@ guiTypes = {
 			position = { x = 8 y = 33 }
 			orientation = "UPPER_LEFT"
 		}
-		
+
 		containerWindowType = { #technology art frame
 			name = "icon_frame_box22"
 			size = { width = 54 height = 54 }
 			position = { x = 7 y = 32 }
-			
+
 				background = {
 					name = "icon_frame22"
 					spriteType = "GFX_plain_green_frame_tile"
@@ -766,7 +766,7 @@ guiTypes = {
 			spriteType = "GFX_failure_risk_icon"
 			position = { x = -32 y = -32 }
 			orientation = "LOWER_RIGHT"
-		}		
+		}
 
 		smoothListBoxType = {
 			name = "unlocks"
@@ -777,7 +777,7 @@ guiTypes = {
 			spacing = 0
 			alwaystransparent = no
 			scrollbarType = "standardtext_slider_small"
-		}													
+		}
 	}
 
 	containerWindowType = {
@@ -795,7 +795,7 @@ guiTypes = {
 			maxHeight = 150
 			format = left
 			fixedsize = no
-		}						
+		}
 	}
 
 	containerWindowType = {
@@ -819,7 +819,7 @@ guiTypes = {
 			position = { x = 3 y = 16 }
 			size = { x = 350 y = 30 }
 			spacing = 1
-		}						
+		}
 	}
 
 	containerWindowType = {
@@ -844,7 +844,12 @@ guiTypes = {
 			position = { x = 10 y = 0 }
 			size = { x = 350 y = 20 }
 			spacing = 8
-		}						
+		}
+	}
+
+	positionType = {
+		name = "mutation_unlock_additional_spacing"
+		position = { x = 0 y = 5 }
 	}
 
 	containerWindowType = {
@@ -875,8 +880,8 @@ guiTypes = {
 			position = { x = 3 y = 14 }
 			size = { x = 350 y = 20 }
 			spacing = 8
-		}						
-	}	
+		}
+	}
 
 	containerWindowType = {
 		name = "technology_view_deposit_blocker"
@@ -888,7 +893,7 @@ guiTypes = {
 			spriteType = "GFX_planet_background_frame_blocker"
 			position = { x = 3 y = 5 }
 			scale = 0.4
-		}				
+		}
 	}
 
 	containerWindowType = {
@@ -900,7 +905,7 @@ guiTypes = {
 			name = "icon"
 			spriteType = "GFX_resource"
 			position = { x = 0 y = 0 }
-		}				
+		}
 	}
 
 	containerWindowType = {
@@ -912,13 +917,13 @@ guiTypes = {
 			name = "icon"
 			spriteType = "GFX_component_slot_icons"
 			position = { x = 0 y = 0 }
-		}				
+		}
 	}
 
 	containerWindowType = {
 		name = "technology_researched_dialog_window"
 		size = { width=564 height=330 }
-		position = { x = 0 y = 0 }     
+		position = { x = 0 y = 0 }
 		orientation = center
 		origo = center
 		moveable = yes
@@ -929,21 +934,21 @@ guiTypes = {
 		background = {
 			name = "background"
 			quadTextureSprite = "GFX_tile_outliner_bg"
-		}	
-		
+		}
+
 		iconType = {
 			name = "hex_bg"
 			spriteType = "GFX_hex_bg"
 			position = { x = -10 y = -16 }
 			alwaysTransparent = yes
 		}
-		
+
 		iconType = {
 			name = "empire_header_line"
 			quadTextureSprite = "GFX_line_long"
 			position = { x = 6 y = 21 }
 			alwaysTransparent = yes
-		}	
+		}
 
 		buttonType = {
 			name = "close"
@@ -970,21 +975,21 @@ guiTypes = {
 			name = "bg_frame_box"
 			size = { width = 490 height = 200 }
 			position = { x = 37 y = 60 }
-			
+
 				background = {
 					name = "bg_frame"
 					spriteType = "GFX_clean_frame_area"
 					alwaystransparent = yes
 				}
 		}
-		
+
 		iconType = {
 			name = "tech_option_bg"
 			spriteType = "GFX_tech_entry_physics_bg"
 			position = { x = 57 y = 79 }
 			orientation = upper_left
 			alwaystransparent = yes
-		}		
+		}
 
 		iconType = {
 			name = "icon"
@@ -998,14 +1003,14 @@ guiTypes = {
 			name = "icon_frame_box"
 			size = { width = 54 height = 54 }
 			position = { x = 60 y = 106 }
-			
+
 				background = {
 					name = "icon_frame"
 					spriteType = "GFX_plain_green_frame_tile"
 					alwaystransparent = yes
 				}
 		}
-		
+
 		iconType = {
 			name ="category_icon"
 			spriteType = "GFX_traits"
@@ -1080,6 +1085,6 @@ guiTypes = {
 			text = "TECH_NEW_RESEARCH"
 			buttonFont = "cg_16b"
 			Orientation = "LOWER_RIGHT"
-		}			
-	}		
+		}
+	}
 }

@@ -1,4 +1,5 @@
 ﻿l_english:
+ TOXOIDS_TITLE: "Toxoids Species Pack"
  origin_toxic_knights:0 "อัศวินของเทพทรพิษ"
  origin_toxic_knights_desc:2 "เมื่อหลายทศวรรศก่อน มีเอนทิตี้ เคยมาเยือนและสร้างมหันตภัยที่ทำลายโลกไปครึ่งหนึ่ง เหลือไว้อีกครึ่งให้กับเหล่าพลเมืองที่บูชาเอนทิตี้นี้เป็นเทพทรพิษของพวกเขา ภาคีอัศวินได้ถูกก่อตั้งขึ้นเพื่อออกตามหาเทพของพวกเขาในอวกาศอันกว้างใหญ่นี้"
  origin_toxic_knights_effects:3 "- ดาวบ้านเกิด: $TABBED_NEW_LINE$- ['concept_toxic_features'] $TABBED_NEW_LINE$- ['concept_pc_habitat', ที่อยู่อาศัยวงโคจรดาว] ที่มีลักษณะเฉพาะ: $TABBED_NEW_LINE$$t$- ['concept_order_keep', £building£ $building_order_keep$] $TABBED_NEW_LINE$$t$- ['concept_orders_demesne', £district£ $district_orders_demesne$] $TABBED_NEW_LINE$$t$- งาน ['concept_politician', £job_politician£ $job_politician$] ถูกแทนที่ด้วย ['concept_order_jobs'] $NEW_LINE$- สถานการณ์: ['concept_knights_quest'] $NEW_LINE$- นโยบาย: §IKnightly Duties§! $NEW_LINE$- $AVAILABLE_HOLDINGS$ ['concept_knight_commandery', £building£ Order's Commanderies] ในอาณานิคมของเมืองขึ้น"

@@ -1,4 +1,5 @@
 ﻿l_english:
+ ASTRAL_PLANES_TITLE: "Astral Planes"
  ASTRAL_ACTIONS: "Astral Actions"
  ASTRAL_ACTIONS_TAB_DISABLED: "Available with £physics£ §Y$tech_astral_harvesting$§! technology."
  ASTRAL_ACTION_REMAINING_USAGES: "($LEFT|0$/$TOTAL|0$)"

@@ -1,4 +1,5 @@
 ﻿l_english:
+ APOCALYPSE_TITLE: "Apocalypse"
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_CRACKER:0 "Preparing to crack $PLANET|Y$"
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_SHIELDER:0 "Preparing to shield $PLANET|Y$"
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_NUKE:0 "Preparing to nuke $PLANET|Y$"
@@ -251,8 +252,10 @@
  NAVY_SIZE_STARBASES_TITLE:0 "From Starbases"
  TECH_UNLOCK_STARBASE_MODULE:0 "§Hปลดล็อกโมดูลสถานีอวกาศ:§! $NAME$"
  TECH_UNLOCK_ORBITAL_MODULE: "§Hปลดล็อกโมดูลบนสถานีอวกาศวงแหวนโคจร:§! $NAME$"
+ TECH_UNLOCK_STARBASE_MODULE_CONCEPT: "$t$- §Yปลดล็อกโมดูลสถานีอวกาศ:§! $NAME$"
  TECH_UNLOCK_STARBASE_BUILDING:0 "§Hปลดล็อกสิ่งปลูกสร้างบนสถานีอวกาศ:§! $NAME$"
  TECH_UNLOCK_ORBITAL_BUILDING: "§Hปลดล็อกสิ่งปลูกสร้างบนสถานีอวกาศวงแหวนโคจร:§! $NAME$"
+ TECH_UNLOCK_STARBASE_BUILDING_CONCEPT: "$t$- §Yปลดล็อกสิ่งปลูกสร้างบนสถานีอวกาศ:§! $NAME$"
  tech_ftl_inhibitor:0 "การยับยั้งการเคลื่อนที่ที่เร็วกว่าแสง"
  tech_ftl_inhibitor_desc:1 "Gravity well projectors can be used to create localized pockets of space where safe entry into hyperspace is impossible. The immense power requirements and the size of the projectors prohibits their use on anything smaller than a starbase."
  ION_CANNON_CORE:0 "แกนกลางปืนใหญ่ไอออน"
