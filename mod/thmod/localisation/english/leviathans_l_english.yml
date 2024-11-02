@@ -1,4 +1,5 @@
 ﻿l_english:
+ LEVIATHANS_TITLE: "Leviathans Story Pack"
  station_xs:0 "Ancient Sentinel"
  station_xs_plural:0 "เซนติเนลโบราณ"
  station_s:0 "Ancient Defender"
@@ -335,6 +336,11 @@
  leviathans.500.h:1 "คุณช่วยบอกเราเกี่ยวกับ §Yลูกค้าคนอื่นๆของคุณ§!?"
  leviathans.500.i:0 "คุณรู้อะไรเกี่ยวกับ §Y$lgates$§!?"
  leviathans.500.i.tooltip.noclue:2 "It takes the [curator_enclave_country.GetName] approximately a decade to identify each new §Y$clue$§!."
+ leviathans.500.j: "Can you help us populate our §YVivarium§!?"
+ leviathans.500.j.opinion: "Requires the §YCurators§! to have:\n£opinion£ Opinion +80"
+ leviathans.500.k: "Can you assist us with our §YCollection§!?"
+ leviathans.500.k.reply.reward_unavailable: "We apologize, but we have nothing to offer you at this time. Try collecting and displaying more $specimens$. Perhaps we can then share our expertise."
+ leviathans.500.k.reply.over: "We apologize, but we have nothing left to offer you! Your collection is truly magnificent. We are honored to have you as a partner in our galaxy.\n\nYou are an asset to the preservation of knowledge."
  leviathans.504a.desc:0 "Our order thanks you, esteemed customer."
  leviathans.504b.desc:0 "Thank you, [root.GetSpeciesAdj]. Clarity and curiosity be with you."
  leviathans.504c.desc:0 "A pleasure doing business with you. How else might our keen insights and inestimable records be of service to you?"

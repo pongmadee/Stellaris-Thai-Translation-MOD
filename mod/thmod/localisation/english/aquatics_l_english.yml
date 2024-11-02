@@ -1,4 +1,5 @@
 ﻿l_english:
+ AQUATICS_TITLE: "Aquatics Species Pack"
  vo_aquatics_voice:0 "น้ำ"
  trait_aquatic:0 "อยู่ใต้น้ำ"
  trait_aquatic_desc:1 "§LThis species is perfectly adapted to living in the depths of the ocean. However, on dry land, it is like a fish out of water.§!\n\n§Rต้องมี§! §Yดาวมหาสมุทร§! §Rเป็นดาวบ้านเกิด§!"

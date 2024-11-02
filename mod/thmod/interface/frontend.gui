@@ -214,8 +214,7 @@ guiTypes = {
 		}
 
 		containerWindowType = {
-			name ="menu"
-			position = { x = 0 y = 0 }
+			name = "menu"
 			size = { width = 100% height = 100% }
 
 			instantTextBoxType = {
@@ -563,55 +562,6 @@ guiTypes = {
 			}
 		}
 
-		### load save
-		containerWindowType = {
-			name = "load_save"
-			position = { x = 0 y = 0 }
-			size = { width = 1024 height = 720 }
-			orientation = center
-			origo = center
-
-			instantTextBoxType = {
-				name = "title"
-				position = { x = 180 y = 40 }
-				textureFile = ""
-				font = "cg_16b"
-				borderSize = { x = 4 y = 4 }
-				text = "FRONT_SAVE_GAMES"
-				Orientation = "UPPER_LEFT"
-				format = left
-				maxWidth = 200
-				maxHeight = 100
-			}
-			buttonType = {
-				name = "launch"
-				quadTextureSprite = "GFX_button"
-				position = { x = -200 y = -200 }
-				Orientation = "LOWER_RIGHT"
-				buttonText = "FRONT_LAUNCH"
-				buttonFont = "cg_16b"
-			}
-
-			buttonType = {
-				name = "back"
-				quadTextureSprite = "GFX_button"
-				position = { x = -400 y = -200 }
-				Orientation = "LOWER_RIGHT"
-				buttonText = "FRONT_BACK"
-				buttonFont = "cg_16b"
-			}
-
-			listboxType = {
-				name = "list"
-				position = { x = 100 y = 80 }
-				size = { x = 220 y = 260}
-				horizontal = 0
-				scrollbartype = "standardlistbox_slider"
-				borderSize = { x = 20 y = 20 }
-				Orientation = "UPPER_LEFT"
-			}
-		}
-
 		### Additional content browser "What's new"
 		containerWindowType = {
 			name = "additional_content_whats_new"
@@ -622,7 +572,6 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "title"
-				position = { x = 0 y = 0 }
 				maxWidth = 250
 				format = right
 				font = "large_title_font"
@@ -648,44 +597,43 @@ guiTypes = {
 		}
 
 		buttonType = {
-			name ="portrait_empty_room"
+			name = "portrait_empty_room"
 			spriteType = "GFX_portrait_gamesetup_mask_empty_room"
 			Orientation = "CENTER"
-			position = { x= -950 y= -700 }
+			position = { x = -950 y = -700 }
 		}
-		
+
 		buttonType = {
-			name ="character_without_room"
+			name = "character_without_room"
 			spriteType = "GFX_portrait_gamesetup_mask_character_without_room"
 			Orientation = "CENTER"
-			position = { x= 50 y= -700 }
+			position = { x = 50 y = -700 }
 		}
 
 		buttonType = {
 			name = "portrait_planet"
 			spriteType = "GFX_portrait_planet_character"
 			Orientation = "CENTER"
-			position = { x= -100 y= -320 }
+			position = { x = -100 y = -320 }
 		}
 
 		buttonType = {
-			name ="portrait_character"
+			name = "portrait_character"
 			spriteType = "GFX_portrait_character"
 			Orientation = "CENTER"
-			position = { x= -500 y= -350 }
+			position = { x = -500 y = -350 }
 		}
 
 		buttonType = {
-			name ="portrait_character_large"
+			name = "portrait_character_large"
 			spriteType = "GFX_portrait_character_large"
 			Orientation = "CENTER"
-			position = { x= -500 y= -350 }
+			position = { x = -500 y = -350 }
 		}
 
 		containerWindowType = {
 			name = "blocker"
-			position = { x= 0 y= 0 }
-			size = { width = 100% height = 100%}
+			size = { width = 100% height = 100% }
 
 			background = {
 				name = "hitbox"
@@ -696,18 +644,13 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "save_item"
-		position = { x=0 y=0 }
-		size = { width=64 height=48 }
+		size = { width = 64 height = 48 }
 
-		buttonType =
-		{
+		buttonType = {
 			name = "button"
 			quadTextureSprite = "GFX_button"
-			position = { x= 0 y = 0  }
 			Orientation = "UPPER_LEFT"
-			buttonText = ""
 			buttonFont = "cg_16b"
 		}
-
 	}
 }

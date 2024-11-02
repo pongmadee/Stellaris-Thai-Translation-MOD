@@ -1,4 +1,5 @@
 ﻿l_english:
+ UTOPIA_TITLE: "Utopia"
  MEGASTRUCTURE_MODIFIERS:0 "การปรับเปลี่ยนของสิ่งก่อสร้างขนาดมหึมา"
  BUILD_MEGASTRUCTURE_WITHIN_INNER_CIRCLE:0 "§RCannot build this Megastructure within a system's gravity well§!"
  BUILD_MEGASTRUCTURE_CANT_BUILD_ON_PLANET:0 "§RCannot build this Megastructure on a planet§!"

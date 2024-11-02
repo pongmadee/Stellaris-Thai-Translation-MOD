@@ -1,4 +1,5 @@
 ﻿l_english:
+ NEMESIS_TITLE: "Nemesis"
  CRISIS_TITLE_TXT:1 "เลเวลไครซิส:"
  CRISIS_EFFECTS:1 "สรุป"
  CRISIS_SPECIAL_PROJECTS_TUTORIAL:1 "§HResearching Special Projects like this one will progress us further along the path of §PGalactic Nemesis§!.§!"
@@ -531,7 +532,7 @@
  operation.5036.name:1 "Successful Cover-Up"
  operation.5036.desc:0 "Though it has greatly taxed the resources of $role_spymaster$ [fromfrom.spynetwork.leader.GetName]'s work in the §H[snuffedout_country.GetName]§!, operational security has been reasserted. All loose ends have been covered; all cover identities discarded. A new team of operatives will take over from here, enacting a subtly different set of orders under our $role_spymaster$'s watchful gaze.\n\nThe [snuffedout_country.GetAdj], meanwhile, still seem oblivious to our presence."
  operation.5037.name:1 "Operation Exposed"
- operation.5037.desc:1 "Our worst fears have come to pass: the recent loss of our operatives in the §H[snuffedout_country.GetName]§! has exposed large parts of §HOperation [from.GetName]§!.\n\nAll our Spy Networks are carefully arranged so that under normal circumstances, only very flimsy evidence could ever implicate us in the covert activities we carry out. However, in this instance we cannot be entirely sure what Intel may have been given away; nor can we know how the [snuffedout_country.GetAdj] might choose to respond."
+ operation.5037.desc:1 "Our worst fears have come to pass: the recent loss of our operatives in the §H[snuffedout_country.GetName]§! has exposed large parts of §HOperation [fromfrom.GetName]§!.\n\nAll our Spy Networks are carefully arranged so that under normal circumstances, only very flimsy evidence could ever implicate us in the covert activities we carry out. However, in this instance we cannot be entirely sure what Intel may have been given away; nor can we know how the [snuffedout_country.GetAdj] might choose to respond."
  operation.5037.desc.provocation:1 "The recent loss of our operatives in the §H[snuffedout_country.GetName]§! has had some dire consequences: our entire operation has been exposed.\n\nOur Spy Networks are carefully managed so that under normal circumstances, they afford us some level of deniability. However, on this occasion our actions were serious enough that the [snuffedout_country.GetAdj] are unlikely to ignore even circumstantial evidence which may lead back to us. We do not know precisely how they will respond, but we should prepare for the worst."
  operation.5040.name:0 "Drain on Resources"
  operation.5040.desc:0 "$role_spymaster$ [from.spynetwork.leader.GetName] recently launched a quiet investigation into [from.spynetwork.leader.GetHisHer] own operatives in the §Y[from.target.GetName]§!, after noticing a recent drop in their performance.\n\n[from.spynetwork.leader.GetHeSheCap] [from.spynetwork.leader.GetHasHave] discovered these operatives skimming from resources allocated to intelligence-gathering and bribes. These goods and currencies are being re-invested elsewhere in [from.target.GetAdj] business concerns, earning the operatives a comfortable profit at our expense. As a result, their attention and loyalties have clearly become divided.\n\nProgress on §HOperation [from.GetName]§! has been put on hold for the moment, until $role_spymaster$ [from.spynetwork.leader.GetName] can re-assert operational efficiency."
@@ -723,6 +724,7 @@
  sabotaged_feeder: "$sm_feeder$ Sabotaged"
  sabotaged_astromining_bay: "$sm_astromining_bay$ Sabotaged"
  sabotaged_astromining_hub: "$sm_astromining_hub$ Sabotaged"
+ sabotaged_vivarium_tank: "$sm_vivarium_tank$ Sabotaged"
  sabotaged_warp_fluctuator:0 "$sm_warp_fluctuator$ Sabotaged"
  sabotaged_orbital_ring_anchorage:0 "ก่อวินาศกรรม $sm_orbital_ring_anchorage$"
  sabotaged_orbital_ring_gun_battery:0 "ก่อวินาศกรรม $sm_orbital_ring_gun_battery$"

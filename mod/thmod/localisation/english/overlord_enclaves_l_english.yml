@@ -35,6 +35,7 @@
  enclave.2.tooltip.e:1 "ระบบต้องมีดาวเคราะห์น้อยหรือดวงจันทร์(ดาวบริวาร)"
  enclave.2.tooltip.ee:1 "ระบบมีดาวเคราะห์น้อยหรือดวงจันทร์(ดาวบริวาร)"
  enclave.2.tooltip.f:0 "เราต้องเป็นเจ้าของกองยานนี้"
+ enclave.2.tooltip.g: "Space Fauna Ships cannot be used as Mercenaries"
  enclave.2.a.tooltip:0 "A Mercenary Enclave is founded."
  enclave.25:0 "Mercenary Enclave Destroyed"
  enclave.25.desc:1 "Our fleet has overcome the defenses of the mercenaries in [merc_system.GetName], and their station has been blown to pieces. The rest of the [FROM.GetName] collapsed quickly after, and their remaining fleets have disbanded. While some of the surviving captains may turn to piracy, others have announced their plans to honor smaller contracts, offering logistical support or space station garrisoning. But such trifling affairs are of little consequence. The important fact is that the Mercenary Enclave is no more, and from its wreckage we have been able to salvage a sizable amount of resources."

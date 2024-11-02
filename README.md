@@ -6,7 +6,7 @@
 
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 3.13.x "Vela" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 3.14.x "Circinus" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
  :heavy_check_mark: รองรับโหมดช่วยกันเล่น (Co-op) <br/>
@@ -27,6 +27,8 @@
 *  Leviathans
 *  Ancient Relics
 
+### Mechanical DLC ที่รองรับ
+*  Cosmic Storms
 
 ### FEATURES - คุณลักษณะเด่น
 #### แผนผังเทคโนโลยี (Stellaris Tech Tree) เอาไว้ดูเป็นแนวในการวิจัยเทคโนโลยี ช่องทางมีดังนี้
