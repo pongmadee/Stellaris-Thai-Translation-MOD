@@ -1088,7 +1088,7 @@
  count_active_first_contact_all_trigger:0 "$IS_ALL_NOT$ Active First Contact Sites fulfill the following conditions"
  effect_random_system_planet:0 "Random Planet in System"
  effect_every_system_planet:0 "Every Planet in System"
- any_system_planet_trigger:0 "Any Planet in System"
+ any_system_planet_trigger:0 "มีดาวเคราะห์ในระบบ"
  count_system_planet_trigger:0 "Number of Planets in System$CONDITIONS$ $IS_NOT$ $COMPARATOR$ $NUM|Y$"
  count_system_planet_all_trigger:0 "$IS_ALL_NOT$ Planets in System fulfill the following conditions"
  effect_random_system_colony:0 "Random Colony in System"
