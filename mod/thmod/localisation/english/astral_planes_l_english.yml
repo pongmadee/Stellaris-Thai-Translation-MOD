@@ -690,7 +690,7 @@
  preset_luminarium_flavor_desc: "$preset_luminarium_desc$"
  modifiers_eternal_throne: "$preset_luminarium$"
  eternal_throne_conditions: "$MODIFIER$"
- not_allowed_for_luminarium: "$TRIGGER_FAIL$Not allowed for §Y$preset_luminarium$§! preset."
+ not_allowed_for_luminarium: "$TRIGGER_FAIL$ไม่อนุญาตให้ใช้กับการตั้งค่า preset สำหรับ §Y$preset_luminarium$§!"
  AUTOMATION_ASTRAL_RIFTS_ENABLED: "$AUTOMATION_ASTRAL_RIFTS$ £trigger_yes£"
  AUTOMATION_ASTRAL_RIFTS: "สำรวจรอยแยกมิติ"
  SKIN_DEF: "skin"

@@ -908,7 +908,7 @@
  paragon.5021.h:1 "The government must be stable."
  paragon.5022.name:0 "Addressing the Nation"
  paragon.5022.desc:1 "§HIt is time for §Y[Ruler.GetTitle] [Ruler.GetRegnalName]§! to address [Ruler.GetHerHis] loyal subjects. The state-owned media are broadcasting [Ruler.GetHerHis] speech.§!\n\nFellow [Owner.GetSpeciesNamePlural]! You have looked to me for guidance in our time of need, and I promise you that your trust will be well rewarded. The power bestowed upon me come with great responsibility, and I swear to faithfully serve this nation and you, my subjects. My first act as emperor is the establishment of a seat of learning where the best and brightest will be trained to build a future we can all be proud of. To the stars, and victory!"
- paragon.5022.a:1 "To the stars!"
+ paragon.5022.a:1 "สู่ดวงดาว!"
  paragon.5023.name:0 "Federated"
  paragon.5023.desc:2 "$paragon.beginning.speech$\n\n[Root.Owner.Ruler.GetName]'s message highlights what a glorious day this is! The founding of this Federation is truly a cause for celebration. [Root.Owner.Ruler.GetHeSheCap] speaks to bonds we forge with our allies, stating that cooperation with the [your_ally.GetName] will usher in a new age. A golden age of greatness and prosperity!\n\n$paragon.ending.speech$"
  paragon.5023.a:1 "Long live the Federation!"

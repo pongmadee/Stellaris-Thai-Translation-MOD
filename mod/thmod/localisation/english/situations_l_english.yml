@@ -114,7 +114,7 @@
  situation.55.name:0 "A Turbulent Departure"
  situation.55.desc:0 "Contrary to its warnings, the labyrinth's disappearance did not destroy [Target.GetName]. However, it certainly left its mark: earthquakes ravaged the land, and volcanoes, long-dormant, erupted into life.\n\nAmidst the widespread destruction, a message was left behind: "We thank you for so kindly allowing us to study the Beings of your Dimension. It has proven most useful to our... endeavors. We apologize for the inconvenience our departure causes - we were not able to secure necessary funding from the Ministry of Extradimensional Security for a smooth withdrawal. As a token of our goodwill, we leave you a minor space-time anomaly at the site of our laboratory. We hope it will prove... diverting.""
  situation.55.A:0 "Every cloud has its silver lining."
- d_space_time_anomaly:0 "Space-Time Anomaly"
+ d_space_time_anomaly:0 "ความผิดปกติในปริภูมิ-เวลา"
  d_space_time_anomaly_desc:0 "A remarkably stable space-time anomaly left behind by an extradimensional species which conducted research on the planet. The scientific implications of its existence are, apparently, quite profound."
  situation_living_snow:0 "Unusual Snow"
  situation_living_snow_type:0 "Unusual Snow"
