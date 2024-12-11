@@ -1,5 +1,10 @@
 ﻿l_english:
  OVERLORD_TITLE: "Overlord"
+ DLC_OVERLORD_RECOMMENDATION_DESC:0 "§SOverlord§! is a diplomacy focused expansion centered around the interactions between subjugated nations and their overlord."
+ DLC_OVERLORD_RECOMMENDATION_REC_MILITARIST:0 "We're recommending $OVERLORD_TITLE$ as it opens up new possibilities for war-focused empires through mercenary enclaves and enhanced interactions with subjects."
+ DLC_OVERLORD_RECOMMENDATION_REC_SPIRITUALIST:0 "We're recommending $OVERLORD_TITLE$ as it opens up a new origin for spiritualist empires as well as a new Shroud focused enclave to engage with."
+ DLC_OVERLORD_RECOMMENDATION_REC_DIPLOMACY:0 "We're recommending $OVERLORD_TITLE$ as it opens up new interactions between overlords and subjects which will be of interest to those with a play style focused on diplomacy."
+ DLC_OVERLORD_RECOMMENDATION_REC_HIVE:0 "We're recommending $OVERLORD_TITLE$ as it opens up a new Hive Mind specific origin in which special Offspring leaders can be used to strengthen your empire."
  origin_progenitor_hive:0 "ต้นกำเนิดของรัง"
  origin_progenitor_hive_desc:1 "This hive has gained evolutionary advantage through semi-independent leaders. These "Offspring" greatly improve overall proficiency, though they require constant oversight."
  START_SCREEN_PROGENITOR_HIVE:1 "In the beginning, the Progenitor was.\n\nLife on [Root.GetHomeWorldName] was harsh and competitive, yet still the mighty Progenitor expanded its territory. Running such a vast dominion soon grew untenable, so the Progenitor created the first Offspring. In time, it became apparent that the Offspring could not manage alone. In turn, they produced menial drones to assist in taming our home.\n\nAs we took our first tentative steps across the [capital_scope.System.GetName] system, our Progenitor sequestered itself into a specialized nest. Endowed with greater, streamlined control, we are now ready to spread our Progenitor's influence to all the stars of the galaxy - for the Progenitor was, is, and will be. The [Root.GetName] will see it so."

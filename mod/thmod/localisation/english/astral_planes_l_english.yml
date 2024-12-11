@@ -1,5 +1,8 @@
 ﻿l_english:
  ASTRAL_PLANES_TITLE: "Astral Planes"
+ DLC_ASTRAL_PLANES_RECOMMENDATION_DESC: "§S$ASTRAL_PLANES_TITLE$§! is a rich narrative expansion allowing you to explore alternative dimensions and warp reality to your whim."
+ DLC_ASTRAL_PLANES_RECOMMENDATION_REC_1: "We are recommending §SAstral Planes§! as it pairs well with your §SOverlord§! DLC, allowing for further flexibility with Hyper Relays and Quantum Catapults."
+ DLC_ASTRAL_PLANES_RECOMMENDATION_REC_2: "We are recommending §SAstral Planes§! as it provides a new opportunity to explore the precursors found in §SAncient Relics§!."
  ASTRAL_ACTIONS: "Astral Actions"
  ASTRAL_ACTIONS_TAB_DISABLED: "Available with £physics£ §Y$tech_astral_harvesting$§! technology."
  ASTRAL_ACTION_REMAINING_USAGES: "($LEFT|0$/$TOTAL|0$)"

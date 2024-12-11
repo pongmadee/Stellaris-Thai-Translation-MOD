@@ -274,7 +274,7 @@
  MESSAGE_FAVOR_GAINED_TRADITION_TITLE:0 "ได้รับบุญคุณ/การสนับสนุน"
  MESSAGE_FAVOR_GAINED_TRADITION_DESC:0 "ต้องขอบคุณทักษะของทูตของเรา เราจึงได้รับได้รับการสนับสนุนจาก $WHO|Y$"
  tr_diplomacy_finish:0 "วัฒนธรรมการทูตสำเร็จ"
- tr_diplomacy_federation_xp_gain: "ค่าประสบการณ์สหพันธ์ต่อเดือน: §G+2§!\nน้ำหนักทางการทูต: §G+10%§!\nทูตที่มี: §G+1§!\nปลดล็อกการยกระดับ: §G+1§!"
+ tr_diplomacy_federation_xp_gain: "ค่าประสบการณ์สหพันธ์ต่อเดือน: §G+2§!\nน้ำหนักทางการทูต: §G+10%§!\nความจุของเจ้าหน้าที่: §G+1§!\nปลดล็อกการยกระดับ: §G+1§!"
  diplo_fed_xpboost: "$tr_diplomacy_finish$"
  tradition_adaptability:0 "การปรับตัว"
  tradition_adaptability_desc:0 "การปรับตัวคือการอยู่รอดและเหนือกว่า"

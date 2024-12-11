@@ -1,5 +1,8 @@
 ﻿l_english:
  ANCIENT_RELICS_TITLE: "Ancient Relics Story Pack"
+ DLC_ANCIENT_RELICS_RECOMMENDATION_DESC:1 "§SAncient Relics§! is a story pack that adds stories about past civilizations, and powerful ancient Relics."
+ DLC_ANCIENT_RELICS_RECOMMENDATION_SCIENCE_REC:1 "We're recommending §SAncient Relics§! as its Archaeology mechanics are relevant to this empire's scientific focus."
+ DLC_ANCIENT_RELICS_RECOMMENDATION_TRADITION_REC:1 "We're recommending §SAncient Relics§! as the makeup of this empire matches its themes of ancient cultures and the passage of time."
  minor_artifacts:0 "ศิลปวัตถุชั้นรอง"
  minor_artifacts_desc:1 "ศิลปวัตถุชั้นรอง ( £minor_artifacts£ ) เป็นตัวแทนของเทคโนโลยีอารยธรรมโบราณที่คลุมเครือซึ่งได้รับการกู้คืนโดยวิทยาศาสตร์ของเราและเรามีความเข้าใจเพียงบางส่วนเท่านั้น พวกมันมีอยู่ทั่วไปโดยมีมากกว่าวัตถุโบราณชิ้นสำคัญและสามารถใช้เพื่อเพิ่มเอฟเฟกต์ต่างๆต่อจักรวรรดิได้"
  artifact_actions:0 "การดำเนินการเกี่ยวกับศิลปวัตถุชั้นรอง"

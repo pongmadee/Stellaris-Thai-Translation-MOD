@@ -2663,6 +2663,8 @@
  building_machine_system_capital_nanotech_desc: "$building_machine_system_capital_desc$"
  hive_cant_purge_hive: "$TRIGGER_FAIL$We cannot purge uplifted parts of the hive."
  slavery_matrix_guided_sapience: "Sapient Specimens"
+ slavery_matrix_guided_sapience_tooltip: "§HSpecimen§! Pops cannot be employed to produce resources, but are instead kept around to produce £unity£ §HUnity§! and reduce housing usage."
+ slavery_matrix_guided_sapience_tooltip_delayed: "§LIn their simplicity, they serve a greater purpose.§!"
  job_organic_exhibit: "Organic Specimen"
  job_organic_exhibit_plural: "Organic Specimens"
  job_organic_exhibit_desc: "The uplifted organics enhance our drones' life-creation subroutines, infusing new perspectives and lessons into future projects."
