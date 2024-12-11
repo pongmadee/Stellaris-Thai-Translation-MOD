@@ -1,5 +1,9 @@
 ﻿l_english:
  NEMESIS_TITLE: "Nemesis"
+ DLC_NEMESIS_RECOMMENDATION_DESC:0 "§S$NEMESIS_TITLE$§! is an expansion in which the player will be able to determine the fate of a destabilizing galaxy."
+ DLC_NEMESIS_RECOMMENDATION_DIPLOMACY_REC:0 "We're recommending §S$NEMESIS_TITLE$§! as some of the variables you've selected suit its themes of diplomacy under pressure."
+ DLC_NEMESIS_RECOMMENDATION_ESPIONAGE_REC:0 "We're recommending §S$NEMESIS_TITLE$§! as the makeup of this empire suits its themes of subterfuge and manipulation."
+ DLC_NEMESIS_RECOMMENDATION_CRISIS_REC:0 "We're recommending §S$NEMESIS_TITLE$§! as the makeup of this empire suits its themes of becoming a menace to the entire galaxy."
  CRISIS_TITLE_TXT:1 "เลเวลไครซิส:"
  CRISIS_EFFECTS:1 "สรุป"
  CRISIS_SPECIAL_PROJECTS_TUTORIAL:1 "§HResearching Special Projects like this one will progress us further along the path of §PGalactic Nemesis§!.§!"

@@ -1,5 +1,7 @@
 ﻿l_english:
  DISTANT_STARS_TITLE: "Distant Stars Story Pack"
+ DLC_DISTANT_STARS_RECOMMENDATION_DESC:1 "§SDistant Stars§! is a story pack that enlivens the galaxy with stories about strange encounters and creatures, in the uncharted depths of space"
+ DLC_DISTANT_STARS_RECOMMENDATION_SCIENCE_REC:1 "We're recommending §SDistant Stars§! as some of the variables you've selected suit its content, centered as they are on exploring space and making new scientific discoveries."
  AIANOM_LUMP_CAT:0 "Orbital Debris"
  AIANOM_LUMP_CAT_desc:0 "Sensors register potentially interesting entities in orbit of [Root.GetName]."
  AIANOM_MININGDEPO_CAT:0 "Surface Pings"

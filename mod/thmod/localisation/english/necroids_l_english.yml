@@ -1,5 +1,8 @@
 ﻿l_english:
  NECROIDS_TITLE: "Necroids Species Pack"
+ DLC_NECROIDS_RECOMMENDATION_DESC:0 "§SNecroids§! is a flavor pack allowing you to play as a species embracing death."
+ DLC_NECROIDS_RECOMMENDATION_THEME_REC:0 "We're recommending §SNecroids§! as the makeup of this empire suits its themes of life and death."
+ DLC_NECROIDS_RECOMMENDATION_NECROPHAGE_REC:0 "We're recommending §SNecroids§! as its origin and civics bring new dimension to this style of gameplay."
  origin_necrophage:0 "ผีดิบเนโครเฟจ"
  origin_necrophage_desc:1 "This civilization evolved as a parasite, forced to feed off other sapient life forms to sustain itself. As it arrives on the galactic stage, other species will either be brought into the fold, or become its food. For the necrophage, there can be no other way."
  origin_tooltip_necrophage_effects:3 "- $HOMEWORLD$ ['concept_necrophage_elevation_chamber'] $NEW_LINE$- $SPECIES_TRAITS$ ['concept_necrophage_trait'] $NEW_LINE$- £pop£ §Iประชากรเผ่าพันธุ์รอง§! (ที่จะกลายเป็นเนโครเฟจ) : 12 $NEW_LINE$- ['concept_guaranteed_colonies']: ถูกแทนที่ด้วย ['concept_preftl_civilizations']"
@@ -256,7 +259,7 @@
  zombie_contract_manipulation_desc:0 "This empire fiddled with their zombie workers' contracts so that it's actually impossible to get out of debt."
  civic_hive_cordyceptic_drones:0 "โดรน Cordyceptic"
  civic_hive_cordyceptic_drones_desc:0 "Highly specialized drones capable of infecting simple hosts and issuing rudimentary commands make up the backbone of this hive's stellar defense."
- civic_tooltip_cordyceptic_drones:0 "- เริ่มเกมด้วย §G3§! §Hอะมีบาที่ถูกคืนชีพ§!\n- สิ่งมีชีวิตสัตว์อวกาศที่ถูกกำจัดจะถูกช่วยให้ฟื้นคืนชีพโดยอัตโนมัติ\n- สิ่งมีชีวิตลิไวธานที่ถูกกำจัดสามารถฟื้นคืนชีพได้เป็นบางครั้ง\n- $reanimator_effect_desc$\n- ได้รับ $genetic_material$ จากการฆ่าสัตว์อวกาศ\n"
+ civic_tooltip_cordyceptic_drones:0 "- Start the game with §G3§! §HReanimated Amoebas§!.\n- Defeated organic Space Fauna are automatically reanimated.\n- Defeated organic Leviathans can sometimes be resurrected.\n- $reanimator_effect_desc$\n- Gain $c_dna$ from killing Space Fauna.\n"
  MESSAGE_REANIMATION_COMPLETE_TITLE:0 "Reanimation Complete"
  MESSAGE_REANIMATION_COMPLETE_TIYANKI_DESC:0 "A new batch of reanimated Tiyanki is ready for us in $SYSTEM|Y$. The next lot is already underway."
  MESSAGE_REANIMATION_AMOEBA_TIYANKI_DESC:0 "A new batch of reanimated Amoeba is ready for us in $SYSTEM|Y$. The next lot is already underway."

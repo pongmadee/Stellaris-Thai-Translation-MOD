@@ -17,7 +17,7 @@
  UV_EYE_BEAM_MEDIUM: "$UV_EYE_BEAM$"
  UV_EYE_BEAM_LARGE: "$UV_EYE_BEAM$"
  UV_EYE_BEAM_EXTRA_LARGE: "$UV_EYE_BEAM$"
- XRAY_EYE_BEAM: "XRay Eye Beam"
+ XRAY_EYE_BEAM: "X-Ray Eye Beam"
  XRAY_EYE_BEAM_DESC: "Further modification of the retina allows more destructive lasers to fire along a shorter wavelength."
  XRAY_EYE_BEAM_SMALL: "$XRAY_EYE_BEAM$"
  XRAY_EYE_BEAM_MEDIUM: "$XRAY_EYE_BEAM$"

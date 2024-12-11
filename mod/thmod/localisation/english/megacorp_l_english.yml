@@ -1,5 +1,8 @@
 ﻿l_english:
  MEGACORP_TITLE: "MegaCorp"
+ DLC_MEGACORP_RECOMMENDATION_DESC:2 "§SMegacorp§! is an economy-focused expansion which brings greater complexity to commerce and helps you gain an upper hand in competitive markets."
+ DLC_MEGACORP_RECOMMENDATION_REASON_ECONOMY_REC:1 "We're recommending §SMegacorp§! as the makeup of this empire suits its commerce-focused mechanics and themes."
+ DLC_MEGACORP_RECOMMENDATION_REASON_SLAVERY_REC:1 "We're recommending §SMegacorp§! as the makeup of this empire suits one of its themes, namely the ruthless management of human resources."
  BASE_JOB_INPUT:1 "ค่าบำรุงรักษาของงาน(โดยประมาณ): $RESOURCES$"
  BASE_JOB_OUTPUT:1 "ผลผลิตของงาน(โดยประมาณ): $RESOURCES$"
  PLANET_BUILDQUEUE_UP:0 "$STARBASE_BUILDQUEUE_UP$"
@@ -4166,7 +4169,7 @@
  EMPIRE_VIEW_NUM_SYSTEMS:0 "ระบบดาว"
  EMPIRE_VIEW_NUM_COLONIES:0 "อาณานิคม"
  EMPIRE_VIEW_NUM_POPS:0 "ประชากร"
- EMPIRE_VIEW_SECTOR_CAPITAL:0 "เซ็กเตอร์ศูนย์กลาง"
+ EMPIRE_VIEW_SECTOR_CAPITAL:0 "ศูนย์กลางเซ็กเตอร์"
  SECTOR_FOCUS_DISABLED:1 "§Hปิด§!\nการสร้างของเซ็กเตอร์แบบอัตโนมัติถูกปิดใช้งาน\n\nดาวเคราะห์ทั้งหมดในเซ็กเตอร์นี้ที่มี §Hระบบบริหารดาวเคราะห์อัตโนมัติ§! เป็นของตัวเอง ถูกเปลี่ยนเป็น §Hปิด§!\n\nการตั้งค่าด้วยตนเองของ §Hระบบบริหารดาวเคราะห์อัตโนมัติ§! เปิด/ปิด จะมีผลแทนที่ §Hระบบบริหารเซ็กเตอร์อัตโนมัติ§! (ยึดระบบบริหารดาวเป็นหลักโดยไม่สนใจระบบบริหารเซ็กเตอร์)"
  RENAME_SECTOR_TITLE:0 "เปลี่ยนชื่อเซ็กเตอร์"
  SECTOR_TRANSFER_RESOURCES:0 "ถ่ายโอนทรัพยากร"

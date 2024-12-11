@@ -1,5 +1,7 @@
 ﻿l_english:
  LEVIATHANS_TITLE: "Leviathans Story Pack"
+ DLC_LEVIATHANS_RECOMMENDATION_DESC:0 "§SLeviathans§! is a story pack that fills the galaxy with new adventures and challenges for space-faring empires."
+ DLC_LEVIATHANS_RECOMMENDATION_ROBOT_REC:1 "We're recommending §SLeviathans§! as the makeup of this empire suits its mechanics and content - namely, exploring space and facing up to large Space Fauna."
  station_xs:0 "Ancient Sentinel"
  station_xs_plural:0 "เซนติเนลโบราณ"
  station_s:0 "Ancient Defender"

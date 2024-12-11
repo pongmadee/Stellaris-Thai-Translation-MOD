@@ -1,5 +1,7 @@
 ﻿l_english:
  PARAGON_TITLE: "Galactic Paragons"
+ DLC_PARAGON_RECOMMENDATION_DESC:1 "§SGalactic Paragons§! is an expansion focused on leaders, the council managing your empire, and the agendas that influence your objectives on the galactic stage."
+ DLC_PARAGON_RECOMMENDATION_REC:1 "We're recommending §SGalactic Paragons§! as some of the choices you've selected suit its content."
  SECTOR_EDIT_VIEW:0 "แก้ไขเซ็กเตอร์"
  EDITING_SECTOR:0 "กำลังแก้ไขเซ็กเตอร์: $SECTOR_NAME|Y$"
  SECTOR_EDITOR_HELP:1 "§H$SECTOR_EDIT_VIEW$§!\nการใช้ §Hหน้าต่าง$SECTOR_EDIT_VIEW$§! คุณสามารถเพิ่มหรือลบระบบดาวที่เชื่อมต่อกันและคุณเป็นเจ้าของระบบได้อย่างอิสระภายในขอบเขตของ £sector_capital£§Yศูนย์กลางของเซ็กเตอร์§!\n$SEPARATOR$$SEPARATOR$$SEPARATOR$\n§Eเมื่อเปิดใช้งานให้ขยายเขตแดนเซ็กเตอร์อัตโนมัติ เซ็กเตอร์จะขยายเขตแดนโดยไม่ไปกินพื้นที่ของเซ็กเตอร์อื่นที่มีอยู่ก่อนหน้า§!"

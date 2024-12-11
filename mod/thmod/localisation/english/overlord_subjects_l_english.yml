@@ -871,6 +871,7 @@
  w_basic_plural: "£energy£ £minerals£ £food£ ทรัพยากรพื้นฐาน"
  w_advanced_plural: "£alloys£ £consumer_goods£ ทรัพยากรขั้นสูง"
  w_strategic_plural:0 "£rare_crystals£ £exotic_gases£ £volatile_motes£ ทรัพยากรเชิงยุทธศาสตร์"
+ w_food: "£food£ $food$"
  resource_subsidies_basic:1 "พื้นฐาน"
  resource_subsidies_advanced:1 "ขั้นสูง"
  resource_subsidies_research:1 "วิจัย"
