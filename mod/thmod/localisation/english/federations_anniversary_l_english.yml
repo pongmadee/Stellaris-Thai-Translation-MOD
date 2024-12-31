@@ -212,7 +212,7 @@
  envoy_events.6.name:0 "Murder on [From.Capital.GetName]!"
  envoy_events.6.desc:0 "[event_envoy.GetName] - the envoy we sent to mediate our disagreements with the [From.GetName] - has been murdered! [event_envoy.GetSheHeCap] disappeared without a trace several days ago, missing [event_envoy.GetHerHis] scheduled sync with the [Root.GetRulerTitle]'s council. After several days of searching, [event_envoy.GetHerHis] remains were found in a storage container destined to be incinerated.\n\nThe [From.GetAdj] authorities have been strangely evasive when asked to investigate, arousing suspicions that they were behind the killing - especially since [event_envoy.GetName] had been highly critical of the [From.GetGovernmentName] in recent times."
  envoy_events.6.A:0 "They will pay for this."
- kills_envoys:0 "Envoy Disappearances"
+ kills_envoys:0 "ทูตไม่ปรากฏตัว"
  kills_envoys_desc:0 "For some reason, foreign envoys' propensity to meet a sticky demise on our capital has affected our standing among our galactic peers."
  faction_modifier_protected_interests:0 "Protected Our Interests"
  opinion_kills_envoys:0 "Envoy Assassination"
