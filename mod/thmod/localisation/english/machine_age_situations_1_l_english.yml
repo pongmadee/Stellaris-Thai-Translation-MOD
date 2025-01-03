@@ -64,7 +64,7 @@
  job_augmentor_drone_assembly_desc: "$job_augmentor_drone_plural$ merge [Owner.Species.GetFleshTypeCyberCreed] and machine."
  job_augmentor_drone_assembly_effect_desc: "$job_augmentor_drone_plural_with_icon$ provide $r_engineering$, $r_amenities$, $m_pop_growth$, and $m_pop_assembly_organic$"
  mod_job_augmentor_drone_add: "งาน $job_augmentor_drone$"
- mod_job_augmentor_drone_per_pop: "§G+1§! $job_augmentor_drone$ Job per $VALUE$ Pops"
+ mod_job_augmentor_drone_per_pop: "§G+1§! งาน $job_augmentor_drone$ ต่อ $VALUE$ ประชากร"
  mod_job_augmentor_drone_per_pop_short: "\n§G+1§! £mod_job_augmentor_drone_add£ per $VALUE$ £pop£"
  mod_planet_jobs_specialist_unity_produces_mult: "$pop_cat_specialist$ Unity Output"
  worker_unity_produces: "$pop_cat_worker$ Unity Output"

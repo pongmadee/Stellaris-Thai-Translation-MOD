@@ -163,7 +163,7 @@
  job_fe_maintenance_bot_plural:0 "Caretakers"
  job_fe_maintenance_bot_desc:0 "These ancient machines tirelessly maintain and repair the decaying machinery of the ringworld on which they reside."
  mod_job_fe_maintenance_bot_add:0 "$job_fe_maintenance_bot$ Jobs"
- mod_job_fe_maintenance_bot_per_pop:0 "§G+1§! $job_fe_maintenance_bot$ Job per $VALUE$ Pops"
+ mod_job_fe_maintenance_bot_per_pop:0 "§G+1§! งาน $job_fe_maintenance_bot$ ต่อ $VALUE$ ประชากร"
  mod_job_fe_maintenance_bot_per_pop_short:0 "\n§G+1§! £mod_job_maintenance_drone_add£ per $VALUE$ £pop£"
  job_fe_guardian_bot:0 "Guardian"
  job_fe_guardian_bot_plural:0 "Guardians"
