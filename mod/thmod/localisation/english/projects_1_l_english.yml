@@ -26,7 +26,7 @@
  ROCK_FACE_PROJECT:0 "Analyze Rock Face"
  ROCK_FACE_PROJECT_DESC:0 "On the surface of [From.GetName], we have come across a rock formation that looks just like the face of a [Root.Owner.GetSpeciesName]. We must determine whether this is just a coincidence or if there is more to it."
  TRANSLATE_MURAL_PROJECT:0 "Translate Alien Mural"
- TRANSLATE_MURAL_PROJECT_DESC:0 "An ancient mural covered in alien letters has been found on [From.GetName]. If they are given enough resources, our linguists are confident they can translate the writing."
+ TRANSLATE_MURAL_PROJECT_DESC:0 "An ancient mural covered in alien letters has been found on [From.GetName]. With dedicated resources, we should be able to translate the writing."
  MUTANT_SURVIVORS_PROJECT:0 "Investigate Mutants"
  MUTANT_SURVIVORS_PROJECT_DESC:0 "Mutated figures have been sighted on [From.GetName] - possibly the descendants of the [From.GetPlanetMoon]'s original inhabitants. We need to learn more about them to see what we are up against."
  UNDERGROUND_FACILITY_PROJECT:0 "Investigate Underground Facility"

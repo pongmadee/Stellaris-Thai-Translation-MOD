@@ -605,7 +605,7 @@ guiTypes = {
 		buttonType = {
 			name = "select"
 			spriteType = "GFX_tech_option_button"
-			position = { x= 0 y= 0  }
+			position = { x= -1 y= 0 }
 			clicksound = "research_click_01"
 		}
 
