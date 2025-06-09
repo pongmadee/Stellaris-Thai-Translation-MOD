@@ -822,7 +822,7 @@
  MSI_SLAVER_fossil_plural:0 "$HUM_fossil_plural$"
  MSI_SLAVER_remnant:0 "$HUM_remnant$"
  MSI_SLAVER_remnant_plural:0 "$HUM_remnant_plural$"
- SOLARPUNK:0 "Sustainable"
+ SOLARPUNK:0 "Solarpunk"
  Human:0 "มนุษย์"
  Human_adj:0 "มนุษย์"
  Human_plural:0 "มนุษย์"

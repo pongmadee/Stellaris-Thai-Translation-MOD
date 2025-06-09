@@ -584,7 +584,7 @@ guiTypes = {
 			name = "budget"
 			position = { x=0 y=0 }
 			size = { width = 563 height = 598 }
-			#moveable = 0
+			#moveable = no
 			dontRender = ""
 			#horizontalBorder = ""
 
@@ -617,7 +617,7 @@ guiTypes = {
 				name = "income_window"
 				position = { x=5 y=0 }
 				size = { width = 285 height = 300 }
-				#moveable = 0
+				#moveable = no
 				dontRender = ""
 				#horizontalBorder = ""
 
@@ -682,7 +682,7 @@ guiTypes = {
 				name = "expenses_window"
 				position = { x=285 y=0 }
 				size = { width = 260 height = 300 }
-				#moveable = 0
+				#moveable = no
 				dontRender = ""
 				#horizontalBorder = ""
 
@@ -748,7 +748,7 @@ guiTypes = {
 				name = "balance_window"
 				position = { x=285 y=282 }
 				size = { width = 260 height = 45 }
-				#moveable = 0
+				#moveable = no
 				dontRender = ""
 				#horizontalBorder = ""
 
