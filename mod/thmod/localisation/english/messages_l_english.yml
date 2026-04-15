@@ -319,7 +319,7 @@
  LEADER_DEATH_AGE:0 "$CLASS|Y$ $LEADER|Y$ เสียชีวิตเมื่ออายุได้ $AGE|Y$ ปี"
  LEADER_RETIRED_DESC:0 "$CLASS|Y$ $LEADER|Y$ เกษียณเมื่ออายุ $AGE|Y$"
  TOOLTIP_KILL_LEADER:0 "$CLASS|Y$ $LEADER|Y$ §Rตาย§!"
- TOOLTIP_FIRE_LEADER: "$CLASS|Y$ $LEADER|Y$ §Ris fired§!"
+ TOOLTIP_FIRE_LEADER: "$CLASS|Y$ $LEADER|Y$ §Rถูกไล่ออก§!"
  MESSAGE_LEADER_EXPERIENCE_TITLE:0 "ผู้นำได้รับประสบการณ์"
  LEADER_EXPERIENCE_NOTIFICATION_DESC:0 "§T$CLASS|Y$ $LEADER|Y$ gained experience from combat\n\n$STATS$§!"
  MESSAGE_LEADER_LEVEL_UP_TITLE:1 "ผู้นำเลเวลอัป"
