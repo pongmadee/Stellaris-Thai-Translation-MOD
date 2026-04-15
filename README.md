@@ -6,7 +6,7 @@
 
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 4.0.x "Phoenix" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 4.3.x "Cetus" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
  :heavy_check_mark: รองรับโหมดช่วยกันเล่น (Co-op) <br/>
@@ -21,11 +21,13 @@
 *  Galactic Paragons
 *  Overlord
 *  The Machine Age
+*  BioGenesis
 
 ### Story Pack DLC ที่รองรับ
 *  Synthetic Dawn
 *  Leviathans
 *  Ancient Relics
+*  Grand Archive
 
 ### Mechanical DLC ที่รองรับ
 *  Cosmic Storms

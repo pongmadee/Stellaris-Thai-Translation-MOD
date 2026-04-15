@@ -138,7 +138,7 @@
  TRADITIONS_TAB_SHORT:0 "วัฒนธรรมและการยกระดับ"
  RELICS_TAB_SHORT:0 "วัตถุโบราณ"
  CRISIS_TAB_SHORT:0 "ไครซิส"
- CRISIS_TAB_DISABLED:1 "Only available with $TRAD|Y$, §Y$ap_cosmogenesis$§! or §Y$ap_behemoths$§! Ascension Perk"
+ CRISIS_TAB_DISABLED:1 "Requires one of the following §YAscension Perks§!: $TABBED_NEW_LINE$- ['ascension_perk:ap_become_the_crisis'] $TABBED_NEW_LINE$- ['ascension_perk:ap_cosmogenesis'] $TABBED_NEW_LINE$- ['ascension_perk:ap_behemoths'] $TABBED_NEW_LINE$- ['ascension_perk:ap_galactic_hyperthermia']"
  CRISIS_TAB_DESC:2 ""
  new_crisis_perks_tt:0 "\n§GNew Crisis Perks have been unlocked§!"
  can_advance_crisis_progression:0 "We are progressing towards unlocking the next level of our §YCrisis Progression§!"
